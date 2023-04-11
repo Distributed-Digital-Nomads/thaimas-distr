@@ -1,0 +1,14 @@
+[
+  {
+    "isoCode": "en",
+    "localizeFileName": "english",
+    "englishName": "English",
+    "localName": "English"
+  },
+  {
+    "isoCode": "th",
+    "localizeFileName": "th",
+    "englishName": "Thai",
+    "localName": "ภาษาไทย"
+  } 
+]
