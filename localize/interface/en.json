@@ -21,6 +21,5 @@
   {"ifi": 111, "text": "Terms & Conditions", "bigText": false},
   {"ifi": 112, "text": "Use promo code", "bigText": false},
   {"ifi": 200, "text": "Copied", "bigText": false, "note": "from 200 to 1999 any interface texts"},
-  {"ifi": 201, "text": "", "bigText": false},
-  {"ifi": 201, "text": "", "bigText": false},
+  {"ifi": 201, "text": "", "bigText": false}
 ]
