@@ -1,7 +1,7 @@
 [
   {
     "isoCode": "en",
-    "localizeFileName": "english",
+    "localizeFileName": "en",
     "englishName": "English",
     "localName": "English"
   },
@@ -10,5 +10,11 @@
     "localizeFileName": "th",
     "englishName": "Thai",
     "localName": "ภาษาไทย"
-  } 
+  },
+  {
+    "isoCode": "ru",
+    "localizeFileName": "ru",
+    "englishName": "Russian",
+    "localName": "Русский"
+  }
 ]
