@@ -6,7 +6,7 @@
   {"ifi": 4, "text": "Cancel", "bigText": false},
   {"ifi": 5, "text": "Close", "bigText": false},
   {"ifi": 6, "text": "Couldn't connect to iol network. Will try few seconds later..", "bigText": false},
-  {"ifi": 20, "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/docs/en/tc.htm", "bigText": true},
+  {"ifi": 20, "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/docs/th/tc.htm", "bigText": true},
   {"ifi": 100, "text": "Main menu", "bigText": false},
   {"ifi": 101, "text": "Log In with NiXeL", "bigText": false, "note": "from 100 to 199 about menu"},
   {"ifi": 102, "text": "Log Out", "bigText": false},
