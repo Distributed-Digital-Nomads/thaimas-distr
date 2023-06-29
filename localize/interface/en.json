@@ -405,6 +405,7 @@
     "text": "Important",
     "bigText": false
   },
+  {"ifi": 81, "text": "Will be available after the BomEbo open test is completed", "bigText": false},
   {
     "ifi": 100,
     "text": "Main menu",
