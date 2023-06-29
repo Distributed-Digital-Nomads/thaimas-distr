@@ -1,49 +1,1402 @@
 [
-  {"ifi": 0, "text": " ", "bigText": false},
-  {"ifi": 1, "text": "BomEbo", "bigText": false},
-  {"ifi": 2, "text": "Thai Massage", "bigText": false},
-  {"ifi": 3, "text": "OK", "bigText": false},
-  {"ifi": 4, "text": "Cancel", "bigText": false},
-  {"ifi": 5, "text": "Close", "bigText": false},
-  {"ifi": 6, "text": "Couldn't connect to iol network. Will try few seconds later..", "bigText": false},
-  {"ifi": 7, "text": "Please, wait a little for connection", "bigText": false},
-  {"ifi": 8, "text": "This feature will be available as soon as it's developed. During the crowdfunding and MSPP campaign we continue spend funds to the BomEbo development. You are able to update the iol app according news during the campaing and always after. Wanna earn GOOD MONEY on the project using just internet? You can start right NOW even during development! Just enter empty Promo code in the \"Use promo code\" menu, learn MSPP conditions of the project and become our remote Promo Agent.", "bigText": false},
-  {"ifi": 9, "text": "You should log in for this feature", "bigText": false},
-  {"ifi": 10, "text": "Username in NiXeL app", "bigText": false},
-  {"ifi": 11, "text": "3-50 symbols", "bigText": false},
-  {"ifi": 12, "text": "Apply", "bigText": false},
-  {"ifi": 13, "text": "Accept", "bigText": false},
-  {"ifi": 14, "text": "Decline", "bigText": false},
-  {"ifi": 15, "text": "Save", "bigText": false},
-  {"ifi": 16, "text": "Enter", "bigText": false},
-  {"ifi": 17, "text": "Yes", "bigText": false},
-  {"ifi": 18, "text": "No", "bigText": false},
-  {"ifi": 19, "text": "Please, wait a little for app ready", "bigText": false},
-  {"ifi": 20, "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/docs/en/tc.htm", "bigText": true},
-  {"ifi": 21, "text": "Current promo", "bigText": false},
-  {"ifi": 22, "text": "https://youtu.be/Ym5Hg9Dzq5M", "bigText": false, "note": "Link to current promo website"},
-  {"ifi": 100, "text": "Main menu", "bigText": false},
-  {"ifi": 101, "text": "Log In with NiXeL", "bigText": false, "note": "from 100 to 199 about menu"},
-  {"ifi": 102, "text": "Log Out", "bigText": false},
-  {"ifi": 103, "text": "Profile in BomEbo", "bigText": false},
-  {"ifi": 104, "text": "Safety settings", "bigText": false},
-  {"ifi": 105, "text": "App language", "bigText": false},
-  {"ifi": 106, "text": "App Settings", "bigText": false},
-  {"ifi": 107, "text": "Order massage", "bigText": false},
-  {"ifi": 108, "text": "Offer massage", "bigText": false},
-  {"ifi": 109, "text": "Show on map & list", "bigText": false},
-  {"ifi": 110, "text": "FAQ & Support", "bigText": false},
-  {"ifi": 111, "text": "Terms & Conditions", "bigText": false},
-  {"ifi": 112, "text": "Use promo code", "bigText": false},
-  {"ifi": 200, "text": "Copied", "bigText": false, "note": "from 200 to 1999 any interface texts"},
-  {"ifi": 201, "text": "Smart order", "bigText": false},
-  {"ifi": 202, "text": "Choose address", "bigText": false},
-  {"ifi": 203, "text": "Safety settings allow you to share your location during job to the users that you include in the safety settings. The users will be notified about your job state changes", "bigText": false},
-  {"ifi": 204, "text": "Add user", "bigText": false},
-  {"ifi": 205, "text": "Remove", "bigText": false},
-  {"ifi": 206, "text": "Share location during jobs", "bigText": false},
-  {"ifi": 207, "text": "Share microphone during jobs", "bigText": false},
-  {"ifi": 208, "text": "Promo code", "bigText": false},
-  {"ifi": 209, "text": "Couldn't find the promo code. Would you like to get the current promo?", "bigText": false},
-  {"ifi": 210, "text": "", "bigText": false}
+  {
+    "ifi": 0,
+    "text": " ",
+    "bigText": false
+  },
+  {
+    "ifi": 1,
+    "text": "BomEbo",
+    "bigText": false
+  },
+  {
+    "ifi": 2,
+    "text": "Тай массаж",
+    "bigText": false
+  },
+  {
+    "ifi": 3,
+    "text": "OK",
+    "bigText": false
+  },
+  {
+    "ifi": 4,
+    "text": "Отмена",
+    "bigText": false
+  },
+  {
+    "ifi": 5,
+    "text": "Закрыть",
+    "bigText": false
+  },
+  {
+    "ifi": 6,
+    "text": "Не получилось подключиться к сети iol. Попытаюсь через  несколько секунд..",
+    "bigText": false
+  },
+  {
+    "ifi": 7,
+    "text": "Пожалуйста, подождите немножко подключения",
+    "bigText": false
+  },
+  {
+    "ifi": 8,
+    "text": "Этот функционал пока не доступен для публичного тестирования. Следите за новостями. \n В течении краудфандинг и MSPP кампаний мы будем тратить средства на разработку. Вы можете обновлять этот iol апп в течении кампаний соответствии с новостями и в последующем. \n Хочешь зарабатывать ХОРОШИЕ ДЕНЬГИ на проекте просто пользуясь интернет? Начни это прямо СЕЙЧАС пока идет разработка! Просто введи пустой Промокод в меню \"Использовать промокод\", изучи условия MSPP этого проекта и стань удаленным промо агентом.",
+    "bigText": false
+  },
+  {
+    "ifi": 9,
+    "text": "Необходимо Войти для использования этого функционала",
+    "bigText": false
+  },
+  {
+    "ifi": 10,
+    "text": "Имя пользователя в NiXeL апп",
+    "bigText": false
+  },
+  {
+    "ifi": 11,
+    "text": "3-50 знаков",
+    "bigText": false
+  },
+  {
+    "ifi": 12,
+    "text": "Применить",
+    "bigText": false
+  },
+  {
+    "ifi": 13,
+    "text": "Принять",
+    "bigText": false
+  },
+  {
+    "ifi": 14,
+    "text": "Отклонить",
+    "bigText": false
+  },
+  {
+    "ifi": 15,
+    "text": "Сохранить",
+    "bigText": false
+  },
+  {
+    "ifi": 16,
+    "text": "Ввести",
+    "bigText": false
+  },
+  {
+    "ifi": 17,
+    "text": "Да",
+    "bigText": false
+  },
+  {
+    "ifi": 18,
+    "text": "Нет",
+    "bigText": false
+  },
+  {
+    "ifi": 19,
+    "text": "Пожалуйста, подождите немножко готовности приложения",
+    "bigText": false
+  },
+  {
+    "ifi": 20,
+    "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/docs/ru/tc.htm",
+    "bigText": true
+  },
+  {
+    "ifi": 21,
+    "text": "Презентация и демонстрация BomEbo",
+    "bigText": false
+  },
+  {
+    "ifi": 22,
+    "text": "https://www.youtube.com/watch?v=ktQJT8LTzoM&list=PLjwIP64KxSmpa1AIqqnJjKQ4w9DoTTJOi&index=1",
+    "bigText": false,
+    "note": "Link to the presentation"
+  },
+  {
+    "ifi": 23,
+    "text": "{{appName}} iol апп необходим для этого функционала, но он не установлен. Пожалуйста, установите его и попробуйте снова",
+    "bigText": false
+  },
+  {
+    "ifi": 24,
+    "text": "Выберите стор приложений",
+    "bigText": false
+  },
+  {
+    "ifi": 25,
+    "text": "Предложение",
+    "bigText": false
+  },
+  {
+    "ifi": 26,
+    "text": "Заказ",
+    "bigText": false
+  },
+  {
+    "ifi": 27,
+    "text": "Предложение",
+    "bigText": false
+  },
+  {
+    "ifi": 28,
+    "text": "Спрос",
+    "bigText": false
+  },
+  {
+    "ifi": 29,
+    "text": "Начать работу",
+    "bigText": false
+  },
+  {
+    "ifi": 30,
+    "text": "Приостановить работу",
+    "bigText": false
+  },
+  {
+    "ifi": 31,
+    "text": "Продолжить работу",
+    "bigText": false
+  },
+  {
+    "ifi": 32,
+    "text": "Завершить работу",
+    "bigText": false
+  },
+  {
+    "ifi": 33,
+    "text": "Установить на рынке",
+    "bigText": false
+  },
+  {
+    "ifi": 34,
+    "text": "Описание",
+    "bigText": false
+  },
+  {
+    "ifi": 35,
+    "text": "Заметки",
+    "bigText": false
+  },
+  {
+    "ifi": 36,
+    "text": "Час",
+    "bigText": false
+  },
+  {
+    "ifi": 37,
+    "text": "КМ",
+    "bigText": false
+  },
+  {
+    "ifi": 38,
+    "text": "Валюта",
+    "bigText": false
+  },
+  {
+    "ifi": 39,
+    "text": "Выбрать",
+    "bigText": false
+  },
+  {
+    "ifi": 40,
+    "text": "Дата",
+    "bigText": false
+  },
+  {
+    "ifi": 41,
+    "text": "Время",
+    "bigText": false
+  },
+  {
+    "ifi": 42,
+    "text": "Смарт-ордер",
+    "bigText": false
+  },
+  {
+    "ifi": 43,
+    "text": "Требуется",
+    "bigText": false
+  },
+  {
+    "ifi": 44,
+    "text": "Проверьте данные/форму",
+    "bigText": false
+  },
+  {
+    "ifi": 45,
+    "text": "Шаг",
+    "bigText": false
+  },
+  {
+    "ifi": 46,
+    "text": "Сообщения",
+    "bigText": false
+  },
+  {
+    "ifi": 47,
+    "text": "Новый заказ",
+    "bigText": false
+  },
+  {
+    "ifi": 48,
+    "text": "Игнор",
+    "bigText": false
+  },
+  {
+    "ifi": 49,
+    "text": "Новое предложение",
+    "bigText": false
+  },
+  {
+    "ifi": 50,
+    "text": "Вы наняты",
+    "bigText": false
+  },
+  {
+    "ifi": 51,
+    "text": "Смарт-контракт",
+    "bigText": false
+  },
+  {
+    "ifi": 52,
+    "text": "Показать отзывы",
+    "bigText": false
+  },
+  {
+    "ifi": 53,
+    "text": "Массажист",
+    "bigText": false
+  },
+  {
+    "ifi": 54,
+    "text": "Заказчик",
+    "bigText": false
+  },
+  {
+    "ifi": 55,
+    "text": "Выберите метод оплаты",
+    "bigText": false
+  },
+  {
+    "ifi": 56,
+    "text": "Валюта в NiXeL",
+    "bigText": false
+  },
+  {
+    "ifi": 57,
+    "text": "Место работы",
+    "bigText": false
+  },
+  {
+    "ifi": 58,
+    "text": "Оценочная стоимость",
+    "bigText": false
+  },
+  {
+    "ifi": 59,
+    "text": "Наличные",
+    "bigText": false
+  },
+  {
+    "ifi": 60,
+    "text": "IOU в NiXeL",
+    "bigText": false
+  },
+  {
+    "ifi": 61,
+    "text": "SINHRO в NiXeL",
+    "bigText": false
+  },
+  {
+    "ifi": 62,
+    "text": "Метод оплаты",
+    "bigText": false
+  },
+  {
+    "ifi": 63,
+    "text": "Отменить контракт",
+    "bigText": false
+  },
+  {
+    "ifi": 64,
+    "text": "Обновление контракта",
+    "bigText": false
+  },
+  {
+    "ifi": 65,
+    "text": "Комиссия",
+    "bigText": false
+  },
+  {
+    "ifi": 66,
+    "text": "Комиссия BomEbo",
+    "bigText": false
+  },
+  {
+    "ifi": 67,
+    "text": "Гонорар iol",
+    "bigText": false
+  },
+  {
+    "ifi": 68,
+    "text": "Включена комиссия за заказчика",
+    "bigText": false
+  },
+  {
+    "ifi": 69,
+    "text": "Вы подтверждаете действие?",
+    "bigText": false
+  },
+  {
+    "ifi": 70,
+    "text": "Доступна новая редакция BomEbo. Пожалуйста, обновите апп",
+    "bigText": false
+  },
+  {
+    "ifi": 71,
+    "text": "История действий",
+    "bigText": false
+  },
+  {
+    "ifi": 72,
+    "text": "Подтверждаю",
+    "bigText": false
+  },
+  {
+    "ifi": 73,
+    "text": "Готово",
+    "bigText": false
+  },
+  {
+    "ifi": 74,
+    "text": "Нельзя воспользоваться этой функцией в этом состоянии",
+    "bigText": false
+  },
+  {
+    "ifi": 75,
+    "text": "Удалить",
+    "bigText": false
+  },
+  {
+    "ifi": 76,
+    "text": "Сумма",
+    "bigText": false
+  },
+  {
+    "ifi": 77,
+    "text": "Этот фуеционал будет скоро готов. Пожалуста, следите за нашими новосяти",
+    "bigText": false
+  },
+  {
+    "ifi": 78,
+    "text": "Вы произвели вход. Ваши промо коды, сообщения и заказы работников без входа привязались к Вашей учетной записи и доступны Вам с других устроиств только после входа",
+    "bigText": false
+  },
+  {
+    "ifi": 79,
+    "text": "Вы начали получать доход. Для сохранности успешности получения доходов Вам необходимо произвести вход",
+    "bigText": false
+  },
+  {
+    "ifi": 80,
+    "text": "Важно",
+    "bigText": false
+  },
+  {
+    "ifi": 100,
+    "text": "Главное меню",
+    "bigText": false
+  },
+  {
+    "ifi": 101,
+    "text": "Войти через NiXeL",
+    "bigText": false,
+    "note": "from 100 to 199 about menu"
+  },
+  {
+    "ifi": 102,
+    "text": "Выход",
+    "bigText": false
+  },
+  {
+    "ifi": 103,
+    "text": "Профиль в BomEbo",
+    "bigText": false
+  },
+  {
+    "ifi": 104,
+    "text": "Безопасность труда",
+    "bigText": false
+  },
+  {
+    "ifi": 105,
+    "text": "Язык приложения",
+    "bigText": false
+  },
+  {
+    "ifi": 106,
+    "text": "Настройки приложения",
+    "bigText": false
+  },
+  {
+    "ifi": 107,
+    "text": "Заказать массаж",
+    "bigText": false
+  },
+  {
+    "ifi": 108,
+    "text": "Предложить массаж",
+    "bigText": false
+  },
+  {
+    "ifi": 109,
+    "text": "На карте и списке",
+    "bigText": false
+  },
+  {
+    "ifi": 110,
+    "text": "Частые вопросы и поддержка",
+    "bigText": false
+  },
+  {
+    "ifi": 111,
+    "text": "Термины и Условия",
+    "bigText": false
+  },
+  {
+    "ifi": 112,
+    "text": "Использовать промокод",
+    "bigText": false
+  },
+  {
+    "ifi": 113,
+    "text": "Такой промокод не найден",
+    "bigText": false
+  },
+  {
+    "ifi": 114,
+    "text": "Ваш начальный посев",
+    "bigText": false
+  },
+  {
+    "ifi": 115,
+    "text": "Минимальная выгода",
+    "bigText": false
+  },
+  {
+    "ifi": 116,
+    "text": "Название промоакции",
+    "bigText": false
+  },
+  {
+    "ifi": 117,
+    "text": "Тип промоакции",
+    "bigText": false
+  },
+  {
+    "ifi": 118,
+    "text": "Не удалось зарегистрировать промо код для Вас, жаль. Попробуйте позже еще",
+    "bigText": false
+  },
+  {
+    "ifi": 119,
+    "text": "Ваши реквизиты для выплат",
+    "bigText": false
+  },
+  {
+    "ifi": 120,
+    "text": "Вы будете получать ваш промо агентские доходы на эти реквизиты",
+    "bigText": false
+  },
+  {
+    "ifi": 121,
+    "text": "Ваш посев, всего",
+    "bigText": false
+  },
+  {
+    "ifi": 122,
+    "text": "Ваш урожай",
+    "bigText": false
+  },
+  {
+    "ifi": 123,
+    "text": "Ваш код промоагента зарегестрирован в этой промо кампании, но все еще не активен. Никто не сможет использовать это как промокод пока Вы не завершите все необходимые шаги и Ваш промокод станет Действует. Пожалуйста, следуйте инструкциям и начните зарабатывать с Вашим промокодом",
+    "bigText": false
+  },
+  {
+    "ifi": 124,
+    "text": "Ваш код промоагента",
+    "bigText": false
+  },
+  {
+    "ifi": 125,
+    "text": "Ваши контакты",
+    "bigText": false
+  },
+  {
+    "ifi": 126,
+    "text": "Контакты могут использованы при необходимости. Например, в случаях проблем с платежами и т.п.",
+    "bigText": false
+  },
+  {
+    "ifi": 127,
+    "text": "Один шаг до активации Вашего кода агента: сумма Вашего посева распределяется по в сосуды вашей труппы промоагентов и поддержку запуска/раскуртки BomEbo. Ваш сосуд появится у агентов последователей использовавших Ваш промокод и их последеователей",
+    "bigText": false
+  },
+  {
+    "ifi": 128,
+    "text": "Обратно на мой счет",
+    "bigText": false
+  },
+  {
+    "ifi": 129,
+    "text": "Вы посеяли",
+    "bigText": false
+  },
+  {
+    "ifi": 130,
+    "text": "Ожидает Вашего посева",
+    "bigText": false
+  },
+  {
+    "ifi": 131,
+    "text": "Реквизиты для посева",
+    "bigText": false
+  },
+  {
+    "ifi": 132,
+    "text": "Я перевел(а)",
+    "bigText": false
+  },
+  {
+    "ifi": 133,
+    "text": "Ваша труппа промоагентов",
+    "bigText": false
+  },
+  {
+    "ifi": 134,
+    "text": "Ваш DC-MSPP баланс",
+    "bigText": false
+  },
+  {
+    "ifi": 135,
+    "text": "Управление промо",
+    "bigText": false
+  },
+  {
+    "ifi": 136,
+    "text": "Поздравляем, Вы получили специальный промокод маркированный как для Независимого Промо Управляющего {{mark}}. Мы будем добавлять дополнительные {{bonus}}% от платежей последователей 4-х уровней этого промокода предназначенных для Local iol Escrow",
+    "bigText": false
+  },
+  {
+    "ifi": 137,
+    "text": "Увеличить посев",
+    "bigText": false
+  },
+  {
+    "ifi": 138,
+    "text": "Уведомление о Вашем платеже отправлено владельцу счёта/сосуда. Данные этого промокода будут обновлены как только как система получит подтверждение платежа. Если не бдет подтверждения в течении 5 дней + выходные, то можете воспользоваться 'Требование подтверждения' для предоставления доказательств админам BomEbo и связи со владельцем счёта напрямую. Промокоды владельцев счетов, которые получили платежи но не подтвердили в течении 7 дней могут быть заблокированы.",
+    "bigText": false
+  },
+  {
+    "ifi": 139,
+    "text": "Требование подтверждения",
+    "bigText": false
+  },
+  {
+    "ifi": 140,
+    "text": "Получали?",
+    "bigText": false
+  },
+  {
+    "ifi": 141,
+    "text": "Ожидание подтверждения",
+    "bigText": false
+  },
+  {
+    "ifi": 142,
+    "text": "Приготовьте подтверждение вашего платежа для загрузки в приложение: скриншот электронной или фото бумажной квитанции и выписки из банка. Мы заботимся о репутации BomEbo и безопасности наших пользователей, ценим время и труд нашей команды. Поэтому, согласно условиям приложения и правилам экосистемы iol, пользователи предеоставляющие не достоверные данные исключаются из промо а их iol аккаунты могут заблокированы",
+    "bigText": false
+  },
+  {
+    "ifi": 143,
+    "text": "Вывести",
+    "bigText": false
+  },
+  {
+    "ifi": 144,
+    "text": "В промо в другой валюте",
+    "bigText": false
+  },
+  {
+    "ifi": 145,
+    "text": "В долью распределения комиссий",
+    "bigText": false
+  },
+  {
+    "ifi": 146,
+    "text": "На баланс оплаты комиссий",
+    "bigText": false
+  },
+  {
+    "ifi": 147,
+    "text": "Поменять на рейтинг в BomEbo",
+    "bigText": false
+  },
+  {
+    "ifi": 148,
+    "text": "Посмотреть как ухаживает за посевом",
+    "bigText": false
+  },
+  {
+    "ifi": 149,
+    "text": "Уход за посевом",
+    "bigText": false
+  },
+  {
+    "ifi": 150,
+    "text": "Позаботьтесь о своем промо-бизнесе: <br> 1. Поделитесь своим промокодом в мессенджерах и социальных сетях, нажав на {{shareIcon}} рядом с вашим промокодом в верхней части этого окна. <br> 2. Потратьте не менее 1 часа в неделю на создание коротких видео или статей о вашей промо-работе в BomEbo, сделайте скриншоты ваших результатов и короткие демонстрации того, как вы выполняете эту промо-работу. Рекомендуйте людям использовать ваш промокод. Загрузите их на YouTube или другие платформы. <br> 3. Введите эти ссылки в форму ниже. Наша система покажет их другим.",
+    "bigText": false
+  },
+  {
+    "ifi": 151,
+    "text": "Название ресурса",
+    "bigText": false
+  },
+  {
+    "ifi": 152,
+    "text": "URL адрес",
+    "bigText": false
+  },
+  {
+    "ifi": 153,
+    "text": "Вы можете потребовать подтверждение после 5 дней + выходные как отправили/посеяли сумму",
+    "bigText": false
+  },
+  {
+    "ifi": 154,
+    "text": "Инитциализировано требование подтверждения",
+    "bigText": false
+  },
+  {
+    "ifi": 155,
+    "text": "Послать требование",
+    "bigText": false
+  },
+  {
+    "ifi": 156,
+    "text": "Теперь можете послать Ваше требование. Будет сгененрировано эл. письмо владельцу посуды агента с копией для iol. Обязательно прикрепите все доказательства Вашего платежа, которые требовалось у Вас подготовить",
+    "bigText": false
+  },
+  {
+    "ifi": 200,
+    "text": "Скопировано",
+    "bigText": false,
+    "note": "from 200 to 1999 any interface texts"
+  },
+  {
+    "ifi": 201,
+    "text": "Уже сделано",
+    "bigText": false
+  },
+  {
+    "ifi": 202,
+    "text": "Укажите адрес",
+    "bigText": false
+  },
+  {
+    "ifi": 203,
+    "text": "Настройки безопасности труда позволяет Вам делиться местонахождением в течении работы с пользователями, которых Вы включили в настройках. Эти пользователи получат уведомления об изменениях состояний работы",
+    "bigText": false
+  },
+  {
+    "ifi": 204,
+    "text": "Добавить пользователя",
+    "bigText": false
+  },
+  {
+    "ifi": 205,
+    "text": "Удалить",
+    "bigText": false
+  },
+  {
+    "ifi": 206,
+    "text": "Делиться местонахождением во время работы",
+    "bigText": false
+  },
+  {
+    "ifi": 207,
+    "text": "Делиться микрофоном во время работы",
+    "bigText": false
+  },
+  {
+    "ifi": 208,
+    "text": "Промокод",
+    "bigText": false
+  },
+  {
+    "ifi": 209,
+    "text": "Не нашел промокод. Хотите получить в текущее промо?",
+    "bigText": false
+  },
+  {
+    "ifi": 210,
+    "text": "Я делаю",
+    "bigText": false
+  },
+  {
+    "ifi": 211,
+    "text": "Цена за 1 час",
+    "bigText": false
+  },
+  {
+    "ifi": 212,
+    "text": "Я обслуживаю местность",
+    "bigText": false
+  },
+  {
+    "ifi": 213,
+    "text": "Центр",
+    "bigText": false
+  },
+  {
+    "ifi": 214,
+    "text": "Радиус",
+    "bigText": false
+  },
+  {
+    "ifi": 215,
+    "text": "Установить местность",
+    "bigText": false
+  },
+  {
+    "ifi": 216,
+    "text": "Варианты оплаты",
+    "bigText": false
+  },
+  {
+    "ifi": 217,
+    "text": "Я даю",
+    "bigText": false
+  },
+  {
+    "ifi": 218,
+    "text": "Я принимаю",
+    "bigText": false
+  },
+  {
+    "ifi": 219,
+    "text": "Я могу заплатить наличными",
+    "bigText": false
+  },
+  {
+    "ifi": 220,
+    "text": "Я могу дать IOU",
+    "bigText": false
+  },
+  {
+    "ifi": 221,
+    "text": "Я могу дать SINHRO",
+    "bigText": false
+  },
+  {
+    "ifi": 222,
+    "text": "Я принимаю наличные",
+    "bigText": false
+  },
+  {
+    "ifi": 223,
+    "text": "Можно в обмен на IOU",
+    "bigText": false
+  },
+  {
+    "ifi": 224,
+    "text": "Можно в обмен на SINHRO",
+    "bigText": false
+  },
+  {
+    "ifi": 225,
+    "text": "Если Вы не платите наличными, то Вам необходимо Войти",
+    "bigText": false
+  },
+  {
+    "ifi": 226,
+    "text": "Я плачу налоги",
+    "bigText": false
+  },
+  {
+    "ifi": 227,
+    "text": "Название налогов",
+    "bigText": false
+  },
+  {
+    "ifi": 228,
+    "text": "Налоговая ставка (%)",
+    "bigText": false
+  },
+  {
+    "ifi": 229,
+    "text": "Разделенные запятой: НДС, НДФЛ..",
+    "bigText": false
+  },
+  {
+    "ifi": 230,
+    "text": "Дополнительно сообщаю для заказчиков",
+    "bigText": false
+  },
+  {
+    "ifi": 231,
+    "text": "Напишите сюда что Вас отличает - Ваш опыт, языки, требования, исключения. Опишите что уникального в Вашем Фристайл Арт массаже",
+    "bigText": false
+  },
+  {
+    "ifi": 232,
+    "text": "Мне нужен",
+    "bigText": false
+  },
+  {
+    "ifi": 233,
+    "text": "Выерите массаж",
+    "bigText": false
+  },
+  {
+    "ifi": 234,
+    "text": "Валюта и ограничение",
+    "bigText": false
+  },
+  {
+    "ifi": 235,
+    "text": "Максимальная цена за 1 час",
+    "bigText": false
+  },
+  {
+    "ifi": 236,
+    "text": "На моем месте",
+    "bigText": false
+  },
+  {
+    "ifi": 237,
+    "text": "Адрес",
+    "bigText": false
+  },
+  {
+    "ifi": 238,
+    "text": "Массажист должен подойти к",
+    "bigText": false
+  },
+  {
+    "ifi": 239,
+    "text": "Место",
+    "bigText": false
+  },
+  {
+    "ifi": 240,
+    "text": "Установить адрес места",
+    "bigText": false
+  },
+  {
+    "ifi": 241,
+    "text": "Адрес для этого места не найден. BomEbo позволяет только места с адресами. Пожалуйста, выберите место внимательно",
+    "bigText": false
+  },
+  {
+    "ifi": 242,
+    "text": "Ничего не найдено",
+    "bigText": false
+  },
+  {
+    "ifi": 243,
+    "text": "Время работы",
+    "bigText": false
+  },
+  {
+    "ifi": 244,
+    "text": "Дата и время начала",
+    "bigText": false
+  },
+  {
+    "ifi": 245,
+    "text": "Ограничение по времени",
+    "bigText": false
+  },
+  {
+    "ifi": 246,
+    "text": "Дополнительная информация",
+    "bigText": false
+  },
+  {
+    "ifi": 247,
+    "text": "Предпочтения, ожидания и другие заметки",
+    "bigText": false
+  },
+  {
+    "ifi": 248,
+    "text": "Кличка в BomEbo",
+    "bigText": false
+  },
+  {
+    "ifi": 249,
+    "text": "Пол",
+    "bigText": false
+  },
+  {
+    "ifi": 250,
+    "text": "Обо мне",
+    "bigText": false
+  },
+  {
+    "ifi": 251,
+    "text": "Женщина",
+    "bigText": false
+  },
+  {
+    "ifi": 252,
+    "text": "Мужчина",
+    "bigText": false
+  },
+  {
+    "ifi": 253,
+    "text": "Другое",
+    "bigText": false
+  },
+  {
+    "ifi": 254,
+    "text": "Редактировать профиль",
+    "bigText": false
+  },
+  {
+    "ifi": 255,
+    "text": "Показать профиль в iol",
+    "bigText": false
+  },
+  {
+    "ifi": 256,
+    "text": "Длина",
+    "bigText": false
+  },
+  {
+    "ifi": 257,
+    "text": "Напишите что-нибудь интересно о себе",
+    "bigText": false
+  },
+  {
+    "ifi": 258,
+    "text": "Показать рейтинг",
+    "bigText": false
+  },
+  {
+    "ifi": 259,
+    "text": "Как массажист",
+    "bigText": false
+  },
+  {
+    "ifi": 260,
+    "text": "Как заказчик",
+    "bigText": false
+  },
+  {
+    "ifi": 261,
+    "text": "Профиль и рейтинг",
+    "bigText": false
+  },
+  {
+    "ifi": 262,
+    "text": "Местонахождение контрактора",
+    "bigText": false
+  },
+  {
+    "ifi": 263,
+    "text": "Открыть местонахождение контрактору",
+    "bigText": false
+  },
+  {
+    "ifi": 264,
+    "text": "Ваш контрактор еще не открыл местонахождение. Сторонам контракта (контракторам) предлагается открыть местонахождение друг-другу в реальном времени с напоминанием о работе за 30 минут до начала работы. Местонахождение доступно на время работы или до отмены контракта",
+    "bigText": false
+  },
+  {
+    "ifi": 265,
+    "text": "Ваше местонахождение будет доступно на время работы или до отмены контракта",
+    "bigText": false
+  },
+  {
+    "ifi": 266,
+    "text": "Скрыть контракт",
+    "bigText": false
+  },
+  {
+    "ifi": 267,
+    "text": "Данные заказчиков не доступны из карты",
+    "bigText": false
+  },
+  {
+    "ifi": 268,
+    "text": "Комиссия за заказчика будет включена в стоимость заказа",
+    "bigText": false
+  },
+  {
+    "ifi": 269,
+    "text": "Подтвердить оплату",
+    "bigText": false
+  },
+  {
+    "ifi": 270,
+    "text": "Сумма к оплате",
+    "bigText": false
+  },
+  {
+    "ifi": 271,
+    "text": "Цена за час: {{price}} \n Комиссия: {{fees}}% \n Продолжительность: {{duration}} часов \n Минимальная продолжительность: {{minDuration}} часов \n Всего к оплате: {{totalSum}}",
+    "bigText": false
+  },
+  {
+    "ifi": 272,
+    "text": "Вы уже оплатили?",
+    "bigText": false
+  },
+  {
+    "ifi": 273,
+    "text": "Вы получили оплату?",
+    "bigText": false
+  },
+  {
+    "ifi": 274,
+    "text": "Минимальная оплачиваемая продолжительность",
+    "bigText": false
+  },
+  {
+    "ifi": 275,
+    "text": "Оценить контрактора и оставить отзыв",
+    "bigText": false
+  },
+  {
+    "ifi": 276,
+    "text": "Напоминание",
+    "bigText": false
+  },
+  {
+    "ifi": 277,
+    "text": "У Вас контракт и скоро Вас обслужат. Пожалуйста, откройте Ваше местоположение контрактору",
+    "bigText": false
+  },
+  {
+    "ifi": 278,
+    "text": "Жаль, но апп не может показать более одной карты одновременно",
+    "bigText": false
+  },
+  {
+    "ifi": 300,
+    "text": "Создан",
+    "bigText": false,
+    "note": "from 300 to 399 smart contract states"
+  },
+  {
+    "ifi": 301,
+    "text": "Сохранен",
+    "bigText": false
+  },
+  {
+    "ifi": 305,
+    "text": "Подписан массажистом",
+    "bigText": false
+  },
+  {
+    "ifi": 310,
+    "text": "Подписан заказчиком",
+    "bigText": false
+  },
+  {
+    "ifi": 313,
+    "text": "Contract is canceled",
+    "bigText": false
+  },
+  {
+    "ifi": 315,
+    "text": "Идет работа",
+    "bigText": false
+  },
+  {
+    "ifi": 320,
+    "text": "Работа приостановлена",
+    "bigText": false
+  },
+  {
+    "ifi": 325,
+    "text": "Завершена. Ожидание оплаты",
+    "bigText": false
+  },
+  {
+    "ifi": 327,
+    "text": "Завершена. Ожидание подтверждения оплаты массажистом",
+    "bigText": false
+  },
+  {
+    "ifi": 330,
+    "text": "Завершена и оплачена",
+    "bigText": false
+  },
+  {
+    "ifi": 400,
+    "text": "Состояние",
+    "bigText": false,
+    "note": "400-449 promo code states"
+  },
+  {
+    "ifi": 401,
+    "text": "Нужны ваши реквизиты",
+    "bigText": false
+  },
+  {
+    "ifi": 403,
+    "text": "Нужны контакты",
+    "bigText": false
+  },
+  {
+    "ifi": 405,
+    "text": "Ожидание всего посева",
+    "bigText": false
+  },
+  {
+    "ifi": 410,
+    "text": "Действует",
+    "bigText": false
+  },
+  {
+    "ifi": 450,
+    "text": "Кувшин труппы промоагентов",
+    "bigText": false,
+    "note": "450-499 promo jar names, descr etc"
+  },
+  {
+    "ifi": 451,
+    "text": "Бережно распределяет средства кроудфандинга инженерам и другим профессионалам для развития BomEbo",
+    "bigText": false
+  },
+  {
+    "ifi": 452,
+    "text": "Дал Вам информацию и промокод",
+    "bigText": false
+  },
+  {
+    "ifi": 453,
+    "text": "Воспитал несколько наставников",
+    "bigText": false
+  },
+  {
+    "ifi": 454,
+    "text": "Учитель мастеров",
+    "bigText": false
+  },
+  {
+    "ifi": 455,
+    "text": "Однаждый уверенно вошел в DC-MSPP. Теперь богатый человек",
+    "bigText": false
+  },
+  {
+    "ifi": 500,
+    "text": "Условия и правила промо",
+    "bigText": false,
+    "note": "500-599 promo big texts and links"
+  },
+  {
+    "ifi": 501,
+    "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/docs/ru/promo1_tc.htm",
+    "bigText": false,
+    "notes": "promo 1 rules"
+  },
+  {
+    "ifi": 502,
+    "text": "Видео иснтрукция Промо агентам",
+    "bigText": false
+  },
+  {
+    "ifi": 503,
+    "text": "",
+    "bigText": false,
+    "notes": "promo 1 video present"
+  },
+  {
+    "ifi": 504,
+    "text": "Видео инструкция для Промо управляющим",
+    "bigText": false
+  },
+  {
+    "ifi": 505,
+    "text": "",
+    "bigText": false,
+    "notes": "promo 1 video for managers"
+  },
+  {
+    "ifi": 600,
+    "text": "Тип контакта",
+    "bigText": false,
+    "note": "600-699 contact types"
+  },
+  {
+    "ifi": 601,
+    "text": "Эл. почта",
+    "bigText": false
+  },
+  {
+    "ifi": 2000,
+    "text": "Виды массажа",
+    "bigText": false,
+    "note": "from 2000 to 2499 are roles, specialisations, job types  names"
+  },
+  {
+    "ifi": 2001,
+    "text": "Тай массаж",
+    "bigText": false
+  },
+  {
+    "ifi": 2002,
+    "text": "Арома терапия",
+    "bigText": false
+  },
+  {
+    "ifi": 2003,
+    "text": "Спорт массаж",
+    "bigText": false
+  },
+  {
+    "ifi": 2004,
+    "text": "Массаж болевых точек и ног",
+    "bigText": false
+  },
+  {
+    "ifi": 2005,
+    "text": "Перинатальный массаж",
+    "bigText": false
+  },
+  {
+    "ifi": 2006,
+    "text": "Массаж горячими камнями и согревание",
+    "bigText": false
+  },
+  {
+    "ifi": 2007,
+    "text": "Массаж от офисного синдрома",
+    "bigText": false
+  },
+  {
+    "ifi": 2008,
+    "text": "Массаж Головы, Плеч, Спины и Шеи",
+    "bigText": false
+  },
+  {
+    "ifi": 2009,
+    "text": "СПА. Лицо и тело",
+    "bigText": false
+  },
+  {
+    "ifi": 2010,
+    "text": "Фристайл и Арт массаж",
+    "bigText": false
+  },
+  {
+    "ifi": 2201,
+    "text": "Тай массаж это ...",
+    "bigText": false,
+    "note": "Job descriptions for job name ifi-200"
+  },
+  {
+    "ifi": 2202,
+    "text": "Арома терапия это ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2203,
+    "text": "Спорт массаж это ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2204,
+    "text": "Массаж болевых точек и ног это ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2205,
+    "text": "Перинатальный массаж это ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2206,
+    "text": "Массаж горячими камнями и согревание это ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2207,
+    "text": "Массаж от офисного синдрома это ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2208,
+    "text": "Массаж Головы, Плеч, Спины и Шеи это ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2209,
+    "text": "СПА. Лицо и тело это ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2210,
+    "text": "Фристайл и Арт массаж это ...",
+    "bigText": false
+  },
+  {
+    "ifi": 3000,
+    "text": "Платежная система",
+    "bigText": false,
+    "note": "3000-3499 bank and payment related"
+  },
+  {
+    "ifi": 3001,
+    "text": "Название банка",
+    "bigText": false
+  },
+  {
+    "ifi": 3002,
+    "text": "Код банка",
+    "bigText": false
+  },
+  {
+    "ifi": 3003,
+    "text": "Номер счета",
+    "bigText": false
+  },
+  {
+    "ifi": 3004,
+    "text": "BSB",
+    "bigText": false
+  },
+  {
+    "ifi": 3005,
+    "text": "Назначение/заметка платежа",
+    "bigText": false
+  },
+  {
+    "ifi": 3006,
+    "text": "Владелец счета",
+    "bigText": false
+  },
+  {
+    "ifi": 3400,
+    "text": "Наличные",
+    "bigText": false,
+    "note": "3400-3499 payment system names"
+  },
+  {
+    "ifi": 3401,
+    "text": "Банковский перевод",
+    "bigText": false
+  },
+  {
+    "ifi": 3402,
+    "text": "Отправка на карту",
+    "bigText": false
+  }
 ]

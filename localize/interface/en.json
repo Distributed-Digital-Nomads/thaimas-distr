@@ -1,49 +1,1417 @@
 [
-  {"ifi": 0, "text": " ", "bigText": false},
-  {"ifi": 1, "text": "BomEbo", "bigText": false},
-  {"ifi": 2, "text": "Thai Massage", "bigText": false},
-  {"ifi": 3, "text": "OK", "bigText": false},
-  {"ifi": 4, "text": "Cancel", "bigText": false},
-  {"ifi": 5, "text": "Close", "bigText": false},
-  {"ifi": 6, "text": "Couldn't connect to iol network. Will try few seconds later..", "bigText": false},
-  {"ifi": 7, "text": "Please, wait a little for connection", "bigText": false},
-  {"ifi": 8, "text": "This feature will be available as soon as it's developed. During the crowdfunding and MSPP campaign we continue spend funds to the BomEbo development. You are able to update the iol app according news during the campaing and always after. Wanna earn GOOD MONEY on the project using just internet? You can start right NOW even during development! Just enter empty Promo code in the \"Use promo code\" menu, learn MSPP conditions of the project and become our remote Promo Agent.", "bigText": false},
-  {"ifi": 9, "text": "You should log in for this feature", "bigText": false},
-  {"ifi": 10, "text": "Username in NiXeL app", "bigText": false},
-  {"ifi": 11, "text": "3-50 symbols", "bigText": false},
-  {"ifi": 12, "text": "Apply", "bigText": false},
-  {"ifi": 13, "text": "Accept", "bigText": false},
-  {"ifi": 14, "text": "Decline", "bigText": false},
-  {"ifi": 15, "text": "Save", "bigText": false},
-  {"ifi": 16, "text": "Enter", "bigText": false},
-  {"ifi": 17, "text": "Yes", "bigText": false},
-  {"ifi": 18, "text": "No", "bigText": false},
-  {"ifi": 19, "text": "Please, wait a little for app ready", "bigText": false},
-  {"ifi": 20, "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/docs/en/tc.htm", "bigText": true},
-  {"ifi": 21, "text": "Current promo", "bigText": false},
-  {"ifi": 22, "text": "https://youtu.be/Ym5Hg9Dzq5M", "bigText": false, "note": "Link to current promo website"},
-  {"ifi": 100, "text": "Main menu", "bigText": false},
-  {"ifi": 101, "text": "Log In with NiXeL", "bigText": false, "note": "from 100 to 199 about menu"},
-  {"ifi": 102, "text": "Log Out", "bigText": false},
-  {"ifi": 103, "text": "Profile in BomEbo", "bigText": false},
-  {"ifi": 104, "text": "Safety settings", "bigText": false},
-  {"ifi": 105, "text": "App language", "bigText": false},
-  {"ifi": 106, "text": "App Settings", "bigText": false},
-  {"ifi": 107, "text": "Order massage", "bigText": false},
-  {"ifi": 108, "text": "Offer massage", "bigText": false},
-  {"ifi": 109, "text": "Show on map & list", "bigText": false},
-  {"ifi": 110, "text": "FAQ & Support", "bigText": false},
-  {"ifi": 111, "text": "Terms & Conditions", "bigText": false},
-  {"ifi": 112, "text": "Use promo code", "bigText": false},
-  {"ifi": 200, "text": "Copied", "bigText": false, "note": "from 200 to 1999 any interface texts"},
-  {"ifi": 201, "text": "Smart order", "bigText": false},
-  {"ifi": 202, "text": "Choose address", "bigText": false},
-  {"ifi": 203, "text": "Safety settings allow you to share your location during job to the users that you include in the safety settings. The users will be notified about your job state changes", "bigText": false},
-  {"ifi": 204, "text": "Add user", "bigText": false},
-  {"ifi": 205, "text": "Remove", "bigText": false},
-  {"ifi": 206, "text": "Share location during jobs", "bigText": false},
-  {"ifi": 207, "text": "Share microphone during jobs", "bigText": false},
-  {"ifi": 208, "text": "Promo code", "bigText": false},
-  {"ifi": 209, "text": "Couldn't find the promo code. Would you like to get the current promo?", "bigText": false},
-  {"ifi": 210, "text": "", "bigText": false}
+  {
+    "ifi": 0,
+    "text": " ",
+    "bigText": false
+  },
+  {
+    "ifi": 1,
+    "text": "BomEbo",
+    "bigText": false
+  },
+  {
+    "ifi": 2,
+    "text": "Thai Massage",
+    "bigText": false
+  },
+  {
+    "ifi": 3,
+    "text": "OK",
+    "bigText": false
+  },
+  {
+    "ifi": 4,
+    "text": "Cancel",
+    "bigText": false
+  },
+  {
+    "ifi": 5,
+    "text": "Close",
+    "bigText": false
+  },
+  {
+    "ifi": 6,
+    "text": "Couldn't connect to iol network. Will try few seconds later..",
+    "bigText": false
+  },
+  {
+    "ifi": 7,
+    "text": "Please, wait a little for connection",
+    "bigText": false
+  },
+  {
+    "ifi": 8,
+    "text": "This feature is unavailable yet for public test. Follow the project news. \n During the crowdfunding and MSPP campaign we continue spend funds to the BomEbo development. You are able to update the iol app according news during the campaign and always after. \n Wanna earn GOOD MONEY on the project using just internet? You can start right NOW even during development! Just enter empty Promo code in the \"Use promo code\" menu, learn MSPP conditions of the project and become our remote Promo Agent.",
+    "bigText": false
+  },
+  {
+    "ifi": 9,
+    "text": "You should log in for this feature",
+    "bigText": false
+  },
+  {
+    "ifi": 10,
+    "text": "Username in NiXeL app",
+    "bigText": false
+  },
+  {
+    "ifi": 11,
+    "text": "3-50 symbols",
+    "bigText": false
+  },
+  {
+    "ifi": 12,
+    "text": "Apply",
+    "bigText": false
+  },
+  {
+    "ifi": 13,
+    "text": "Accept",
+    "bigText": false
+  },
+  {
+    "ifi": 14,
+    "text": "Decline",
+    "bigText": false
+  },
+  {
+    "ifi": 15,
+    "text": "Save",
+    "bigText": false
+  },
+  {
+    "ifi": 16,
+    "text": "Enter",
+    "bigText": false
+  },
+  {
+    "ifi": 17,
+    "text": "Yes",
+    "bigText": false
+  },
+  {
+    "ifi": 18,
+    "text": "No",
+    "bigText": false
+  },
+  {
+    "ifi": 19,
+    "text": "Please, wait a little for app ready",
+    "bigText": false
+  },
+  {
+    "ifi": 20,
+    "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/docs/en/tc.htm",
+    "bigText": true
+  },
+  {
+    "ifi": 21,
+    "text": "BomEbo presentation & demo",
+    "bigText": false
+  },
+  {
+    "ifi": 22,
+    "text": "https://www.youtube.com/watch?v=9mOnPnbeUpw&list=PLjwIP64KxSmq927-ahD9c2mxpu9mGTpBV&index=3",
+    "bigText": false,
+    "note": "Link to current promo website"
+  },
+  {
+    "ifi": 23,
+    "text": "{{appName}} iol app is required in the device for this feature but it is not installed. Please, install it and try again",
+    "bigText": false
+  },
+  {
+    "ifi": 24,
+    "text": "Choose an app store",
+    "bigText": false
+  },
+  {
+    "ifi": 25,
+    "text": "Offer",
+    "bigText": false
+  },
+  {
+    "ifi": 26,
+    "text": "Order",
+    "bigText": false
+  },
+  {
+    "ifi": 27,
+    "text": "Supply",
+    "bigText": false
+  },
+  {
+    "ifi": 28,
+    "text": "Demand",
+    "bigText": false
+  },
+  {
+    "ifi": 29,
+    "text": "Start job",
+    "bigText": false
+  },
+  {
+    "ifi": 30,
+    "text": "Pause job",
+    "bigText": false
+  },
+  {
+    "ifi": 31,
+    "text": "Resume job",
+    "bigText": false
+  },
+  {
+    "ifi": 32,
+    "text": "Complete job",
+    "bigText": false
+  },
+  {
+    "ifi": 33,
+    "text": "Place in market",
+    "bigText": false
+  },
+  {
+    "ifi": 34,
+    "text": "Description",
+    "bigText": false
+  },
+  {
+    "ifi": 35,
+    "text": "Notes",
+    "bigText": false
+  },
+  {
+    "ifi": 36,
+    "text": "Hour",
+    "bigText": false
+  },
+  {
+    "ifi": 37,
+    "text": "KM",
+    "bigText": false
+  },
+  {
+    "ifi": 38,
+    "text": "Currency",
+    "bigText": false
+  },
+  {
+    "ifi": 39,
+    "text": "Choose",
+    "bigText": false
+  },
+  {
+    "ifi": 40,
+    "text": "Date",
+    "bigText": false
+  },
+  {
+    "ifi": 41,
+    "text": "Time",
+    "bigText": false
+  },
+  {
+    "ifi": 42,
+    "text": "Smart Order",
+    "bigText": false
+  },
+  {
+    "ifi": 43,
+    "text": "Required",
+    "bigText": false
+  },
+  {
+    "ifi": 44,
+    "text": "Check data/form",
+    "bigText": false
+  },
+  {
+    "ifi": 45,
+    "text": "Step",
+    "bigText": false
+  },
+  {
+    "ifi": 46,
+    "text": "Messages",
+    "bigText": false
+  },
+  {
+    "ifi": 47,
+    "text": "New order",
+    "bigText": false
+  },
+  {
+    "ifi": 48,
+    "text": "Ignore",
+    "bigText": false
+  },
+  {
+    "ifi": 49,
+    "text": "New offer",
+    "bigText": false
+  },
+  {
+    "ifi": 50,
+    "text": "You are hired",
+    "bigText": false
+  },
+  {
+    "ifi": 51,
+    "text": "Smart contract",
+    "bigText": false
+  },
+  {
+    "ifi": 52,
+    "text": "Show feedback",
+    "bigText": false
+  },
+  {
+    "ifi": 53,
+    "text": "Worker",
+    "bigText": false
+  },
+  {
+    "ifi": 54,
+    "text": "Customer",
+    "bigText": false
+  },
+  {
+    "ifi": 55,
+    "text": "Choose a payment method",
+    "bigText": false
+  },
+  {
+    "ifi": 56,
+    "text": "Currency in NiXeL",
+    "bigText": false
+  },
+  {
+    "ifi": 57,
+    "text": "Job place",
+    "bigText": false
+  },
+  {
+    "ifi": 58,
+    "text": "Assessed amount",
+    "bigText": false
+  },
+  {
+    "ifi": 59,
+    "text": "Cash",
+    "bigText": false
+  },
+  {
+    "ifi": 60,
+    "text": "IOU in NiXeL",
+    "bigText": false
+  },
+  {
+    "ifi": 61,
+    "text": "SINHRO in NiXeL",
+    "bigText": false
+  },
+  {
+    "ifi": 62,
+    "text": "Payment method",
+    "bigText": false
+  },
+  {
+    "ifi": 63,
+    "text": "Cancel contract",
+    "bigText": false
+  },
+  {
+    "ifi": 64,
+    "text": "Contract updates",
+    "bigText": false
+  },
+  {
+    "ifi": 65,
+    "text": "Fees",
+    "bigText": false
+  },
+  {
+    "ifi": 66,
+    "text": "BomEbo fee",
+    "bigText": false
+  },
+  {
+    "ifi": 67,
+    "text": "iol royalty",
+    "bigText": false
+  },
+  {
+    "ifi": 68,
+    "text": "Including fees for customer",
+    "bigText": false
+  },
+  {
+    "ifi": 69,
+    "text": "Do you confirm the action?",
+    "bigText": false
+  },
+  {
+    "ifi": 70,
+    "text": "A new edition of the BomEbo app is available. Please, update the app",
+    "bigText": false
+  },
+  {
+    "ifi": 71,
+    "text": "Action history",
+    "bigText": false
+  },
+  {
+    "ifi": 72,
+    "text": "Confirm",
+    "bigText": false
+  },
+  {
+    "ifi": 73,
+    "text": "Ready",
+    "bigText": false
+  },
+  {
+    "ifi": 74,
+    "text": "Cannot use the feature in this state",
+    "bigText": false
+  },
+  {
+    "ifi": 75,
+    "text": "Delete",
+    "bigText": false
+  },
+  {
+    "ifi": 76,
+    "text": "Amount",
+    "bigText": false
+  },
+  {
+    "ifi": 77,
+    "text": "The feature is coming soon. Please, follow our news",
+    "bigText": false
+  },
+  {
+    "ifi": 78,
+    "text": "You are logged in. Your promo codes, messages and worker orders without logging in they have been linked to your account and you can access them from other devices only after log in",
+    "bigText": false
+  },
+  {
+    "ifi": 79,
+    "text": "You have started earning income. To keep the success of receiving income, you need to log in",
+    "bigText": false
+  },
+  {
+    "ifi": 80,
+    "text": "Important",
+    "bigText": false
+  },
+  {
+    "ifi": 100,
+    "text": "Main menu",
+    "bigText": false
+  },
+  {
+    "ifi": 101,
+    "text": "Log In with NiXeL",
+    "bigText": false,
+    "note": "from 100 to 199 about menu"
+  },
+  {
+    "ifi": 102,
+    "text": "Log Out",
+    "bigText": false
+  },
+  {
+    "ifi": 103,
+    "text": "Profile in BomEbo",
+    "bigText": false
+  },
+  {
+    "ifi": 104,
+    "text": "Job safety",
+    "bigText": false
+  },
+  {
+    "ifi": 105,
+    "text": "App language",
+    "bigText": false
+  },
+  {
+    "ifi": 106,
+    "text": "App Settings",
+    "bigText": false
+  },
+  {
+    "ifi": 107,
+    "text": "Order massage",
+    "bigText": false
+  },
+  {
+    "ifi": 108,
+    "text": "Offer massage",
+    "bigText": false
+  },
+  {
+    "ifi": 109,
+    "text": "Show on map & list",
+    "bigText": false
+  },
+  {
+    "ifi": 110,
+    "text": "FAQ & Support",
+    "bigText": false
+  },
+  {
+    "ifi": 111,
+    "text": "Terms & Conditions",
+    "bigText": false
+  },
+  {
+    "ifi": 112,
+    "text": "Use promo code",
+    "bigText": false
+  },
+  {
+    "ifi": 113,
+    "text": "The promo code is not found",
+    "bigText": false
+  },
+  {
+    "ifi": 114,
+    "text": "Your initial seeding",
+    "bigText": false
+  },
+  {
+    "ifi": 115,
+    "text": "Your minimal benefit",
+    "bigText": false
+  },
+  {
+    "ifi": 116,
+    "text": "Promo name",
+    "bigText": false
+  },
+  {
+    "ifi": 117,
+    "text": "Promo type",
+    "bigText": false
+  },
+  {
+    "ifi": 118,
+    "text": "Couldn't register a promo code for you, sorry. Please, try again later",
+    "bigText": false
+  },
+  {
+    "ifi": 119,
+    "text": "Your payment details",
+    "bigText": false
+  },
+  {
+    "ifi": 120,
+    "text": "You will receive your promo agent incomes to the details",
+    "bigText": false
+  },
+  {
+    "ifi": 121,
+    "text": "Your seeding, total",
+    "bigText": false
+  },
+  {
+    "ifi": 122,
+    "text": "Your harvest",
+    "bigText": false
+  },
+  {
+    "ifi": 123,
+    "text": "Your own promo agent code for the promo campaign has been registered but it's still inactive. Nobody can use it as a promo code until you complete all the necessary steps and your promo code state is Active. Please, follow instruction and start earn with your promo code",
+    "bigText": false
+  },
+  {
+    "ifi": 124,
+    "text": "Your promo agent code",
+    "bigText": false
+  },
+  {
+    "ifi": 125,
+    "text": "Your contacts",
+    "bigText": false
+  },
+  {
+    "ifi": 126,
+    "text": "The contacts can be used if necessary. Eg, in cases like payment issues etc.",
+    "bigText": false
+  },
+  {
+    "ifi": 127,
+    "text": "The last step to activate your promo code: the amount of your seeding must be spreaded in the agents troupe jars and BomEbo launch/promo support. Your jar will be in the list for your following agents that used your promo code and their following agents",
+    "bigText": false
+  },
+  {
+    "ifi": 128,
+    "text": "Back to my account",
+    "bigText": false
+  },
+  {
+    "ifi": 129,
+    "text": "You sowed",
+    "bigText": false
+  },
+  {
+    "ifi": 130,
+    "text": "Awaits your seeding",
+    "bigText": false
+  },
+  {
+    "ifi": 131,
+    "text": "Transfer details",
+    "bigText": false
+  },
+  {
+    "ifi": 132,
+    "text": "I sent/sowed",
+    "bigText": false
+  },
+  {
+    "ifi": 133,
+    "text": "Your promo agents troupe",
+    "bigText": false
+  },
+  {
+    "ifi": 134,
+    "text": "Your DC-MSPP balance",
+    "bigText": false
+  },
+  {
+    "ifi": 135,
+    "text": "Promo management",
+    "bigText": false
+  },
+  {
+    "ifi": 136,
+    "text": "Congratulation, your have got a special promo code as for Independent Promo Manager {{mark}}. We will add extra {{bonus}}% to your bank details from payments of your 4 levels promo code followers to the Local iol Escrow",
+    "bigText": false
+  },
+  {
+    "ifi": 137,
+    "text": "Increase seeding",
+    "bigText": false
+  },
+  {
+    "ifi": 138,
+    "text": "A notification about your payment has been sent to the account holder/jar. The promo code information will be updated as soon as the system gets the confirmation the payment. If no confirmation during 5 days + holidays you can use 'Confirmation claim' to provide evidences to the BomEbo admins and contact with the account holder directly. Promo codes of account holders that received payments and don't confirm more than 7 days can be blocked",
+    "bigText": false
+  },
+  {
+    "ifi": 139,
+    "text": "Confirmation claim",
+    "bigText": false
+  },
+  {
+    "ifi": 140,
+    "text": "Did you receive?",
+    "bigText": false
+  },
+  {
+    "ifi": 141,
+    "text": "Awaits confirmation",
+    "bigText": false
+  },
+  {
+    "ifi": 142,
+    "text": "Please, prepare proof of your payment for uploading to the app: a screenshot of an electronic or photo of a paper receipt and bank statement. We care about the BomEbo reputation and the safety of our users, we value the time and work of our team. Therefore, according to the terms of the application and the rules of the iol ecosystem, users that provide false data are excluded from the promo and their iol accounts may be blocked",
+    "bigText": false
+  },
+  {
+    "ifi": 143,
+    "text": "Withdraw",
+    "bigText": false
+  },
+  {
+    "ifi": 144,
+    "text": "To another currency region promo",
+    "bigText": false
+  },
+  {
+    "ifi": 145,
+    "text": "To fee distribution equity",
+    "bigText": false
+  },
+  {
+    "ifi": 146,
+    "text": "To fees balance",
+    "bigText": false
+  },
+  {
+    "ifi": 147,
+    "text": "Exchange to rating in BomEbo",
+    "bigText": false
+  },
+  {
+    "ifi": 148,
+    "text": "See how the seeding is cared",
+    "bigText": false
+  },
+  {
+    "ifi": 149,
+    "text": "Seeding care",
+    "bigText": false
+  },
+  {
+    "ifi": 150,
+    "text": "Take care about your promo business: <br> 1. Share your promo code in messengers and social networks clicking on {{shareIcon}} near your promo code on the top of this window. <br> 2. Spend at least 1 our a week to make a short videos or articles about your promo job in BomEbo, make screenshots of your results and short demos how do you do your this promo job. Recomend people use your promo code. Upload them in YouTube or other platforms. <br> 3. Enter that links in the form bellow. Our system will show them to others",
+    "bigText": false
+  },
+  {
+    "ifi": 151,
+    "text": "Resource name",
+    "bigText": false
+  },
+  {
+    "ifi": 152,
+    "text": "URL address",
+    "bigText": false
+  },
+  {
+    "ifi": 153,
+    "text": "You can claim after 5 days + holidays you sent/sown the amount",
+    "bigText": false
+  },
+  {
+    "ifi": 154,
+    "text": "A confirmation claim has been inited",
+    "bigText": false
+  },
+  {
+    "ifi": 155,
+    "text": "Send a claim",
+    "bigText": false
+  },
+  {
+    "ifi": 156,
+    "text": "Now, you can send your claim. An email to the jar's owner with copy to iol will be generated. Be sure to attach all your transfer evidences you were required to prepare",
+    "bigText": false
+  },
+  {
+    "ifi": 200,
+    "text": "Copied",
+    "bigText": false,
+    "note": "from 200 to 1999 any interface texts"
+  },
+  {
+    "ifi": 201,
+    "text": "Already done",
+    "bigText": false
+  },
+  {
+    "ifi": 202,
+    "text": "Choose address",
+    "bigText": false
+  },
+  {
+    "ifi": 203,
+    "text": "Safety settings allow you to share your location during job to the users that you include in the safety settings. The users will be notified about your job state changes",
+    "bigText": false
+  },
+  {
+    "ifi": 204,
+    "text": "Add user",
+    "bigText": false
+  },
+  {
+    "ifi": 205,
+    "text": "Remove",
+    "bigText": false
+  },
+  {
+    "ifi": 206,
+    "text": "Share location during jobs",
+    "bigText": false
+  },
+  {
+    "ifi": 207,
+    "text": "Share microphone during jobs",
+    "bigText": false
+  },
+  {
+    "ifi": 208,
+    "text": "Promo code",
+    "bigText": false
+  },
+  {
+    "ifi": 209,
+    "text": "Couldn't find the promo code. Would you like to get the current promo?",
+    "bigText": false
+  },
+  {
+    "ifi": 210,
+    "text": "I do",
+    "bigText": false
+  },
+  {
+    "ifi": 211,
+    "text": "Price for 1 hour",
+    "bigText": false
+  },
+  {
+    "ifi": 212,
+    "text": "I serve area",
+    "bigText": false
+  },
+  {
+    "ifi": 213,
+    "text": "Center",
+    "bigText": false
+  },
+  {
+    "ifi": 214,
+    "text": "Radius",
+    "bigText": false
+  },
+  {
+    "ifi": 215,
+    "text": "Set area",
+    "bigText": false
+  },
+  {
+    "ifi": 216,
+    "text": "Payment options",
+    "bigText": false
+  },
+  {
+    "ifi": 217,
+    "text": "I give",
+    "bigText": false
+  },
+  {
+    "ifi": 218,
+    "text": "I accept",
+    "bigText": false
+  },
+  {
+    "ifi": 219,
+    "text": "I can pay cash",
+    "bigText": false
+  },
+  {
+    "ifi": 220,
+    "text": "I can give IOU",
+    "bigText": false
+  },
+  {
+    "ifi": 221,
+    "text": "I can give SINHRO",
+    "bigText": false
+  },
+  {
+    "ifi": 222,
+    "text": "I accept cash",
+    "bigText": false
+  },
+  {
+    "ifi": 223,
+    "text": "I accept in exchange for IOU",
+    "bigText": false
+  },
+  {
+    "ifi": 224,
+    "text": "I accept in exchange for SINHRO",
+    "bigText": false
+  },
+  {
+    "ifi": 225,
+    "text": "If you don't pay cash you must log in",
+    "bigText": false
+  },
+  {
+    "ifi": 226,
+    "text": "I pay tax",
+    "bigText": false
+  },
+  {
+    "ifi": 227,
+    "text": "Tax names",
+    "bigText": false
+  },
+  {
+    "ifi": 228,
+    "text": "Tax rate (%)",
+    "bigText": false
+  },
+  {
+    "ifi": 229,
+    "text": "Separated by a comma: VAT,GST",
+    "bigText": false
+  },
+  {
+    "ifi": 230,
+    "text": "Additionally I'd say to may customers",
+    "bigText": false
+  },
+  {
+    "ifi": 231,
+    "text": "Write here something that make you outstanding: your experience, languages, requirements, exceptions. Explain what is unique in your Freestyle Art massage",
+    "bigText": false
+  },
+  {
+    "ifi": 232,
+    "text": "I need",
+    "bigText": false
+  },
+  {
+    "ifi": 233,
+    "text": "Choose massage",
+    "bigText": false
+  },
+  {
+    "ifi": 234,
+    "text": "Currency and limit",
+    "bigText": false
+  },
+  {
+    "ifi": 235,
+    "text": "Maximal price for 1 hour",
+    "bigText": false
+  },
+  {
+    "ifi": 236,
+    "text": "At my place",
+    "bigText": false
+  },
+  {
+    "ifi": 237,
+    "text": "Address",
+    "bigText": false
+  },
+  {
+    "ifi": 238,
+    "text": "Worker should come to",
+    "bigText": false
+  },
+  {
+    "ifi": 239,
+    "text": "Place point",
+    "bigText": false
+  },
+  {
+    "ifi": 240,
+    "text": "Set address point",
+    "bigText": false
+  },
+  {
+    "ifi": 241,
+    "text": "No street address found for this point. BomEbo allows only places that have street address. Please, choose a place carefully",
+    "bigText": false
+  },
+  {
+    "ifi": 242,
+    "text": "Nothing found",
+    "bigText": false
+  },
+  {
+    "ifi": 243,
+    "text": "Job time",
+    "bigText": false
+  },
+  {
+    "ifi": 244,
+    "text": "Start date, time",
+    "bigText": false
+  },
+  {
+    "ifi": 245,
+    "text": "Duration limit",
+    "bigText": false
+  },
+  {
+    "ifi": 246,
+    "text": "Additional info",
+    "bigText": false
+  },
+  {
+    "ifi": 247,
+    "text": "Preferences, expectations and other notes",
+    "bigText": false
+  },
+  {
+    "ifi": 248,
+    "text": "NickName in BomEbo",
+    "bigText": false
+  },
+  {
+    "ifi": 249,
+    "text": "Gender",
+    "bigText": false
+  },
+  {
+    "ifi": 250,
+    "text": "About me",
+    "bigText": false
+  },
+  {
+    "ifi": 251,
+    "text": "Lady",
+    "bigText": false
+  },
+  {
+    "ifi": 252,
+    "text": "Gentleman",
+    "bigText": false
+  },
+  {
+    "ifi": 253,
+    "text": "Different gender",
+    "bigText": false
+  },
+  {
+    "ifi": 254,
+    "text": "Edit profile",
+    "bigText": false
+  },
+  {
+    "ifi": 255,
+    "text": "Show iol profile",
+    "bigText": false
+  },
+  {
+    "ifi": 256,
+    "text": "Length",
+    "bigText": false
+  },
+  {
+    "ifi": 257,
+    "text": "Write something interesting about you",
+    "bigText": false
+  },
+  {
+    "ifi": 258,
+    "text": "Show ratings",
+    "bigText": false
+  },
+  {
+    "ifi": 259,
+    "text": "As worker",
+    "bigText": false
+  },
+  {
+    "ifi": 260,
+    "text": "As customer",
+    "bigText": false
+  },
+  {
+    "ifi": 261,
+    "text": "Profile and ratings",
+    "bigText": false
+  },
+  {
+    "ifi": 262,
+    "text": "Track contractor location",
+    "bigText": false
+  },
+  {
+    "ifi": 263,
+    "text": "Share location with contractor",
+    "bigText": false
+  },
+  {
+    "ifi": 264,
+    "text": "Your contractor has not shared location yet. Contractors will be offered to share real time location each other with job remainder 30 minutes before job start time. Tracking will be available until the job is completed or the contract is canceled",
+    "bigText": false
+  },
+  {
+    "ifi": 265,
+    "text": "Your location tracking will be available for your contractor until the job is completed or the contract is canceled",
+    "bigText": false
+  },
+  {
+    "ifi": 266,
+    "text": "Hide contract",
+    "bigText": false
+  },
+  {
+    "ifi": 267,
+    "text": "Customers' details unavailable from the map",
+    "bigText": false
+  },
+  {
+    "ifi": 268,
+    "text": "Fees for the customer will be included into the payment amount",
+    "bigText": false
+  },
+  {
+    "ifi": 269,
+    "text": "Confirm payment",
+    "bigText": false
+  },
+  {
+    "ifi": 270,
+    "text": "Amount to pay",
+    "bigText": false
+  },
+  {
+    "ifi": 271,
+    "text": "Price for hour: {{price}} \n Fees: {{fees}}% \n Job duration: {{duration}} hours \n Minimal paid duration: {{minDuration}} hours \n Total to pay: {{totalSum}}",
+    "bigText": false
+  },
+  {
+    "ifi": 272,
+    "text": "Have you paid already?",
+    "bigText": false
+  },
+  {
+    "ifi": 273,
+    "text": "Has your service been paid?",
+    "bigText": false
+  },
+  {
+    "ifi": 274,
+    "text": "Minimal paid duration",
+    "bigText": false
+  },
+  {
+    "ifi": 275,
+    "text": "Rate the contractor and leave feedback",
+    "bigText": false
+  },
+  {
+    "ifi": 276,
+    "text": "Reminder",
+    "bigText": false
+  },
+  {
+    "ifi": 277,
+    "text": "You have contract and the service will be provided soon. Please share your location with your contractor",
+    "bigText": false
+  },
+  {
+    "ifi": 278,
+    "text": "Sorry, the app cannot show more than one map at the same time",
+    "bigText": false
+  },
+  {
+    "ifi": 300,
+    "text": "Created",
+    "bigText": false,
+    "note": "from 300 to 399 smart contract states"
+  },
+  {
+    "ifi": 301,
+    "text": "Saved",
+    "bigText": false
+  },
+  {
+    "ifi": 305,
+    "text": "Signed by worker",
+    "bigText": false
+  },
+  {
+    "ifi": 310,
+    "text": "Signed and scheduled",
+    "bigText": false
+  },
+  {
+    "ifi": 313,
+    "text": "Contract is canceled",
+    "bigText": false
+  },
+  {
+    "ifi": 315,
+    "text": "Job in progress",
+    "bigText": false
+  },
+  {
+    "ifi": 320,
+    "text": "Job is paused",
+    "bigText": false
+  },
+  {
+    "ifi": 325,
+    "text": "Completed and awaits payment",
+    "bigText": false
+  },
+  {
+    "ifi": 327,
+    "text": "Completed and awaits payment confirm from the worker",
+    "bigText": false
+  },
+  {
+    "ifi": 330,
+    "text": "Completed and paid",
+    "bigText": false
+  },
+  {
+    "ifi": 2000,
+    "text": "Massage types",
+    "bigText": false,
+    "note": "from 2000 to 2499 are roles, specialisations, job types  names"
+  },
+  {
+    "ifi": 400,
+    "text": "State",
+    "bigText": false,
+    "note": "400-449 promo code states"
+  },
+  {
+    "ifi": 401,
+    "text": "Need your payment details",
+    "bigText": false
+  },
+  {
+    "ifi": 403,
+    "text": "Need contacts",
+    "bigText": false
+  },
+  {
+    "ifi": 405,
+    "text": "Waiting for all seedings",
+    "bigText": false
+  },
+  {
+    "ifi": 410,
+    "text": "Active",
+    "bigText": false
+  },
+  {
+    "ifi": 450,
+    "text": "Agents troupe jar",
+    "bigText": false,
+    "note": "450-499 promo jar names, descr etc"
+  },
+  {
+    "ifi": 451,
+    "text": "Safely distributes crowdfunds to engineers and other professionals to grow the BomEbo",
+    "bigText": false
+  },
+  {
+    "ifi": 452,
+    "text": "Gave you information and promo code",
+    "bigText": false
+  },
+  {
+    "ifi": 453,
+    "text": "Raised several patrons",
+    "bigText": false
+  },
+  {
+    "ifi": 454,
+    "text": "Masters teacher",
+    "bigText": false
+  },
+  {
+    "ifi": 455,
+    "text": "Once confidently entered DC-MSPP. Now a rich man",
+    "bigText": false
+  },
+  {
+    "ifi": 500,
+    "text": "Promo terms & rules",
+    "bigText": false,
+    "note": "500-599 promo big texts and links"
+  },
+  {
+    "ifi": 501,
+    "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/docs/en/promo1_tc.htm",
+    "bigText": false,
+    "notes": "promo 1 rules"
+  },
+  {
+    "ifi": 502,
+    "text": "Video instruction for Promo Agents",
+    "bigText": false
+  },
+  {
+    "ifi": 503,
+    "text": "",
+    "bigText": false,
+    "notes": "promo 1 video for agents"
+  },
+  {
+    "ifi": 504,
+    "text": "Video instruction for Promo Managers",
+    "bigText": false
+  },
+  {
+    "ifi": 505,
+    "text": "",
+    "bigText": false,
+    "notes": "promo 1 video for managers"
+  },
+  {
+    "ifi": 600,
+    "text": "Contact type",
+    "bigText": false,
+    "note": "600-699 contact types"
+  },
+  {
+    "ifi": 601,
+    "text": "Email",
+    "bigText": false
+  },
+  {
+    "ifi": 2000,
+    "text": "Massage types",
+    "bigText": false,
+    "note": "from 2000 to 2499 are roles, specialisations, job types  names"
+  },
+  {
+    "ifi": 2001,
+    "text": "Thai massage",
+    "bigText": false
+  },
+  {
+    "ifi": 2002,
+    "text": "Aroma therapy",
+    "describtion": "Aroma therapy is ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2003,
+    "text": "Sports massage",
+    "describtion": "Sports massage is ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2004,
+    "text": "Nerve Touch massage",
+    "describtion": "Nerve Touch massage is ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2005,
+    "text": "Prenatal massage",
+    "describtion": "Prenatal massage is ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2006,
+    "text": "Hot Stone massage",
+    "describtion": "Hot Stone massage is ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2007,
+    "text": "Office Syndrome massage",
+    "describtion": "Office Syndrome massage is ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2008,
+    "text": "Head, Back, Solder, Neck massage",
+    "describtion": "Head, Back, Solder, Neck massage is ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2009,
+    "text": "Face & body Spa",
+    "describtion": "Face & body Spa is ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2010,
+    "text": "Freestyle Art massage",
+    "describtion": "Freestyle Art massage is ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2201,
+    "text": "Thai massage is ...",
+    "bigText": false,
+    "note": "Job descriptions for job name ifi-200"
+  },
+  {
+    "ifi": 2202,
+    "text": "Aroma therapy is ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2203,
+    "text": "Sports massage is ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2204,
+    "text": "Nerve Touch massage is ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2205,
+    "text": "Prenatal massage is ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2206,
+    "text": "Hot Stone massage is ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2207,
+    "text": "Office Syndrome massage is ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2208,
+    "text": "Head, Back, Solder, Neck massage is ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2209,
+    "text": "Face & body Spa is ...",
+    "bigText": false
+  },
+  {
+    "ifi": 2210,
+    "text": "Freestyle Art massage is ...",
+    "bigText": false
+  },
+  {
+    "ifi": 3000,
+    "text": "Payment system",
+    "bigText": false,
+    "note": "3000-3499 bank and payment related"
+  },
+  {
+    "ifi": 3001,
+    "text": "Bank name",
+    "bigText": false
+  },
+  {
+    "ifi": 3002,
+    "text": "Bank code",
+    "bigText": false
+  },
+  {
+    "ifi": 3003,
+    "text": "Account number",
+    "bigText": false
+  },
+  {
+    "ifi": 3004,
+    "text": "BSB",
+    "bigText": false
+  },
+  {
+    "ifi": 3005,
+    "text": "Reference/notes for recipient",
+    "bigText": false
+  },
+  {
+    "ifi": 3006,
+    "text": "Account holder",
+    "bigText": false
+  },
+  {
+    "ifi": 3400,
+    "text": "Cash",
+    "bigText": false,
+    "note": "3400-3499 payment system names"
+  },
+  {
+    "ifi": 3401,
+    "text": "Bank transfer",
+    "bigText": false
+  },
+  {
+    "ifi": 3402,
+    "text": "Send to card",
+    "bigText": false
+  }
 ]
