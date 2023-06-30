@@ -406,6 +406,7 @@
     "bigText": false
   },
   {"ifi": 81, "text": "Will be available after the BomEbo open test is completed", "bigText": false},
+  {"ifi": 82, "text": "Share with your followers in other apps", "bigText": false},
   {
     "ifi": 100,
     "text": "Main menu",
@@ -1236,6 +1237,7 @@
     "bigText": false,
     "notes": "promo 1 video for managers"
   },
+  {"ifi": 506, "text": "Hi friends! I'd share with you the opportunity of a big but urgent sale/promo. Use the promo code {{promoCode}} in the BomEbo app: remote work in the app; fees from massage therapists. VERY EASY! Questions?", "bigText": false},
   {
     "ifi": 600,
     "text": "Contact type",
