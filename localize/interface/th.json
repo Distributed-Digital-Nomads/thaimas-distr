@@ -407,6 +407,7 @@
   },
   {"ifi": 81, "text": "Will be available after the BomEbo open test is completed", "bigText": false},
   {"ifi": 82, "text": "Share you promo code with your followers in other apps", "bigText": false},
+  {"ifi": 83, "text": "Not enough in the balance", "bigText": false},
   {
     "ifi": 100,
     "text": "เมนูหลัก",
