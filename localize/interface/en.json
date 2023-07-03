@@ -1408,6 +1408,11 @@
     "bigText": false
   },
   {
+    "ifi": 3007,
+    "text": "BIK",
+    "bigText": false
+  },
+  {
     "ifi": 3400,
     "text": "Cash",
     "bigText": false,
