@@ -1413,6 +1413,16 @@
     "bigText": false
   },
   {
+    "ifi": 3008,
+    "text": "Full name",
+    "bigText": false
+  },
+  {
+    "ifi": 3009,
+    "text": "Company name",
+    "bigText": false
+  },
+  {
     "ifi": 3400,
     "text": "Cash",
     "bigText": false,

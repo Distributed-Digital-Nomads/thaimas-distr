@@ -1390,12 +1390,22 @@
   },
   {
     "ifi": 3006,
-    "text": "Полные ФИО",
+    "text": "Владелец счета",
     "bigText": false
   },
   {
     "ifi": 3007,
     "text": "БИК",
+    "bigText": false
+  },
+  {
+    "ifi": 3008,
+    "text": "Полные ФИО",
+    "bigText": false
+  },
+  {
+    "ifi": 3009,
+    "text": "Название организации",
     "bigText": false
   },
   {
