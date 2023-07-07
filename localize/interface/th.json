@@ -410,6 +410,7 @@
   {"ifi": 83, "text": "Not enough in the balance", "bigText": false},
   {"ifi": 84, "text": "Attention", "bigText": false},
   {"ifi": 85, "text": "Your promo code will become invalid. The network of agents in your sequence will be allocated to new agents. Transfers awaiting confirmation from you will be debited from the input amount and confirmed automatically. Pending confirmations from other agents of your transfers will be automatically confirmed. DC-MSPP does not allow ordering more than one promo agent code in the same campaign  and currency area. A return request will be sent to the Escow account holder and the amount will be transfered to your account accourding the campaign rules. Thank you for participating in DC-MSPP!", "bigText": false},
+  {"ifi": 86, "text": "This data cannot be changed after confirmation", "bigText": false},
   {
     "ifi": 100,
     "text": "เมนูหลัก",
