@@ -106,7 +106,7 @@
   },
   {
     "ifi": 21,
-    "text": "BomEbo presentation & demo",
+    "text": "การนำเสนอ Bombo และการสาธิต",
     "bigText": false
   },
   {
@@ -117,7 +117,7 @@
   },
   {
     "ifi": 23,
-    "text": "{{appName}} คุณสมบัตินี้จำเป็นต้องมีแอป iOS ในอุปกรณ์ แต่ไม่ได้ติดตั้งไว้ โปรดติดตั้งและลองอีกครั้ง",
+    "text": "คุณลักษณะนี้ต้องมีแอป {{appName}} iol ในอุปกรณ์ แต่ไม่ได้ติดตั้งไว้ โปรดติดตั้งและลองอีกครั้ง",
     "bigText": false
   },
   {
@@ -212,7 +212,7 @@
   },
   {
     "ifi": 42,
-    "text": "สมาร์ทออร์เดอร์",
+    "text": "คำสั่งอัจฉริยะ",
     "bigText": false
   },
   {
@@ -352,65 +352,89 @@
   },
   {
     "ifi": 70,
-    "text": "A new edition of the BomEbo app is available. Please, update the app",
+    "text": "มีแอป BomEbo รุ่นใหม่ให้บริการ โปรดอัปเดตแอป",
     "bigText": false
   },
   {
     "ifi": 71,
-    "text": "Action history",
+    "text": "ประวัติการกระทำ",
     "bigText": false
   },
   {
     "ifi": 72,
-    "text": "Confirm",
+    "text": "ยืนยัน",
     "bigText": false
   },
   {
     "ifi": 73,
-    "text": "Ready",
+    "text": "พร้อม",
     "bigText": false
   },
   {
     "ifi": 74,
-    "text": "Cannot use the feature in this state",
+    "text": "ไม่สามารถใช้คุณลักษณะนี้ในสถานะนี้ได้",
     "bigText": false
   },
   {
     "ifi": 75,
-    "text": "Delete",
+    "text": "ลบ",
     "bigText": false
   },
   {
     "ifi": 76,
-    "text": "Amount",
+    "text": "จำนวน",
     "bigText": false
   },
   {
     "ifi": 77,
-    "text": "The feature is coming soon. Please, follow our news",
+    "text": "คุณสมบัติกำลังจะมาเร็ว ๆ นี้ โปรดติดตามข่าวสารของเรา",
     "bigText": false
   },
   {
     "ifi": 78,
-    "text": "You are logged in. Your promo codes, messages and worker orders without logging in they have been linked to your account and you can access them from other devices only after log in",
+    "text": "คุณเข้าสู่ระบบแล้ว รหัสส่งเสริมการขาย ข้อความ และคำสั่งของผู้ปฏิบัติงานโดยไม่ต้องเข้าสู่ระบบนั้นเชื่อมโยงกับบัญชีของคุณ และคุณสามารถเข้าถึงได้จากอุปกรณ์อื่นหลังจากเข้าสู่ระบบเท่านั้น",
     "bigText": false
   },
   {
     "ifi": 79,
-    "text": "You have started earning income. To keep the success of receiving income, you need to log in",
+    "text": "คุณเริ่มมีรายได้แล้ว เพื่อให้ประสบความสำเร็จในการรับรายได้ คุณต้องเข้าสู่ระบบ",
     "bigText": false
   },
   {
     "ifi": 80,
-    "text": "Important",
+    "text": "สำคัญ",
     "bigText": false
   },
-  {"ifi": 81, "text": "Will be available after the BomEbo open test is completed", "bigText": false},
-  {"ifi": 82, "text": "Share you promo code with your followers in other apps", "bigText": false},
-  {"ifi": 83, "text": "Not enough in the balance", "bigText": false},
-  {"ifi": 84, "text": "Attention", "bigText": false},
-  {"ifi": 85, "text": "Your promo code will become invalid. The network of agents in your sequence will be allocated to new agents. Transfers awaiting confirmation from you will be debited from the input amount and confirmed automatically. Pending confirmations from other agents of your transfers will be automatically confirmed. DC-MSPP does not allow ordering more than one promo agent code in the same campaign  and currency area. A return request will be sent to the Escow account holder and the amount will be transfered to your account accourding the campaign rules. Thank you for participating in DC-MSPP!", "bigText": false},
-  {"ifi": 86, "text": "This data cannot be changed after confirmation", "bigText": false},
+  {
+    "ifi": 81,
+    "text": "จะใช้งานได้หลังจากการทดสอบแบบเปิดของ BomEbo เสร็จสิ้น",
+    "bigText": false
+  },
+  {
+    "ifi": 82,
+    "text": "แบ่งปันรหัสโปรโมชั่นของคุณกับผู้ติดตามของคุณในแอพอื่นๆ",
+    "bigText": false
+  },
+  {
+    "ifi": 83,
+    "text": "ยอดเงินคงเหลือไม่เพียงพอ",
+    "bigText": false
+  },
+  {
+    "ifi": 84,
+    "text": "ความสนใจ",
+    "bigText": false
+  },
+  {
+    "ifi": 85,
+    "text": "รหัสโปรโมชั่นของคุณจะไม่ถูกต้อง เครือข่ายตัวแทนในลำดับของคุณจะถูกจัดสรรให้กับตัวแทนใหม่ การโอนเงินที่รอการยืนยันจากคุณจะถูกหักจากจำนวนเงินที่ป้อนและยืนยันโดยอัตโนมัติ การยืนยันที่รอดำเนินการจากตัวแทนรายอื่นของการโอนเงินของคุณจะได้รับการยืนยันโดยอัตโนมัติ DC-MSPP ไม่อนุญาตให้สั่งซื้อรหัสตัวแทนส่งเสริมการขายมากกว่าหนึ่งรหัสในพื้นที่แคมเปญและสกุลเงินเดียวกัน คำขอส่งคืนจะถูกส่งไปยังเจ้าของบัญชี Escow และจำนวนเงินจะถูกโอนไปยังบัญชีของคุณตามกฎของแคมเปญ ขอบคุณที่เข้าร่วม DC-MSPP!",
+    "bigText": false
+  },
+  {
+    "ifi": 86,
+    "text": "ข้อมูลนี้ไม่สามารถเปลี่ยนแปลงได้หลังจากการยืนยัน",
+    "bigText": false
+  },
   {
     "ifi": 100,
     "text": "เมนูหลัก",
@@ -454,7 +478,7 @@
   },
   {
     "ifi": 108,
-    "text": "เสนอการนวด",
+    "text": "ข้อเสนอการนวด",
     "bigText": false
   },
   {
@@ -479,225 +503,229 @@
   },
   {
     "ifi": 113,
-    "text": "The promo code is not found",
+    "text": "ไม่พบรหัสโปรโมชั่น",
     "bigText": false
   },
   {
     "ifi": 114,
-    "text": "Your initial seeding",
+    "text": "การหว่านเริ่มต้นของคุณ",
     "bigText": false
   },
   {
     "ifi": 115,
-    "text": "Your minimal benefit",
+    "text": "ผลประโยชน์ขั้นต่ำของคุณ",
     "bigText": false
   },
   {
     "ifi": 116,
-    "text": "Promo name",
+    "text": "ชื่อโปรโมชั่น",
     "bigText": false
   },
   {
     "ifi": 117,
-    "text": "Promo type",
+    "text": "ประเภทโปรโมชั่น",
     "bigText": false
   },
   {
     "ifi": 118,
-    "text": "Couldn't register a promo code for you, sorry. Please, try again later",
+    "text": "ไม่สามารถลงทะเบียนรหัสโปรโมชั่นให้คุณได้ ขออภัย กรุณาลองใหม่อีกครั้งในภายหลัง",
     "bigText": false
   },
   {
     "ifi": 119,
-    "text": "Your payment details",
+    "text": "รายละเอียดการชำระเงินของคุณ",
     "bigText": false
   },
   {
     "ifi": 120,
-    "text": "You will receive your promo agent incomes to the details",
+    "text": "คุณจะได้รับรายได้จากตัวแทนโปรโมชั่นของคุณตามรายละเอียด",
     "bigText": false
   },
   {
     "ifi": 121,
-    "text": "Your seeding, total",
+    "text": "การหว่านของคุณทั้งหมด",
     "bigText": false
   },
   {
     "ifi": 122,
-    "text": "Your harvest",
+    "text": "ผลลัพธ์ของคุณ",
     "bigText": false
   },
   {
     "ifi": 123,
-    "text": "Your own promo agent code for the promo campaign has been registered but it's still inactive. Nobody can use it as a promo code until you complete all the necessary steps and your promo code state is Active. Please, follow instruction and start earn with your promo code",
+    "text": "รหัสตัวแทนส่งเสริมการขายของคุณเองสำหรับแคมเปญส่งเสริมการขายได้รับการลงทะเบียนแล้ว แต่ยังไม่ได้ใช้งาน ไม่มีใครสามารถใช้เป็นรหัสส่งเสริมการขายได้จนกว่าคุณจะทำตามขั้นตอนที่จำเป็นทั้งหมดและสถานะรหัสส่งเสริมการขายของคุณคือใช้งานอยู่ โปรดทำตามคำแนะนำและเริ่มรับด้วยรหัสโปรโมชั่นของคุณ",
     "bigText": false
   },
   {
     "ifi": 124,
-    "text": "Your promo agent code",
+    "text": "รหัสตัวแทนส่งเสริมการขายของคุณ",
     "bigText": false
   },
   {
     "ifi": 125,
-    "text": "Your contacts",
+    "text": "ผู้ติดต่อของคุณ",
     "bigText": false
   },
   {
     "ifi": 126,
-    "text": "The contacts can be used if necessary. Eg, in cases like payment issues etc.",
+    "text": "สามารถใช้รายชื่อได้หากจำเป็น เช่น ในกรณีปัญหาการชำระเงิน เป็นต้น",
     "bigText": false
   },
   {
     "ifi": 127,
-    "text": "The last step to activate your promo code: the amount of your seeding must be spreaded in the agents troupe jars (up to 4) and BomEbo launch/promo support. Your jar will be in the list for your following agents that used your promo code and their following agents",
+    "text": "ขั้นตอนสุดท้ายในการเปิดใช้งานรหัสโปรโมชันของคุณ: จำนวนการหว่าน ของคุณจะต้องกระจายในขวดตัวแทนคณะ (สูงสุด 4 ขวด) และการสนับสนุนการเปิดตัว/โปรโมชันของ BomEbo ขวดของคุณจะอยู่ในรายชื่อตัวแทนต่อไปนี้ที่ใช้รหัสโปรโมชั่นของคุณและตัวแทนต่อไปนี้",
     "bigText": false
   },
   {
     "ifi": 128,
-    "text": "Back to my account",
+    "text": "กลับไปที่บัญชีของฉัน",
     "bigText": false
   },
   {
     "ifi": 129,
-    "text": "You sowed",
+    "text": "คุณหว่าน",
     "bigText": false
   },
   {
     "ifi": 130,
-    "text": "Awaits your seeding",
+    "text": "รอการหว่านของคุณ",
     "bigText": false
   },
   {
     "ifi": 131,
-    "text": "Transfer details",
+    "text": "รายละเอียดการโอน",
     "bigText": false
   },
   {
     "ifi": 132,
-    "text": "I sent/sowed",
+    "text": "ฉันส่ง / หว่าน",
     "bigText": false
   },
   {
     "ifi": 133,
-    "text": "Your promo agents troupe",
+    "text": "คณะตัวแทนโปรโมชั่นของคุณ",
     "bigText": false
   },
   {
     "ifi": 134,
-    "text": "Your DC-MSPP balance",
+    "text": "ยอดคงเหลือ DC-MSPP ของคุณ",
     "bigText": false
   },
   {
     "ifi": 135,
-    "text": "Promo management",
+    "text": "การจัดการโปรโมชั่น",
     "bigText": false
   },
   {
     "ifi": 136,
-    "text": "Congratulation, your have got a special promo code as for Independent Promo Manager {{mark}}. We will add extra {{bonus}}% to your bank details from payments of your 4 levels promo code followers to the Local iol Escrow",
+    "text": "ยินดีด้วย คุณมีรหัสโปรโมชั่นพิเศษสำหรับ Independent Promo Manager {{mark}} เราจะเพิ่ม {{bonus}}% พิเศษให้กับรายละเอียดธนาคารของคุณจากการชำระเงินของผู้ติดตามรหัสโปรโมชัน 4 ระดับไปยัง Local iol Escrow",
     "bigText": false
   },
   {
     "ifi": 137,
-    "text": "Increase seeding",
+    "text": "เพิ่มการหวาน",
     "bigText": false
   },
   {
     "ifi": 138,
-    "text": "A notification about your payment has been sent to the account holder/jar. The promo code information will be updated as soon as the system gets the confirmation the payment. If no confirmation during 5 days + holidays you can use 'Confirmation claim' to provide evidences to the BomEbo admins and contact with the account holder directly. Promo codes of account holders that received payments and don't confirm more than 7 days can be blocked",
+    "text": "การแจ้งเตือนเกี่ยวกับการชำระเงินของคุณถูกส่งไปยังเจ้าของบัญชี/ขวด ข้อมูลรหัสโปรโมชั่นจะอัปเดตทันทีที่ระบบได้รับการยืนยันการชำระเงิน หากไม่มีการยืนยันในช่วง 5 วัน + วันหยุด คุณสามารถใช้ 'การอ้างสิทธิ์การยืนยัน' เพื่อให้หลักฐานแก่ผู้ดูแลระบบ BomEbo และติดต่อกับเจ้าของบัญชีโดยตรง รหัสส่งเสริมการขายของผู้ถือบัญชีที่ได้รับการชำระเงินและไม่ได้ยืนยันเกิน 7 วันสามารถถูกบล็อกได้",
     "bigText": false
   },
   {
     "ifi": 139,
-    "text": "Confirmation claim",
+    "text": "การอ้างสิทธิ์การยืนยัน",
     "bigText": false
   },
   {
     "ifi": 140,
-    "text": "Did you receive?",
+    "text": "คุณได้รับ?",
     "bigText": false
   },
   {
     "ifi": 141,
-    "text": "Awaits confirmation",
+    "text": "รอการยืนยัน",
     "bigText": false
   },
   {
     "ifi": 142,
-    "text": "Please, prepare proof of your payment for uploading to the app: a screenshot of an electronic or photo of a paper receipt and bank statement. We care about the BomEbo reputation and the safety of our users, we value the time and work of our team. Therefore, according to the terms of the application and the rules of the iol ecosystem, users that provide false data are excluded from the promo and their iol accounts may be blocked",
+    "text": "โปรดเตรียมหลักฐานการชำระเงินของคุณสำหรับการอัปโหลดไปยังแอป: ภาพหน้าจอของอิเล็กทรอนิกส์หรือภาพถ่ายของใบเสร็จรับเงินและรายการเดินบัญชีธนาคาร เราใส่ใจในชื่อเสียงของ BomEbo และความปลอดภัยของผู้ใช้ เราให้ความสำคัญกับเวลาและการทำงานของทีมของเรา ดังนั้น ตามเงื่อนไขของแอปพลิเคชันและกฎของระบบนิเวศ iol ผู้ใช้ที่ให้ข้อมูลเท็จจะถูกแยกออกจากโปรโมชันและบัญชี iol ของพวกเขาอาจถูกบล็อก",
     "bigText": false
   },
   {
     "ifi": 143,
-    "text": "Withdraw",
+    "text": "ถอน",
     "bigText": false
   },
   {
     "ifi": 144,
-    "text": "To another currency region promo",
+    "text": "ไปยังภูมิภาคสกุลเงินอื่น",
     "bigText": false
   },
   {
     "ifi": 145,
-    "text": "To fee distribution equity",
+    "text": "เพื่อชำระค่าธรรมเนียมการจำหน่าย",
     "bigText": false
   },
   {
     "ifi": 146,
-    "text": "To fees balance",
+    "text": "เพื่อความสมดุลของค่าธรรมเนียม",
     "bigText": false
   },
   {
     "ifi": 147,
-    "text": "Exchange to rating in BomEbo",
+    "text": "แลกเปลี่ยนเป็นคะแนนใน BomEbo",
     "bigText": false
   },
   {
     "ifi": 148,
-    "text": "See how the seeding is cared",
+    "text": "ดูวิธีการดูแลการหว่าน",
     "bigText": false
   },
   {
     "ifi": 149,
-    "text": "Seeding care",
+    "text": "การดูแลการหว่าน",
     "bigText": false
   },
   {
     "ifi": 150,
-    "text": "Take care about your promo business: <br> 1. Share your promo code in messengers and social networks clicking on {{shareIcon}} near your promo code on the top of this window. <br> 2. Spend at least 1 our a week to make a short videos or articles about your promo job in BomEbo, make screenshots of your results and short demos how do you do your this promo job. Recomend people use your promo code. Upload them in YouTube or other platforms. <br> 3. Enter that links in the form bellow. Our system will show them to others",
+    "text": "ดูแลธุรกิจโปรโมชันของคุณ: <br> 1. แชร์รหัสโปรโมชันของคุณในโปรแกรมส่งข้อความและโซเชียลเน็ตเวิร์ก โดยคลิกที่ {{shareIcon}} ใกล้กับรหัสโปรโมชันของคุณที่ด้านบนของหน้าต่างนี้ <br> 2. ใช้เวลาอย่างน้อย 1 สัปดาห์ของเราเพื่อสร้างวิดีโอสั้นหรือบทความเกี่ยวกับงานโปรโมตของคุณใน BomEbo สร้างภาพหน้าจอของผลลัพธ์และการสาธิตสั้น ๆ ว่าคุณทำงานโปรโมตนี้อย่างไร แนะนำให้ผู้อื่นใช้รหัสส่งเสริมการขายของคุณ อัปโหลดใน YouTube หรือแพลตฟอร์มอื่นๆ <br> 3. ป้อนลิงก์นั้นในแบบฟอร์มด้านล่าง ระบบของเราจะแสดงให้คนอื่นเห็น",
     "bigText": false
   },
   {
     "ifi": 151,
-    "text": "Resource name",
+    "text": "ชื่อแหล่งที่มา",
     "bigText": false
   },
   {
     "ifi": 152,
-    "text": "URL address",
+    "text": "ที่อยู่ URL",
     "bigText": false
   },
   {
     "ifi": 153,
-    "text": "You can claim after 5 days + holidays you sent/sown the amount",
+    "text": "คุณสามารถเรียกร้องได้หลังจาก 5 วัน + วันหยุดที่คุณส่ง/ลดจำนวนเงิน",
     "bigText": false
   },
   {
     "ifi": 154,
-    "text": "A confirmation claim has been inited",
+    "text": "เริ่มการอ้างสิทธิ์การยืนยันแล้ว",
     "bigText": false
   },
   {
     "ifi": 155,
-    "text": "Send a claim",
+    "text": "ส่งคำร้อง",
     "bigText": false
   },
   {
     "ifi": 156,
-    "text": "Now, you can send your claim. An email to the jar's owner with copy to iol will be generated. Be sure to attach all your transfer evidences you were required to prepare",
+    "text": "ตอนนี้คุณสามารถส่งการเรียกร้องของคุณ อีเมลถึงเจ้าของ jar พร้อมสำเนาถึง iol จะถูกสร้างขึ้น อย่าลืมแนบหลักฐานการโอนทั้งหมดที่คุณต้องเตรียม",
     "bigText": false
   },
-  {"ifi": 157, "text": "Apply for TPM", "bigText": false},
+  {
+    "ifi": 157,
+    "text": "ใช้สำหรับ TPM",
+    "bigText": false
+  },
   {
     "ifi": 200,
     "text": "คัดลอก",
@@ -706,7 +734,7 @@
   },
   {
     "ifi": 201,
-    "text": "Already done",
+    "text": "เสร็จเรียบร้อย",
     "bigText": false
   },
   {
@@ -756,7 +784,7 @@
   },
   {
     "ifi": 211,
-    "text": "ราคา 1 ชม",
+    "text": "ราคาสำหรับ 1 ชม",
     "bigText": false
   },
   {
@@ -876,7 +904,7 @@
   },
   {
     "ifi": 235,
-    "text": "ราคาสูงสุด 1 ชั่วโมง",
+    "text": "ราคาสูงสุดสำหรับ 1 ชั่วโมง",
     "bigText": false
   },
   {
@@ -1091,7 +1119,7 @@
   },
   {
     "ifi": 278,
-    "text": "Sorry, the app cannot show more than one map at the same time",
+    "text": "ขออภัย แอปไม่สามารถแสดงมากกว่าหนึ่งแผนที่ในเวลาเดียวกัน",
     "bigText": false
   },
   {
@@ -1146,65 +1174,71 @@
     "bigText": false
   },
   {
+    "ifi": 2000,
+    "text": "ประเภทการนวด",
+    "bigText": false,
+    "note": "from 2000 to 2499 are roles, specialisations, job types  names"
+  },
+  {
     "ifi": 400,
-    "text": "State",
+    "text": "สถานะ",
     "bigText": false,
     "note": "400-449 promo code states"
   },
   {
     "ifi": 401,
-    "text": "Need your payment details",
+    "text": "ต้องการรายละเอียดการชำระเงินของคุณ",
     "bigText": false
   },
   {
     "ifi": 403,
-    "text": "Need contacts",
+    "text": "ต้องการผู้ติดต่อ",
     "bigText": false
   },
   {
     "ifi": 405,
-    "text": "Waiting for all seedings",
+    "text": "รอการหว่านทั้งหมด",
     "bigText": false
   },
   {
     "ifi": 410,
-    "text": "Active",
+    "text": "กำลังใช้งาน",
     "bigText": false
   },
   {
     "ifi": 450,
-    "text": "Agents troupe jar",
+    "text": "โถคณะตัวแทน",
     "bigText": false,
     "note": "450-499 promo jar names, descr etc"
   },
   {
     "ifi": 451,
-    "text": "Safely distributes crowdfunds to engineers and other professionals to grow the BomEbo",
+    "text": "กระจายการระดมทุนอย่างปลอดภัยไปยังวิศวกรและผู้เชี่ยวชาญอื่น ๆ เพื่อให้ BomEbo เติบโต",
     "bigText": false
   },
   {
     "ifi": 452,
-    "text": "Gave you information and promo code",
+    "text": "ให้ข้อมูลและรหัสโปรโมชั่นแก่คุณ",
     "bigText": false
   },
   {
     "ifi": 453,
-    "text": "Raised several patrons",
+    "text": "เลี้ยงดูผู้อุปถัมภ์หลายคน",
     "bigText": false
   },
   {
     "ifi": 454,
-    "text": "Masters teacher",
+    "text": "พระอาจารย์",
     "bigText": false
   },
   {
     "ifi": 455,
-    "text": "Once confidently entered DC-MSPP. Now a rich man",
+    "text": "เมื่อเข้าสู่ DC-MSPP อย่างมั่นใจแล้ว ตอนนี้เป็นเศรษฐี",
     "bigText": false
   },
   {
     "ifi": 500,
-    "text": "Promo terms & rules",
+    "text": "ข้อกำหนดและกฎของโปรโมชั่น",
     "bigText": false,
     "note": "500-599 promo big texts and links"
   },
@@ -1216,18 +1250,18 @@
   },
   {
     "ifi": 502,
-    "text": "Video instruction for Promo Agents",
+    "text": "คำแนะนำวิดีโอสำหรับตัวแทนส่งเสริมการขาย",
     "bigText": false
   },
   {
     "ifi": 503,
     "text": "https://youtu.be/_U4RUHE7orA",
     "bigText": false,
-    "notes": "promo 1 video agents"
+    "notes": "promo 1 video for agents"
   },
   {
     "ifi": 504,
-    "text": "Video instruction for Promo Managers",
+    "text": "คำแนะนำวิดีโอสำหรับผู้จัดการส่งเสริมการขาย",
     "bigText": false
   },
   {
@@ -1236,18 +1270,30 @@
     "bigText": false,
     "notes": "promo 1 video for managers"
   },
-  {"ifi": 506, "text": "Hi friends! I'd share with you the opportunity of a big but urgent sale/promo. Use the promo code {{promoCode}} in the BomEbo app: remote work in the app; fees from massage therapists. VERY EASY! Questions?", "bigText": false},
-  {"ifi": 507, "text": "Hiring regional promo managers in a serious global system masseurs on-demand BomEBo. Fully remote job from the phone in the application. Salary from 30000 Baht + 20% of the results of their wards promo agents. Paid weekly trial period. URGENT: only 1 manager per region with  1M population. My promo code {{promoCode}}. Ask me details after the video", "bigText": false},
-  {"ifi": 508, "text": "Urgent JOB as a promo agent in my group in a serious global system for masseurs on-demand BomEbo. Fully remote from the phone in the application. Payment piecework but large directly to your account. I you will help with the start, train and support. My promo code {{promoCode}}", "bigText": false},
+  {
+    "ifi": 506,
+    "text": "สวัสดีเพื่อน! ฉันจะแบ่งปันโอกาสการขาย/โปรโมชันครั้งใหญ่แต่เร่งด่วนให้คุณทราบ ใช้รหัสโปรโมชั่น {{promoCode}} ในแอป BomEbo: การทำงานระยะไกลในแอป ค่าธรรมเนียมจากพนักงานนวด ง่ายมาก! คำถาม?",
+    "bigText": false
+  },
+  {
+    "ifi": 507,
+    "text": "จ้างผู้จัดการโปรโมชันระดับภูมิภาคในระบบระดับโลกที่จริงจัง พนักงานนวด BomEBo ตามความต้องการ งานจากระยะไกลอย่างสมบูรณ์จากโทรศัพท์ในแอปพลิเคชัน เงินเดือนตั้งแต่ 30,000 บาท + 20% ของผลลัพธ์ของตัวแทนโปรโมชั่นวอร์ด จ่ายช่วงทดลองงานรายสัปดาห์ ด่วน: มีผู้จัดการเพียง 1 คนต่อภูมิภาคที่มีประชากร 1 ล้านคน รหัสโปรโมชั่นของฉัน {{promoCode}} สอบถามรายละเอียดหลังวิดีโอ",
+    "bigText": false
+  },
+  {
+    "ifi": 508,
+    "text": "งานด่วนเป็นตัวแทนส่งเสริมการขายในกลุ่มของฉันในระบบระดับโลกที่จริงจังสำหรับพนักงานนวดตามความต้องการ BomEbo จากระยะไกลอย่างสมบูรณ์จากโทรศัพท์ในแอปพลิเคชัน ชำระเงินทีละน้อยแต่ส่งตรงถึงบัญชีของคุณ ฉันจะช่วยคุณในการเริ่มต้น ฝึกฝน และสนับสนุน รหัสโปรโมชั่นของฉัน {{promoCode}}",
+    "bigText": false
+  },
   {
     "ifi": 600,
-    "text": "Contact type",
+    "text": "ประเภทการติดต่อ",
     "bigText": false,
     "note": "600-699 contact types"
   },
   {
     "ifi": 601,
-    "text": "Email",
+    "text": "อีเมล",
     "bigText": false
   },
   {
@@ -1264,46 +1310,55 @@
   {
     "ifi": 2002,
     "text": "อโรม่าบำบัด",
+    "describtion": "Aroma therapy is ...",
     "bigText": false
   },
   {
     "ifi": 2003,
     "text": "การนวดสปอร์ต",
+    "describtion": "Sports massage is ...",
     "bigText": false
   },
   {
     "ifi": 2004,
     "text": "นวดสัมผัสเส้นประสาท",
+    "describtion": "Nerve Touch massage is ...",
     "bigText": false
   },
   {
     "ifi": 2005,
     "text": "การนวดก่อนคลอด",
+    "describtion": "Prenatal massage is ...",
     "bigText": false
   },
   {
     "ifi": 2006,
     "text": "นวดหินร้อน",
+    "describtion": "Hot Stone massage is ...",
     "bigText": false
   },
   {
     "ifi": 2007,
     "text": "การนวดออฟฟิศซินโดรม",
+    "describtion": "Office Syndrome massage is ...",
     "bigText": false
   },
   {
     "ifi": 2008,
     "text": "การนวดหัว, หลัง, ประสาน, นวดคอ",
+    "describtion": "Head, Back, Solder, Neck massage is ...",
     "bigText": false
   },
   {
     "ifi": 2009,
     "text": "สปาหน้าและตัว",
+    "describtion": "Face & body Spa is ...",
     "bigText": false
   },
   {
     "ifi": 2010,
     "text": "การนวดแบบศิลปะฟรีสไตล์",
+    "describtion": "Freestyle Art massage is ...",
     "bigText": false
   },
   {
@@ -1359,23 +1414,23 @@
   },
   {
     "ifi": 3000,
-    "text": "Payment system",
+    "text": "ระบบการชำระเงิน",
     "bigText": false,
     "note": "3000-3499 bank and payment related"
   },
   {
     "ifi": 3001,
-    "text": "Bank name",
+    "text": "ชื่อธนาคาร",
     "bigText": false
   },
   {
     "ifi": 3002,
-    "text": "Bank code",
+    "text": "รหัสธนาคาร",
     "bigText": false
   },
   {
     "ifi": 3003,
-    "text": "Account number",
+    "text": "หมายเลขบัญชี",
     "bigText": false
   },
   {
@@ -1385,12 +1440,12 @@
   },
   {
     "ifi": 3005,
-    "text": "Reference/notes for recipient",
+    "text": "เอกสารอ้างอิง/หมายเหตุสำหรับผู้รับ",
     "bigText": false
   },
   {
     "ifi": 3006,
-    "text": "Account holder",
+    "text": "ผู้ถือบัญชี",
     "bigText": false
   },
   {
@@ -1400,28 +1455,28 @@
   },
   {
     "ifi": 3008,
-    "text": "Full name",
+    "text": "ชื่อเต็ม",
     "bigText": false
   },
   {
     "ifi": 3009,
-    "text": "Company name",
+    "text": "ชื่อ บริษัท",
     "bigText": false
   },
   {
     "ifi": 3400,
-    "text": "Cash",
+    "text": "เงินสด",
     "bigText": false,
     "note": "3400-3499 payment system names"
   },
   {
     "ifi": 3401,
-    "text": "Bank transfer",
+    "text": "โอนเงินผ่านธนาคาร",
     "bigText": false
   },
   {
     "ifi": 3402,
-    "text": "Send to card",
+    "text": "ส่งไปที่การ์ด",
     "bigText": false
   }
 ]
