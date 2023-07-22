@@ -1409,6 +1409,14 @@
     "text": "Название организации",
     "bigText": false
   },
+  {"ifi": 3010, "text": "Institution number", "bigText": false},
+  {"ifi": 3011, "text": "Transit number", "bigText": false},
+  {"ifi": 3012, "text": "Bank/Recipient address", "bigText": false},
+  {"ifi": 3013, "text": "SWIFT/BIC", "bigText": false},
+  {"ifi": 3014, "text": "IBAN", "bigText": false},
+  {"ifi": 3015, "text": "Routing number", "bigText": false},
+  {"ifi": 3016, "text": "Sort code", "bigText": false},
+
   {
     "ifi": 3400,
     "text": "Наличные",
@@ -1424,5 +1432,6 @@
     "ifi": 3402,
     "text": "Отправка на карту",
     "bigText": false
-  }
+  },
+  {"ifi": 3403, "text": "GIRO, MEPS", "bigText": false}
 ]
