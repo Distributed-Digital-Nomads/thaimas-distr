@@ -3,18 +3,24 @@
     "isoCode": "en",
     "localizeFileName": "en",
     "englishName": "English",
-    "localName": "English"
+    "localName": "English",
+    "srcs": ["https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/localize/interface/en.json"],
+    "exclude": false
   },
   {
     "isoCode": "th",
     "localizeFileName": "th",
     "englishName": "Thai",
-    "localName": "ภาษาไทย"
+    "localName": "ภาษาไทย",
+    "srcs": ["https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/localize/interface/th.json"],
+    "exclude": false
   },
   {
     "isoCode": "ru",
     "localizeFileName": "ru",
     "englishName": "Russian",
-    "localName": "Русский"
+    "localName": "Русский",
+    "srcs": ["https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/localize/interface/ru.json"],
+    "exclude": false
   }
 ]
