@@ -564,6 +564,8 @@
     "text": "Now, you can send your claim. An email to the jar's owner with copy to iol will be generated. Be sure to attach all your transfer evidences you were required to prepare"
   },
   {"ifi": 157, "text": "Apply for TPM"},
+  {"ifi": 158, "text": "Off 3D hologram"},
+  {"ifi": 159, "text": "On 3D hologram"},
   {
     "ifi": 200,
     "text": "Copied",
