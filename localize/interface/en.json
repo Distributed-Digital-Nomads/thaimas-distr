@@ -566,6 +566,8 @@
   {"ifi": 157, "text": "Apply for TPM"},
   {"ifi": 158, "text": "Off 3D hologram"},
   {"ifi": 159, "text": "On 3D hologram"},
+  {"ifi": 160, "text": "Add language"},
+  {"ifi": 161, "text": "https://youtu.be/Vr5TZUcp-dA"},
   {
     "ifi": 200,
     "text": "Copied",

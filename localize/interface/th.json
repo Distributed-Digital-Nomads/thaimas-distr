@@ -587,6 +587,8 @@
   },
   {"ifi": 158, "text": "Off 3D hologram"},
   {"ifi": 159, "text": "On 3D hologram"},
+  {"ifi": 160, "text": "เพิ่มภาษา"},
+  {"ifi": 161, "text": "https://youtu.be/Vr5TZUcp-dA"},
   {
     "ifi": 200,
     "text": "คัดลอก",
