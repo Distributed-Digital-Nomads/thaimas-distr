@@ -329,11 +329,12 @@
   {"ifi": 82, "text": "Share you promo code with your followers in other apps"},
   {"ifi": 83, "text": "Not enough in the balance"},
   {"ifi": 84, "text": "Attention"},
-  {"ifi": 85, "text": "Your promo code will become invalid. The network of agents in your sequence will be allocated to new agents. Transfers awaiting confirmation from you will be debited from the input amount and confirmed automatically. Pending confirmations from other agents of your transfers will be automatically confirmed. DC-MSPP does not allow ordering more than one promo agent code in the same campaign  and currency area. A return request will be sent to the Escow account holder and the amount will be transfered to your account accourding the campaign rules. Thank you for participating in DC-MSPP!"},
+  {"ifi": 85, "text": "Your promo code will become invalid. The network of agents in your sequence will be allocated to new agents. Transfers awaiting confirmation from you will be debited from the input amount and confirmed automatically. Pending confirmations from other agents of your transfers will be automatically confirmed. DC-MSPP does not allow ordering more than one promo agent code in the same campaign  and currency area. A return request will be sent to the Escow account holder and the amount will be transferred to your account according the campaign rules. Thank you for participating in DC-MSPP!"},
   {"ifi": 86, "text": "This data cannot be changed after confirmation"},
   {"ifi": 87, "text": "Attach image"},
   {"ifi": 88, "text": "Take a photo"},
   {"ifi": 89, "text": "From gallery"},
+  {"ifi": 90, "text": "NiXeL comes with iolService that:<br>- makes all iol apps small and fast;<br>- gives you access to over 60 cashless currency and all currency in cash;<br>- easy log in to all iol apps with only registered account;<br>- 24/7 multilingual support any iol app users;<br>- and many more...<br>To proceed logging in you should have an account in the NiXeL app. Please, install it."},
   {
     "ifi": 100,
     "text": "Main menu"
@@ -537,7 +538,7 @@
   },
   {
     "ifi": 150,
-    "text": "Take care about your promo business: <br> 1. Share your promo code in messengers and social networks clicking on {{shareIcon}} near your promo code on the top of this window. <br> 2. Spend at least 1 our a week to make a short videos or articles about your promo job in BomEbo, make screenshots of your results and short demos how do you do your this promo job. Recomend people use your promo code. Upload them in YouTube or other platforms. <br> 3. Enter that links in the form bellow. Our system will show them to others"
+    "text": "Take care about your promo business: <br> 1. Share your promo code in messengers and social networks clicking on {{shareIcon}} near your promo code on the top of this window. <br> 2. Spend at least 1 our a week to make a short videos or articles about your promo job in BomEbo, make screenshots of your results and short demos how do you do your this promo job. Recommend people use your promo code. Upload them in YouTube or other platforms. <br> 3. Enter that links in the form bellow. Our system will show them to others"
   },
   {
     "ifi": 151,
@@ -553,7 +554,7 @@
   },
   {
     "ifi": 154,
-    "text": "A confirmation claim has been inited"
+    "text": "A confirmation claim has been initialised"
   },
   {
     "ifi": 155,
@@ -827,11 +828,11 @@
   },
   {
     "ifi": 264,
-    "text": "Your contractor has not shared location yet. Contractors will be offered to share real time location each other with job remainder 30 minutes before job start time. Tracking will be available until the job is completed or the contract is canceled"
+    "text": "Your contractor has not shared location yet. Contractors will be offered to share real time location each other with job remainder 30 minutes before job start time. Tracking will be available until the job is completed or the contract is cancelled"
   },
   {
     "ifi": 265,
-    "text": "Your location tracking will be available for your contractor until the job is completed or the contract is canceled"
+    "text": "Your location tracking will be available for your contractor until the job is completed or the contract is cancelled"
   },
   {
     "ifi": 266,
@@ -904,7 +905,7 @@
   },
   {
     "ifi": 313,
-    "text": "Contract is canceled"
+    "text": "Contract is cancelled"
   },
   {
     "ifi": 315,
@@ -942,7 +943,7 @@
   },
   {
     "ifi": 405,
-    "text": "Waiting for all seedings"
+    "text": "Waiting for all seedlings"
   },
   {
     "ifi": 410,
