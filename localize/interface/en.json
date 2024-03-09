@@ -334,7 +334,7 @@
   {"ifi": 87, "text": "Attach image"},
   {"ifi": 88, "text": "Take a photo"},
   {"ifi": 89, "text": "From gallery"},
-  {"ifi": 90, "text": "NiXeL comes with iolService that:<br>- makes all iol apps small and fast;<br>- gives you access to over 60 cashless currency and all currency in cash;<br>- easy log in to all iol apps with only registered account;<br>- 24/7 multilingual support any iol app users;<br>- and many more...<br>To proceed logging in you should have an account in the NiXeL app. Please, install it."},
+  {"ifi": 90, "text": "NiXeL comes with iolService that:\n- makes all iol apps small and fast;\n- gives you access to over 60 cashless currency and all currency in cash;\n- easy log in to all iol apps with only registered account;\n- 24/7 multilingual support any iol app users;\n- and many more...\nTo proceed logging in you should have an account in the NiXeL app. Please, install it."},
   {
     "ifi": 100,
     "text": "Main menu"
@@ -538,7 +538,7 @@
   },
   {
     "ifi": 150,
-    "text": "Take care about your promo business: <br> 1. Share your promo code in messengers and social networks clicking on {{shareIcon}} near your promo code on the top of this window. <br> 2. Spend at least 1 our a week to make a short videos or articles about your promo job in BomEbo, make screenshots of your results and short demos how do you do your this promo job. Recommend people use your promo code. Upload them in YouTube or other platforms. <br> 3. Enter that links in the form bellow. Our system will show them to others"
+    "text": "Take care about your promo business: \n 1. Share your promo code in messengers and social networks clicking on {{shareIcon}} near your promo code on the top of this window. \n 2. Spend at least 1 our a week to make a short videos or articles about your promo job in BomEbo, make screenshots of your results and short demos how do you do your this promo job. Recommend people use your promo code. Upload them in YouTube or other platforms. \n 3. Enter that links in the form bellow. Our system will show them to others"
   },
   {
     "ifi": 151,

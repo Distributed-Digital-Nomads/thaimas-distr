@@ -352,7 +352,7 @@
   {"ifi": 87, "text": "แนบรูปภาพ"},
   {"ifi": 88, "text": "ถ่ายรูป"},
   {"ifi": 89, "text": "จากแกลเลอรี่"},
-  {"ifi": 90, "text": "NiXeL comes with iolService that:<br>- makes all iol apps small and fast;<br>- gives you access to over 60 cashless currency and all currency in cash;<br>- easy log in to all iol apps with only registered account;<br>- 24/7 multilingual support any iol app users;<br>- and many more...<br>To proceed logging in you should have an account in the NiXeL app. Please, install it."},
+  {"ifi": 90, "text": "NiXeL comes with iolService that:\n- makes all iol apps small and fast;\n- gives you access to over 60 cashless currency and all currency in cash;\n- easy log in to all iol apps with only registered account;\n- 24/7 multilingual support any iol app users;\n- and many more...\nTo proceed logging in you should have an account in the NiXeL app. Please, install it."},
   {
     "ifi": 100,
     "text": "เมนูหลัก"
@@ -556,7 +556,7 @@
   },
   {
     "ifi": 150,
-    "text": "ดูแลธุรกิจโปรโมชันของคุณ: <br> 1. แชร์รหัสโปรโมชันของคุณในโปรแกรมส่งข้อความและโซเชียลเน็ตเวิร์ก โดยคลิกที่ {{shareIcon}} ใกล้กับรหัสโปรโมชันของคุณที่ด้านบนของหน้าต่างนี้ <br> 2. ใช้เวลาอย่างน้อย 1 สัปดาห์ของเราเพื่อสร้างวิดีโอสั้นหรือบทความเกี่ยวกับงานโปรโมตของคุณใน BomEbo สร้างภาพหน้าจอของผลลัพธ์และการสาธิตสั้น ๆ ว่าคุณทำงานโปรโมตนี้อย่างไร แนะนำให้ผู้อื่นใช้รหัสส่งเสริมการขายของคุณ อัปโหลดใน YouTube หรือแพลตฟอร์มอื่นๆ <br> 3. ป้อนลิงก์นั้นในแบบฟอร์มด้านล่าง ระบบของเราจะแสดงให้คนอื่นเห็น"
+    "text": "ดูแลธุรกิจโปรโมชันของคุณ: \n 1. แชร์รหัสโปรโมชันของคุณในโปรแกรมส่งข้อความและโซเชียลเน็ตเวิร์ก โดยคลิกที่ {{shareIcon}} ใกล้กับรหัสโปรโมชันของคุณที่ด้านบนของหน้าต่างนี้ \n 2. ใช้เวลาอย่างน้อย 1 สัปดาห์ของเราเพื่อสร้างวิดีโอสั้นหรือบทความเกี่ยวกับงานโปรโมตของคุณใน BomEbo สร้างภาพหน้าจอของผลลัพธ์และการสาธิตสั้น ๆ ว่าคุณทำงานโปรโมตนี้อย่างไร แนะนำให้ผู้อื่นใช้รหัสส่งเสริมการขายของคุณ อัปโหลดใน YouTube หรือแพลตฟอร์มอื่นๆ \n 3. ป้อนลิงก์นั้นในแบบฟอร์มด้านล่าง ระบบของเราจะแสดงให้คนอื่นเห็น"
   },
   {
     "ifi": 151,
