@@ -1,330 +1,85 @@
 [
-  {
-    "ifi": 0,
-    "text": " "
-  },
-  {
-    "ifi": 1,
-    "text": "BomEbo"
-  },
-  {
-    "ifi": 2,
-    "text": "Thai Massage"
-  },
-  {
-    "ifi": 3,
-    "text": "OK"
-  },
-  {
-    "ifi": 4,
-    "text": "Cancel"
-  },
-  {
-    "ifi": 5,
-    "text": "Close"
-  },
-  {
-    "ifi": 6,
-    "text": "Couldn't connect to iol network. Will try few seconds later.."
-  },
-  {
-    "ifi": 7,
-    "text": "Please, wait a little for connection"
-  },
-  {
-    "ifi": 8,
-    "text": "This feature is unavailable yet for public test. Follow the project news. \n During the crowdfunding and MSPP campaign we continue spend funds to the BomEbo development. You are able to update the iol app according news during the campaign and always after. \n Wanna earn GOOD MONEY on the project using just internet? You can start right NOW even during development! Just enter empty Promo code in the \"Use promo code\" menu, learn MSPP conditions of the project and become our remote Promo Agent."
-  },
-  {
-    "ifi": 9,
-    "text": "You should log in for this feature"
-  },
-  {
-    "ifi": 10,
-    "text": "Username in NiXeL app"
-  },
-  {
-    "ifi": 11,
-    "text": "3-50 symbols"
-  },
-  {
-    "ifi": 12,
-    "text": "Apply"
-  },
-  {
-    "ifi": 13,
-    "text": "Accept"
-  },
-  {
-    "ifi": 14,
-    "text": "Decline"
-  },
-  {
-    "ifi": 15,
-    "text": "Save"
-  },
-  {
-    "ifi": 16,
-    "text": "Enter"
-  },
-  {
-    "ifi": 17,
-    "text": "Yes"
-  },
-  {
-    "ifi": 18,
-    "text": "No"
-  },
-  {
-    "ifi": 19,
-    "text": "Please, wait a little for app ready"
-  },
-  {
-    "ifi": 20,
-    "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/docs/en/tc.htm",
-    "bigText": true
-  },
-  {
-    "ifi": 21,
-    "text": "BomEbo presentation & demo"
-  },
-  {
-    "ifi": 22,
-    "text": "https://www.youtube.com/watch?v=9mOnPnbeUpw&list=PLjwIP64KxSmq927-ahD9c2mxpu9mGTpBV&index=3",
-    "note": "Link to current promo website"
-  },
-  {
-    "ifi": 23,
-    "text": "{{appName}} iol app is required in the device for this feature but it is not installed. Please, install it and try again"
-  },
-  {
-    "ifi": 24,
-    "text": "Choose an app store"
-  },
-  {
-    "ifi": 25,
-    "text": "Offer"
-  },
-  {
-    "ifi": 26,
-    "text": "Order"
-  },
-  {
-    "ifi": 27,
-    "text": "Supply"
-  },
-  {
-    "ifi": 28,
-    "text": "Demand"
-  },
-  {
-    "ifi": 29,
-    "text": "Start job"
-  },
-  {
-    "ifi": 30,
-    "text": "Pause job"
-  },
-  {
-    "ifi": 31,
-    "text": "Resume job"
-  },
-  {
-    "ifi": 32,
-    "text": "Complete job"
-  },
-  {
-    "ifi": 33,
-    "text": "Place in market"
-  },
-  {
-    "ifi": 34,
-    "text": "Description"
-  },
-  {
-    "ifi": 35,
-    "text": "Notes"
-  },
-  {
-    "ifi": 36,
-    "text": "Hour"
-  },
-  {
-    "ifi": 37,
-    "text": "KM"
-  },
-  {
-    "ifi": 38,
-    "text": "Currency"
-  },
-  {
-    "ifi": 39,
-    "text": "Choose"
-  },
-  {
-    "ifi": 40,
-    "text": "Date"
-  },
-  {
-    "ifi": 41,
-    "text": "Time"
-  },
-  {
-    "ifi": 42,
-    "text": "Smart Order"
-  },
-  {
-    "ifi": 43,
-    "text": "Required"
-  },
-  {
-    "ifi": 44,
-    "text": "Check data/form"
-  },
-  {
-    "ifi": 45,
-    "text": "Step"
-  },
-  {
-    "ifi": 46,
-    "text": "Messages"
-  },
-  {
-    "ifi": 47,
-    "text": "New order"
-  },
-  {
-    "ifi": 48,
-    "text": "Ignore"
-  },
-  {
-    "ifi": 49,
-    "text": "New offer"
-  },
-  {
-    "ifi": 50,
-    "text": "You are hired"
-  },
-  {
-    "ifi": 51,
-    "text": "Smart contract"
-  },
-  {
-    "ifi": 52,
-    "text": "Show feedback"
-  },
-  {
-    "ifi": 53,
-    "text": "Worker"
-  },
-  {
-    "ifi": 54,
-    "text": "Customer"
-  },
-  {
-    "ifi": 55,
-    "text": "Choose a payment method"
-  },
-  {
-    "ifi": 56,
-    "text": "Currency in NiXeL"
-  },
-  {
-    "ifi": 57,
-    "text": "Job place"
-  },
-  {
-    "ifi": 58,
-    "text": "Assessed amount"
-  },
-  {
-    "ifi": 59,
-    "text": "Cash"
-  },
-  {
-    "ifi": 60,
-    "text": "IOU in NiXeL"
-  },
-  {
-    "ifi": 61,
-    "text": "SINHRO in NiXeL"
-  },
-  {
-    "ifi": 62,
-    "text": "Payment method"
-  },
-  {
-    "ifi": 63,
-    "text": "Cancel contract"
-  },
-  {
-    "ifi": 64,
-    "text": "Contract updates"
-  },
-  {
-    "ifi": 65,
-    "text": "Fees"
-  },
-  {
-    "ifi": 66,
-    "text": "BomEbo fee"
-  },
-  {
-    "ifi": 67,
-    "text": "iol royalty"
-  },
-  {
-    "ifi": 68,
-    "text": "Including fees for customer"
-  },
-  {
-    "ifi": 69,
-    "text": "Do you confirm the action?"
-  },
-  {
-    "ifi": 70,
-    "text": "A new revision of the BomEbo app is available. Please, update the app"
-  },
-  {
-    "ifi": 71,
-    "text": "Action history"
-  },
-  {
-    "ifi": 72,
-    "text": "Confirm"
-  },
-  {
-    "ifi": 73,
-    "text": "Ready"
-  },
-  {
-    "ifi": 74,
-    "text": "Cannot use the feature in this state"
-  },
-  {
-    "ifi": 75,
-    "text": "Delete"
-  },
-  {
-    "ifi": 76,
-    "text": "Amount"
-  },
-  {
-    "ifi": 77,
-    "text": "The feature is coming soon. Please, follow our news"
-  },
-  {
-    "ifi": 78,
-    "text": "You are logged in. Your promo codes, messages and worker orders without logging in they have been linked to your account and you can access them from other devices only after log in"
-  },
-  {
-    "ifi": 79,
-    "text": "You have started earning income. To keep the success of receiving income, you need to log in"
-  },
-  {
-    "ifi": 80,
-    "text": "Important"
-  },
+  {"ifi": 0,  "text": " "},
+  {"ifi": 1,  "text": "BomEbo"},
+  {"ifi": 2,  "text": "Thai Massage"},
+  {"ifi": 3,  "text": "OK"},
+  {"ifi": 4,  "text": "Cancel"},
+  {"ifi": 5,  "text": "Close"},
+  {"ifi": 6,  "text": "Couldn't connect to iol network. Will try few seconds later.."},
+  {"ifi": 7,  "text": "Please, wait a little for connection"},
+  {"ifi": 8,  "text": "This feature is unavailable yet for public test. Follow the project news. \n During the crowdfunding and MSPP campaign we continue spend funds to the BomEbo development. You are able to update the iol app according news during the campaign and always after. \n Wanna earn GOOD MONEY on the project using just internet? You can start right NOW even during development! Just enter empty Promo code in the \"Use promo code\" menu, learn MSPP conditions of the project and become our remote Promo Agent."},
+  {"ifi": 9,  "text": "You should log in for this feature"},
+  {"ifi": 10,  "text": "Username in NiXeL app"},
+  {"ifi": 11,  "text": "3-50 symbols"},
+  {"ifi": 12,  "text": "Apply"},
+  {"ifi": 13,  "text": "Accept"},
+  {"ifi": 14,  "text": "Decline"},
+  {"ifi": 15,  "text": "Save"},
+  {"ifi": 16,  "text": "Enter"},
+  {"ifi": 17,  "text": "Yes"},
+  {"ifi": 18,  "text": "No"},
+  {"ifi": 19,  "text": "Please, wait a little for app ready"},
+  {"ifi": 20,  "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/docs/en/tc.htm",  "bigText": true},
+  {"ifi": 21,  "text": "BomEbo presentation & demo"},
+  {"ifi": 22,  "text": "https://www.youtube.com/watch?v=9mOnPnbeUpw&list=PLjwIP64KxSmq927-ahD9c2mxpu9mGTpBV&index=3",  "note": "Link to current promo website"},
+  {"ifi": 23,  "text": "{{appName}} iol app is required in the device for this feature but it is not installed. Please, install it and try again"},
+  {"ifi": 24,  "text": "Choose an app store"},
+  {"ifi": 25,  "text": "Offer"},
+  {"ifi": 26,  "text": "Order"},
+  {"ifi": 27,  "text": "Supply"},
+  {"ifi": 28,  "text": "Demand"},
+  {"ifi": 29,  "text": "Start job"},
+  {"ifi": 30,  "text": "Pause job"},
+  {"ifi": 31,  "text": "Resume job"},
+  {"ifi": 32,  "text": "Complete job"},
+  {"ifi": 33,  "text": "Place in market"},
+  {"ifi": 34,  "text": "Description"},
+  {"ifi": 35,  "text": "Notes"},
+  {"ifi": 36,  "text": "Hour"},
+  {"ifi": 37,  "text": "KM"},
+  {"ifi": 38,  "text": "Currency"},
+  {"ifi": 39,  "text": "Choose"},
+  {"ifi": 40,  "text": "Date"},
+  {"ifi": 41,  "text": "Time"},
+  {"ifi": 42,  "text": "Smart Order"},
+  {"ifi": 43,  "text": "Required"},
+  {"ifi": 44,  "text": "Check data/form"},
+  {"ifi": 45,  "text": "Step"},
+  {"ifi": 46,  "text": "Messages"},
+  {"ifi": 47,  "text": "New order"},
+  {"ifi": 48,  "text": "Ignore"},
+  {"ifi": 49,  "text": "New offer"},
+  {"ifi": 50,  "text": "You are hired"},
+  {"ifi": 51,  "text": "Smart contract"},
+  {"ifi": 52,  "text": "Show feedback"},
+  {"ifi": 53,  "text": "Worker"},
+  {"ifi": 54,  "text": "Customer"},
+  {"ifi": 55,  "text": "Choose a payment method"},
+  {"ifi": 56,  "text": "Currency in NiXeL"},
+  {"ifi": 57,  "text": "Job place"},
+  {"ifi": 58,  "text": "Assessed amount"},
+  {"ifi": 59,  "text": "Cash"},
+  {"ifi": 60,  "text": "IOU in NiXeL"},
+  {"ifi": 61,  "text": "SINHRO in NiXeL"},
+  {"ifi": 62,  "text": "Payment method"},
+  {"ifi": 63,  "text": "Cancel contract"},
+  {"ifi": 64,  "text": "Contract updates"},
+  {"ifi": 65,  "text": "Fees"},
+  {"ifi": 66,  "text": "BomEbo fee"},
+  {"ifi": 67,  "text": "iol royalty"},
+  {"ifi": 68,  "text": "Including fees for customer"},
+  {"ifi": 69,  "text": "Do you confirm the action?"},
+  {"ifi": 70,  "text": "A new revision of the BomEbo app is available. Please, update the app"},
+  {"ifi": 71,  "text": "Action history"},
+  {"ifi": 72,  "text": "Confirm"},
+  {"ifi": 73,  "text": "Ready"},
+  {"ifi": 74,  "text": "Cannot use the feature in this state"},
+  {"ifi": 75,  "text": "Delete"},
+  {"ifi": 76,  "text": "Amount"},
+  {"ifi": 77,  "text": "The feature is coming soon. Please, follow our news"},
+  {"ifi": 78,  "text": "You are logged in. Your promo codes, messages and worker orders without logging in they have been linked to your account and you can access them from other devices only after log in"},
+  {"ifi": 79,  "text": "You have started earning income. To keep the success of receiving income, you need to log in"},
+  {"ifi": 80,  "text": "Important"},
   {"ifi": 81, "text": "Will be available after the BomEbo open test is completed"},
   {"ifi": 82, "text": "Share you promo code with your followers in other apps"},
   {"ifi": 83, "text": "Not enough in the balance"},
@@ -337,821 +92,212 @@
   {"ifi": 90, "text": "NiXeL comes with iolService that:\n- makes all iol apps small and fast;\n- gives you access to over 60 cashless currency and all currency in cash;\n- easy log in to all iol apps with only registered account;\n- 24/7 multilingual support any iol app users;\n- and many more...\nTo proceed logging in you should have an account in the NiXeL app. Please, install it."},
   {"ifi": 91, "text": "New customer"},
   {"ifi": 92, "text": "New worker"},
-  {
-    "ifi": 100,
-    "text": "Main menu"
-  },
-  {
-    "ifi": 101,
-    "text": "Log In with NiXeL",
-    "note": "from 100 to 199 about menu"
-  },
-  {
-    "ifi": 102,
-    "text": "Log Out"
-  },
-  {
-    "ifi": 103,
-    "text": "Profile in BomEbo"
-  },
-  {
-    "ifi": 104,
-    "text": "Job safety"
-  },
-  {
-    "ifi": 105,
-    "text": "App language"
-  },
-  {
-    "ifi": 106,
-    "text": "App Settings"
-  },
-  {
-    "ifi": 107,
-    "text": "Order massage"
-  },
-  {
-    "ifi": 108,
-    "text": "Offer massage"
-  },
-  {
-    "ifi": 109,
-    "text": "Show on map & list"
-  },
-  {
-    "ifi": 110,
-    "text": "FAQ & Support"
-  },
-  {
-    "ifi": 111,
-    "text": "Terms & Conditions"
-  },
-  {
-    "ifi": 112,
-    "text": "Use promo code"
-  },
-  {
-    "ifi": 113,
-    "text": "The promo code is not found"
-  },
-  {
-    "ifi": 114,
-    "text": "Your initial seeding"
-  },
-  {
-    "ifi": 115,
-    "text": "Your minimal benefit"
-  },
-  {
-    "ifi": 116,
-    "text": "Promo name"
-  },
-  {
-    "ifi": 117,
-    "text": "Promo type"
-  },
-  {
-    "ifi": 118,
-    "text": "Couldn't register a promo code for you, sorry. Please, try again later"
-  },
-  {
-    "ifi": 119,
-    "text": "Your payment details"
-  },
-  {
-    "ifi": 120,
-    "text": "You will receive your promo agent incomes to the details"
-  },
-  {
-    "ifi": 121,
-    "text": "Your seeding, total"
-  },
-  {
-    "ifi": 122,
-    "text": "Your harvest"
-  },
-  {
-    "ifi": 123,
-    "text": "Your own promo agent code for the promo campaign has been registered but it's still inactive. Nobody can use it as a promo code until you complete all the necessary steps and your promo code state is Active. Please, follow instruction and start earn with your promo code"
-  },
-  {
-    "ifi": 124,
-    "text": "Your promo agent code"
-  },
-  {
-    "ifi": 125,
-    "text": "Your contacts"
-  },
-  {
-    "ifi": 126,
-    "text": "The contacts can be used if necessary. Eg, in cases like payment issues etc."
-  },
-  {
-    "ifi": 127,
-    "text": "The last step to activate your promo code: the amount of your seeding must be spreaded in the agents troupe jars (up to 4) and BomEbo launch/promo support. Your jar will be in the list for your following agents that used your promo code and their following agents"
-  },
-  {
-    "ifi": 128,
-    "text": "Back to my account"
-  },
-  {
-    "ifi": 129,
-    "text": "You sowed"
-  },
-  {
-    "ifi": 130,
-    "text": "Awaits your seeding"
-  },
-  {
-    "ifi": 131,
-    "text": "Transfer details"
-  },
-  {
-    "ifi": 132,
-    "text": "I sent/sowed"
-  },
-  {
-    "ifi": 133,
-    "text": "Your promo agents troupe"
-  },
-  {
-    "ifi": 134,
-    "text": "Your DC-MSPP balance"
-  },
-  {
-    "ifi": 135,
-    "text": "Promo management"
-  },
-  {
-    "ifi": 136,
-    "text": "Congratulation, your have got a special promo code as for Independent Promo Manager {{mark}}. We will add extra {{bonus}}% to your bank details from payments of your 4 levels promo code followers to the Local iol Escrow"
-  },
-  {
-    "ifi": 137,
-    "text": "Increase seeding"
-  },
-  {
-    "ifi": 138,
-    "text": "A notification about your payment has been sent to the account holder/jar. The promo code information will be updated as soon as the system gets the confirmation the payment. If no confirmation during 5 days + holidays you can use 'Confirmation claim' to provide evidences to the BomEbo admins and contact with the account holder directly. Promo codes of account holders that received payments and don't confirm more than 7 days can be blocked"
-  },
-  {
-    "ifi": 139,
-    "text": "Confirmation claim"
-  },
-  {
-    "ifi": 140,
-    "text": "Did you receive?"
-  },
-  {
-    "ifi": 141,
-    "text": "Awaits confirmation"
-  },
-  {
-    "ifi": 142,
-    "text": "Please, prepare proof of your payment for uploading to the app: a screenshot of an electronic or photo of a paper receipt and bank statement. We care about the BomEbo reputation and the safety of our users, we value the time and work of our team. Therefore, according to the terms of the application and the rules of the iol ecosystem, users that provide false data are excluded from the promo and their iol accounts may be blocked"
-  },
-  {
-    "ifi": 143,
-    "text": "Withdraw"
-  },
-  {
-    "ifi": 144,
-    "text": "To another currency region promo"
-  },
-  {
-    "ifi": 145,
-    "text": "To fee distribution equity"
-  },
-  {
-    "ifi": 146,
-    "text": "To fees balance"
-  },
-  {
-    "ifi": 147,
-    "text": "Exchange to rating in BomEbo"
-  },
-  {
-    "ifi": 148,
-    "text": "See how the seeding is cared"
-  },
-  {
-    "ifi": 149,
-    "text": "Seeding care"
-  },
-  {
-    "ifi": 150,
-    "text": "Take care about your promo business: \n 1. Share your promo code in messengers and social networks clicking on {{shareIcon}} near your promo code on the top of this window. \n 2. Spend at least 1 our a week to make a short videos or articles about your promo job in BomEbo, make screenshots of your results and short demos how do you do your this promo job. Recommend people use your promo code. Upload them in YouTube or other platforms. \n 3. Enter that links in the form bellow. Our system will show them to others"
-  },
-  {
-    "ifi": 151,
-    "text": "Resource name"
-  },
-  {
-    "ifi": 152,
-    "text": "URL address"
-  },
-  {
-    "ifi": 153,
-    "text": "You can claim after 5 days + holidays you sent/sown the amount"
-  },
-  {
-    "ifi": 154,
-    "text": "A confirmation claim has been initialised"
-  },
-  {
-    "ifi": 155,
-    "text": "Send a claim"
-  },
-  {
-    "ifi": 156,
-    "text": "Now, you can send your claim. An email to the jar's owner with copy to iol will be generated. Be sure to attach all your transfer evidences you were required to prepare"
-  },
+  {"ifi": 100,  "text": "Main menu"},
+  {"ifi": 101,  "text": "Log In with NiXeL",  "note": "from 100 to 199 about menu"},
+  {"ifi": 102,  "text": "Log Out"},
+  {"ifi": 103,  "text": "Profile in BomEbo"},
+  {"ifi": 104,  "text": "Job safety"},
+  {"ifi": 105,  "text": "App language"},
+  {"ifi": 106,  "text": "App Settings"},
+  {"ifi": 107,  "text": "Order massage"},
+  {"ifi": 108,  "text": "Offer massage"},
+  {"ifi": 109,  "text": "Show on map & list"},
+  {"ifi": 110,  "text": "FAQ & Support"},
+  {"ifi": 111,  "text": "Terms & Conditions"},
+  {"ifi": 112,  "text": "Use promo code"},
+  {"ifi": 113,  "text": "The promo code is not found"},
+  {"ifi": 114,  "text": "Your initial seeding"},
+  {"ifi": 115,  "text": "Your minimal benefit"},
+  {"ifi": 116,  "text": "Promo name"},
+  {"ifi": 117,  "text": "Promo type"},
+  {"ifi": 118,  "text": "Couldn't register a promo code for you, sorry. Please, try again later"},
+  {"ifi": 119,  "text": "Your payment details"},
+  {"ifi": 120,  "text": "You will receive your promo agent incomes to the details"},
+  {"ifi": 121,  "text": "Your seeding, total"},
+  {"ifi": 122,  "text": "Your harvest"},
+  {"ifi": 123,  "text": "Your own promo agent code for the promo campaign has been registered but it's still inactive. Nobody can use it as a promo code until you complete all the necessary steps and your promo code state is Active. Please, follow instruction and start earn with your promo code"},
+  {"ifi": 124,  "text": "Your promo agent code"},
+  {"ifi": 125,  "text": "Your contacts"},
+  {"ifi": 126,  "text": "The contacts can be used if necessary. Eg, in cases like payment issues etc."},
+  {"ifi": 127,  "text": "The last step to activate your promo code: the amount of your seeding must be spreaded in the agents troupe jars (up to 4) and BomEbo launch/promo support. Your jar will be in the list for your following agents that used your promo code and their following agents"},
+  {"ifi": 128,  "text": "Back to my account"},
+  {"ifi": 129,  "text": "You sowed"},
+  {"ifi": 130,  "text": "Awaits your seeding"},
+  {"ifi": 131,  "text": "Transfer details"},
+  {"ifi": 132,  "text": "I sent/sowed"},
+  {"ifi": 133,  "text": "Your promo agents troupe"},
+  {"ifi": 134,  "text": "Your DC-MSPP balance"},
+  {"ifi": 135,  "text": "Promo management"},
+  {"ifi": 136,  "text": "Congratulation, your have got a special promo code as for Independent Promo Manager {{mark}}. We will add extra {{bonus}}% to your bank details from payments of your 4 levels promo code followers to the Local iol Escrow"},
+  {"ifi": 137,  "text": "Increase seeding"},
+  {"ifi": 138,  "text": "A notification about your payment has been sent to the account holder/jar. The promo code information will be updated as soon as the system gets the confirmation the payment. If no confirmation during 5 days + holidays you can use 'Confirmation claim' to provide evidences to the BomEbo admins and contact with the account holder directly. Promo codes of account holders that received payments and don't confirm more than 7 days can be blocked"},
+  {"ifi": 139,  "text": "Confirmation claim"},
+  {"ifi": 140,  "text": "Did you receive?"},
+  {"ifi": 141,  "text": "Awaits confirmation"},
+  {"ifi": 142,  "text": "Please, prepare proof of your payment for uploading to the app: a screenshot of an electronic or photo of a paper receipt and bank statement. We care about the BomEbo reputation and the safety of our users, we value the time and work of our team. Therefore, according to the terms of the application and the rules of the iol ecosystem, users that provide false data are excluded from the promo and their iol accounts may be blocked"},
+  {"ifi": 143,  "text": "Withdraw"},
+  {"ifi": 144,  "text": "To another currency region promo"},
+  {"ifi": 145,  "text": "To fee distribution equity"},
+  {"ifi": 146,  "text": "To fees balance"},
+  {"ifi": 147,  "text": "Exchange to rating in BomEbo"},
+  {"ifi": 148,  "text": "See how the seeding is cared"},
+  {"ifi": 149,  "text": "Seeding care"},
+  {"ifi": 150,  "text": "Take care about your promo business: \n 1. Share your promo code in messengers and social networks clicking on {{shareIcon}} near your promo code on the top of this window. \n 2. Spend at least 1 our a week to make a short videos or articles about your promo job in BomEbo, make screenshots of your results and short demos how do you do your this promo job. Recommend people use your promo code. Upload them in YouTube or other platforms. \n 3. Enter that links in the form bellow. Our system will show them to others"},
+  {"ifi": 151,  "text": "Resource name"},
+  {"ifi": 152,  "text": "URL address"},
+  {"ifi": 153,  "text": "You can claim after 5 days + holidays you sent/sown the amount"},
+  {"ifi": 154,  "text": "A confirmation claim has been initialised"},
+  {"ifi": 155,  "text": "Send a claim"},
+  {"ifi": 156,  "text": "Now, you can send your claim. An email to the jar's owner with copy to iol will be generated. Be sure to attach all your transfer evidences you were required to prepare"},
   {"ifi": 157, "text": "Apply for TPM"},
   {"ifi": 158, "text": "Off 3D hologram"},
   {"ifi": 159, "text": "On 3D hologram"},
   {"ifi": 160, "text": "Add language"},
   {"ifi": 161, "text": "https://youtu.be/Vr5TZUcp-dA"},
-  {
-    "ifi": 200,
-    "text": "Copied",
-    "note": "from 200 to 1999 any interface texts"
-  },
-  {
-    "ifi": 201,
-    "text": "Already done"
-  },
-  {
-    "ifi": 202,
-    "text": "Choose address"
-  },
-  {
-    "ifi": 203,
-    "text": "Safety settings allow you to share your location during job to the users that you include in the safety settings. The users will be notified about your job state changes"
-  },
-  {
-    "ifi": 204,
-    "text": "Add user"
-  },
-  {
-    "ifi": 205,
-    "text": "Remove"
-  },
-  {
-    "ifi": 206,
-    "text": "Share location during jobs"
-  },
-  {
-    "ifi": 207,
-    "text": "Share microphone during jobs"
-  },
-  {
-    "ifi": 208,
-    "text": "Promo code"
-  },
-  {
-    "ifi": 209,
-    "text": "Couldn't find the promo code. Would you like to get the current promo?"
-  },
-  {
-    "ifi": 210,
-    "text": "I do"
-  },
-  {
-    "ifi": 211,
-    "text": "Price for 1 hour"
-  },
-  {
-    "ifi": 212,
-    "text": "I serve area"
-  },
-  {
-    "ifi": 213,
-    "text": "Center"
-  },
-  {
-    "ifi": 214,
-    "text": "Radius"
-  },
-  {
-    "ifi": 215,
-    "text": "Set area"
-  },
-  {
-    "ifi": 216,
-    "text": "Payment options"
-  },
-  {
-    "ifi": 217,
-    "text": "I give"
-  },
-  {
-    "ifi": 218,
-    "text": "I accept"
-  },
-  {
-    "ifi": 219,
-    "text": "I can pay cash"
-  },
-  {
-    "ifi": 220,
-    "text": "I can give IOU"
-  },
-  {
-    "ifi": 221,
-    "text": "I can give SINHRO"
-  },
-  {
-    "ifi": 222,
-    "text": "I accept cash"
-  },
-  {
-    "ifi": 223,
-    "text": "I accept in exchange for IOU"
-  },
-  {
-    "ifi": 224,
-    "text": "I accept in exchange for SINHRO"
-  },
-  {
-    "ifi": 225,
-    "text": "If you don't pay cash you must log in"
-  },
-  {
-    "ifi": 226,
-    "text": "I pay tax"
-  },
-  {
-    "ifi": 227,
-    "text": "Tax names"
-  },
-  {
-    "ifi": 228,
-    "text": "Tax rate (%)"
-  },
-  {
-    "ifi": 229,
-    "text": "Separated by a comma: VAT,GST"
-  },
-  {
-    "ifi": 230,
-    "text": "Additionally I'd say to may customers"
-  },
-  {
-    "ifi": 231,
-    "text": "Write here something that make you outstanding: your experience, languages, requirements, exceptions. Explain what is unique in your Freestyle Art massage"
-  },
-  {
-    "ifi": 232,
-    "text": "I need"
-  },
-  {
-    "ifi": 233,
-    "text": "Choose massage"
-  },
-  {
-    "ifi": 234,
-    "text": "Currency and limit"
-  },
-  {
-    "ifi": 235,
-    "text": "Maximal price for 1 hour"
-  },
-  {
-    "ifi": 236,
-    "text": "At my place"
-  },
-  {
-    "ifi": 237,
-    "text": "Address"
-  },
-  {
-    "ifi": 238,
-    "text": "Worker should come to"
-  },
-  {
-    "ifi": 239,
-    "text": "Place point"
-  },
-  {
-    "ifi": 240,
-    "text": "Set address point"
-  },
-  {
-    "ifi": 241,
-    "text": "No street address found for this point. BomEbo allows only places that have street address. Please, choose a place carefully"
-  },
-  {
-    "ifi": 242,
-    "text": "Nothing found"
-  },
-  {
-    "ifi": 243,
-    "text": "Job time"
-  },
-  {
-    "ifi": 244,
-    "text": "Start date, time"
-  },
-  {
-    "ifi": 245,
-    "text": "Duration limit"
-  },
-  {
-    "ifi": 246,
-    "text": "Additional info"
-  },
-  {
-    "ifi": 247,
-    "text": "Preferences, expectations and other notes"
-  },
-  {
-    "ifi": 248,
-    "text": "NickName in BomEbo"
-  },
-  {
-    "ifi": 249,
-    "text": "Gender"
-  },
-  {
-    "ifi": 250,
-    "text": "About me"
-  },
-  {
-    "ifi": 251,
-    "text": "Lady"
-  },
-  {
-    "ifi": 252,
-    "text": "Gentleman"
-  },
-  {
-    "ifi": 253,
-    "text": "Different gender"
-  },
-  {
-    "ifi": 254,
-    "text": "Edit profile"
-  },
-  {
-    "ifi": 255,
-    "text": "Show iol profile"
-  },
-  {
-    "ifi": 256,
-    "text": "Length"
-  },
-  {
-    "ifi": 257,
-    "text": "Write something interesting about you"
-  },
-  {
-    "ifi": 258,
-    "text": "Show ratings"
-  },
-  {
-    "ifi": 259,
-    "text": "As worker"
-  },
-  {
-    "ifi": 260,
-    "text": "As customer"
-  },
-  {
-    "ifi": 261,
-    "text": "Profile and ratings"
-  },
-  {
-    "ifi": 262,
-    "text": "Track contractor location"
-  },
-  {
-    "ifi": 263,
-    "text": "Share location with contractor"
-  },
-  {
-    "ifi": 264,
-    "text": "Your contractor has not shared location yet. Contractors will be offered to share real time location each other with job remainder 30 minutes before job start time. Tracking will be available until the job is completed or the contract is cancelled"
-  },
-  {
-    "ifi": 265,
-    "text": "Your location tracking will be available for your contractor until the job is completed or the contract is cancelled"
-  },
-  {
-    "ifi": 266,
-    "text": "Hide contract"
-  },
-  {
-    "ifi": 267,
-    "text": "Customers' details unavailable from the map"
-  },
-  {
-    "ifi": 268,
-    "text": "Fees for the customer will be included into the payment amount"
-  },
-  {
-    "ifi": 269,
-    "text": "Confirm payment"
-  },
-  {
-    "ifi": 270,
-    "text": "Amount to pay"
-  },
-  {
-    "ifi": 271,
-    "text": "Price for hour: {{price}} \n Fees: {{fees}}% \n Job duration: {{duration}} hours \n Minimal paid duration: {{minDuration}} hours \n Total to pay: {{totalSum}}"
-  },
-  {
-    "ifi": 272,
-    "text": "Have you paid already?"
-  },
-  {
-    "ifi": 273,
-    "text": "Has your service been paid?"
-  },
-  {
-    "ifi": 274,
-    "text": "Minimal paid duration"
-  },
-  {
-    "ifi": 275,
-    "text": "Rate the contractor and leave feedback"
-  },
-  {
-    "ifi": 276,
-    "text": "Reminder"
-  },
-  {
-    "ifi": 277,
-    "text": "You have contract and the service will be provided soon. Please share your location with your contractor"
-  },
-  {
-    "ifi": 278,
-    "text": "Sorry, the app cannot show more than one map at the same time"
-  },
-  {
-    "ifi": 300,
-    "text": "Created",
-    "note": "from 300 to 399 smart contract states"
-  },
-  {
-    "ifi": 301,
-    "text": "Saved"
-  },
-  {
-    "ifi": 305,
-    "text": "Signed by worker"
-  },
-  {
-    "ifi": 310,
-    "text": "Signed and scheduled"
-  },
-  {
-    "ifi": 313,
-    "text": "Contract is cancelled"
-  },
-  {
-    "ifi": 315,
-    "text": "Job in progress"
-  },
-  {
-    "ifi": 320,
-    "text": "Job is paused"
-  },
-  {
-    "ifi": 325,
-    "text": "Completed and awaits payment"
-  },
-  {
-    "ifi": 327,
-    "text": "Completed and awaits payment confirm from the worker"
-  },
-  {
-    "ifi": 330,
-    "text": "Completed and paid"
-  },
-
-  {
-    "ifi": 400,
-    "text": "State",
-    "note": "400-449 promo code states"
-  },
-  {
-    "ifi": 401,
-    "text": "Need your payment details"
-  },
-  {
-    "ifi": 403,
-    "text": "Need contacts"
-  },
-  {
-    "ifi": 405,
-    "text": "Waiting for all seedlings"
-  },
-  {
-    "ifi": 410,
-    "text": "Active"
-  },
-  {
-    "ifi": 450,
-    "text": "Agents troupe jar",
-    "note": "450-499 promo jar names, descr etc"
-  },
-  {
-    "ifi": 451,
-    "text": "Safely distributes crowdfunds to engineers and other professionals to grow the BomEbo"
-  },
-  {
-    "ifi": 452,
-    "text": "Gave you information and promo code"
-  },
-  {
-    "ifi": 453,
-    "text": "Raised several patrons"
-  },
-  {
-    "ifi": 454,
-    "text": "Masters teacher"
-  },
-  {
-    "ifi": 455,
-    "text": "Once confidently entered DC-MSPP. Now a rich man"
-  },
-  {
-    "ifi": 500,
-    "text": "Promo terms & rules",
-    "note": "500-599 promo big texts and links"
-  },
-  {
-    "ifi": 501,
-    "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/docs/en/promo1_tc.htm",
-    "notes": "promo 1 rules"
-  },
-  {
-    "ifi": 502,
-    "text": "Video instruction for Promo Agents"
-  },
-  {
-    "ifi": 503,
-    "text": "https://youtu.be/046kCknD-A4",
-    "notes": "promo 1 video for agents"
-  },
-  {
-    "ifi": 504,
-    "text": "Video instruction for Promo Managers"
-  },
-  {
-    "ifi": 505,
-    "text": "https://youtu.be/OCDh-bNxER8",
-    "notes": "promo 1 video for managers"
-  },
+  {"ifi": 200,  "text": "Copied",  "note": "from 200 to 1999 any interface texts"},
+  {"ifi": 201,  "text": "Already done"},
+  {"ifi": 202,  "text": "Choose address"},
+  {"ifi": 203,  "text": "Safety settings allow you to share your location during job to the users that you include in the safety settings. The users will be notified about your job state changes"},
+  {"ifi": 204,  "text": "Add user"},
+  {"ifi": 205,  "text": "Remove"},
+  {"ifi": 206,  "text": "Share location during jobs"},
+  {"ifi": 207,  "text": "Share microphone during jobs"},
+  {"ifi": 208,  "text": "Promo code"},
+  {"ifi": 209,  "text": "Couldn't find the promo code. Would you like to get the current promo?"},
+  {"ifi": 210,  "text": "I do"},
+  {"ifi": 211,  "text": "Price for 1 hour"},
+  {"ifi": 212,  "text": "I serve area"},
+  {"ifi": 213,  "text": "Center"},
+  {"ifi": 214,  "text": "Radius"},
+  {"ifi": 215,  "text": "Set area"},
+  {"ifi": 216,  "text": "Payment options"},
+  {"ifi": 217,  "text": "I give"},
+  {"ifi": 218,  "text": "I accept"},
+  {"ifi": 219,  "text": "I can pay cash"},
+  {"ifi": 220,  "text": "I can give IOU"},
+  {"ifi": 221,  "text": "I can give SINHRO"},
+  {"ifi": 222,  "text": "I accept cash"},
+  {"ifi": 223,  "text": "I accept in exchange for IOU"},
+  {"ifi": 224,  "text": "I accept in exchange for SINHRO"},
+  {"ifi": 225,  "text": "If you don't pay cash you must log in"},
+  {"ifi": 226,  "text": "I pay tax"},
+  {"ifi": 227,  "text": "Tax names"},
+  {"ifi": 228,  "text": "Tax rate (%)"},
+  {"ifi": 229,  "text": "Separated by a comma: VAT,GST"},
+  {"ifi": 230,  "text": "Additionally I'd say to may customers"},
+  {"ifi": 231,  "text": "Write here something that make you outstanding: your experience, languages, requirements, exceptions. Explain what is unique in your Freestyle Art massage"},
+  {"ifi": 232,  "text": "I need"},
+  {"ifi": 233,  "text": "Choose massage"},
+  {"ifi": 234,  "text": "Currency and limit"},
+  {"ifi": 235,  "text": "Maximal price for 1 hour"},
+  {"ifi": 236,  "text": "At my place"},
+  {"ifi": 237,  "text": "Address"},
+  {"ifi": 238,  "text": "Worker should come to"},
+  {"ifi": 239,  "text": "Place point"},
+  {"ifi": 240,  "text": "Set address point"},
+  {"ifi": 241,  "text": "No street address found for this point. BomEbo allows only places that have street address. Please, choose a place carefully"},
+  {"ifi": 242,  "text": "Nothing found"},
+  {"ifi": 243,  "text": "Job time"},
+  {"ifi": 244,  "text": "Start date, time"},
+  {"ifi": 245,  "text": "Duration limit"},
+  {"ifi": 246,  "text": "Additional info"},
+  {"ifi": 247,  "text": "Preferences, expectations and other notes"},
+  {"ifi": 248,  "text": "NickName in BomEbo"},
+  {"ifi": 249,  "text": "Gender"},
+  {"ifi": 250,  "text": "About me"},
+  {"ifi": 251,  "text": "Lady"},
+  {"ifi": 252,  "text": "Gentleman"},
+  {"ifi": 253,  "text": "Different gender"},
+  {"ifi": 254,  "text": "Edit profile"},
+  {"ifi": 255,  "text": "Show iol profile"},
+  {"ifi": 256,  "text": "Length"},
+  {"ifi": 257,  "text": "Write something interesting about you"},
+  {"ifi": 258,  "text": "Show ratings"},
+  {"ifi": 259,  "text": "As worker"},
+  {"ifi": 260,  "text": "As customer"},
+  {"ifi": 261,  "text": "Profile and ratings"},
+  {"ifi": 262,  "text": "Track contractor location"},
+  {"ifi": 263,  "text": "Share location with contractor"},
+  {"ifi": 264,  "text": "Your contractor has not shared location yet. Contractors will be offered to share real time location each other with job remainder 30 minutes before job start time. Tracking will be available until the job is completed or the contract is cancelled"},
+  {"ifi": 265,  "text": "Your location tracking will be available for your contractor until the job is completed or the contract is cancelled"},
+  {"ifi": 266,  "text": "Hide contract"},
+  {"ifi": 267,  "text": "Customers' details unavailable from the map"},
+  {"ifi": 268,  "text": "Fees for the customer will be included into the payment amount"},
+  {"ifi": 269,  "text": "Confirm payment"},
+  {"ifi": 270,  "text": "Amount to pay"},
+  {"ifi": 271,  "text": "Price for hour: {{price}} \n Fees: {{fees}}% \n Job duration: {{duration}} hours \n Minimal paid duration: {{minDuration}} hours \n Total to pay: {{totalSum}}"},
+  {"ifi": 272,  "text": "Have you paid already?"},
+  {"ifi": 273,  "text": "Has your service been paid?"},
+  {"ifi": 274,  "text": "Minimal paid duration"},
+  {"ifi": 275,  "text": "Rate the contractor and leave feedback"},
+  {"ifi": 276,  "text": "Reminder"},
+  {"ifi": 277,  "text": "You have contract and the service will be provided soon. Please share your location with your contractor"},
+  {"ifi": 278,  "text": "Sorry, the app cannot show more than one map at the same time"},
+  {"ifi": 279,  "text": "Add"},
+  {"ifi": 280,  "text": "Make as main"},
+  {"ifi": 300,  "text": "Created",  "note": "from 300 to 399 smart contract states"},
+  {"ifi": 301,  "text": "Saved"},
+  {"ifi": 305,  "text": "Signed by worker"},
+  {"ifi": 310,  "text": "Signed and scheduled"},
+  {"ifi": 313,  "text": "Contract is cancelled"},
+  {"ifi": 315,  "text": "Job in progress"},
+  {"ifi": 320,  "text": "Job is paused"},
+  {"ifi": 325,  "text": "Completed and awaits payment"},
+  {"ifi": 327,  "text": "Completed and awaits payment confirm from the worker"},
+  {"ifi": 330,  "text": "Completed and paid"},
+  {"ifi": 400,  "text": "State",  "note": "400-449 promo code states"},
+  {"ifi": 401,  "text": "Need your payment details"},
+  {"ifi": 403,  "text": "Need contacts"},
+  {"ifi": 405,  "text": "Waiting for all seedlings"},
+  {"ifi": 410,  "text": "Active"},
+  {"ifi": 450,  "text": "Agents troupe jar",  "note": "450-499 promo jar names, descr etc"},
+  {"ifi": 451,  "text": "Safely distributes crowdfunds to engineers and other professionals to grow the BomEbo"},
+  {"ifi": 452,  "text": "Gave you information and promo code"},
+  {"ifi": 453,  "text": "Raised several patrons"},
+  {"ifi": 454,  "text": "Masters teacher"},
+  {"ifi": 455,  "text": "Once confidently entered DC-MSPP. Now a rich man"},
+  {"ifi": 500,  "text": "Promo terms & rules",  "note": "500-599 promo big texts and links"},
+  {"ifi": 501,  "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/docs/en/promo1_tc.htm",  "notes": "promo 1 rules"},
+  {"ifi": 502,  "text": "Video instruction for Promo Agents"},
+  {"ifi": 503,  "text": "https://youtu.be/046kCknD-A4",  "notes": "promo 1 video for agents"},
+  {"ifi": 504,  "text": "Video instruction for Promo Managers"},
+  {"ifi": 505,  "text": "https://youtu.be/OCDh-bNxER8",  "notes": "promo 1 video for managers"},
   {"ifi": 506, "text": "Hi friends! I'd share with you the opportunity of a big but urgent sale/promo. Use the promo code {{promoCode}} in the BomEbo app: remote work in the app; fees from massage therapists. VERY EASY! Questions?"},
   {"ifi": 507, "text": "Hiring regional promo managers in a serious global system masseurs on-demand BomEBo. Fully remote job from the phone in the application. Salary from $2000 / month + 20% of the results of their wards promo agents. Paid weekly trial period. URGENT: only 1 manager per region with  1M population. My promo code {{promoCode}}. Ask me details after the video"},
   {"ifi": 508, "text": "Urgent JOB as a promo agent in my group in a serious global system for masseurs on-demand BomEbo. Fully remote from the phone in the application. Payment piecework but large directly to your account. I you will help with the start, train and support. My promo code {{promoCode}}"},
-  {
-    "ifi": 600,
-    "text": "Contact type",
-    "note": "600-699 contact types"
-  },
-  {
-    "ifi": 601,
-    "text": "Email"
-  },
-  {
-    "ifi": 2000,
-    "text": "Massage types",
-    "note": "from 2000 to 2499 are roles, specialisations, job types  names"
-  },
-  {
-    "ifi": 2001,
-    "text": "Thai massage"
-  },
-  {
-    "ifi": 2002,
-    "text": "Aroma therapy",
-    "note": "Aroma therapy is ..."
-  },
-  {
-    "ifi": 2003,
-    "text": "Sports massage",
-    "note": "Sports massage is ..."
-  },
-  {
-    "ifi": 2004,
-    "text": "Nerve Touch massage",
-    "note": "Nerve Touch massage is ..."
-  },
-  {
-    "ifi": 2005,
-    "text": "Prenatal massage",
-    "note": "Prenatal massage is ..."
-  },
-  {
-    "ifi": 2006,
-    "text": "Hot Stone massage",
-    "note": "Hot Stone massage is ..."
-  },
-  {
-    "ifi": 2007,
-    "text": "Office Syndrome massage",
-    "note": "Office Syndrome massage is ..."
-  },
-  {
-    "ifi": 2008,
-    "text": "Head, Back, Solder, Neck massage",
-    "note": "Head, Back, Solder, Neck massage is ..."
-  },
-  {
-    "ifi": 2009,
-    "text": "Face & body Spa",
-    "note": "Face & body Spa is ..."
-  },
-  {
-    "ifi": 2010,
-    "text": "Freestyle Art massage",
-    "note": "Freestyle Art massage is ..."
-  },
-  {
-    "ifi": 2201,
-    "text": "Thai massage is ...",
-    "note": "Job descriptions for job name ifi-200"
-  },
-  {
-    "ifi": 2202,
-    "text": "Aroma therapy is ..."
-  },
-  {
-    "ifi": 2203,
-    "text": "Sports massage is ..."
-  },
-  {
-    "ifi": 2204,
-    "text": "Nerve Touch massage is ..."
-  },
-  {
-    "ifi": 2205,
-    "text": "Prenatal massage is ..."
-  },
-  {
-    "ifi": 2206,
-    "text": "Hot Stone massage is ..."
-  },
-  {
-    "ifi": 2207,
-    "text": "Office Syndrome massage is ..."
-  },
-  {
-    "ifi": 2208,
-    "text": "Head, Back, Solder, Neck massage is ..."
-  },
-  {
-    "ifi": 2209,
-    "text": "Face & body Spa is ..."
-  },
-  {
-    "ifi": 2210,
-    "text": "Freestyle Art massage is ..."
-  },
-  {
-    "ifi": 3000,
-    "text": "Payment system",
-    "note": "3000-3499 bank and payment related"
-  },
-  {
-    "ifi": 3001,
-    "text": "Bank name"
-  },
-  {
-    "ifi": 3002,
-    "text": "Bank code"
-  },
-  {
-    "ifi": 3003,
-    "text": "Account number"
-  },
-  {
-    "ifi": 3004,
-    "text": "BSB"
-  },
-  {
-    "ifi": 3005,
-    "text": "Reference/notes for recipient"
-  },
-  {
-    "ifi": 3006,
-    "text": "Account holder"
-  },
-  {
-    "ifi": 3007,
-    "text": "BIK"
-  },
-  {
-    "ifi": 3008,
-    "text": "Full name"
-  },
-  {
-    "ifi": 3009,
-    "text": "Company name"
-  },
+  {"ifi": 600,  "text": "Contact type",  "note": "600-699 contact types"},
+  {"ifi": 601,  "text": "Email"},
+  {"ifi": 2000,  "text": "Massage types",  "note": "from 2000 to 2499 are roles, specialisations, job types  names"},
+  {"ifi": 2001,  "text": "Thai massage"},
+  {"ifi": 2002,  "text": "Aroma therapy",  "note": "Aroma therapy is ..."},
+  {"ifi": 2003,  "text": "Sports massage",  "note": "Sports massage is ..."},
+  {"ifi": 2004,  "text": "Nerve Touch massage",  "note": "Nerve Touch massage is ..."},
+  {"ifi": 2005,  "text": "Prenatal massage",  "note": "Prenatal massage is ..."},
+  {"ifi": 2006,  "text": "Hot Stone massage",  "note": "Hot Stone massage is ..."},
+  {"ifi": 2007,  "text": "Office Syndrome massage",  "note": "Office Syndrome massage is ..."},
+  {"ifi": 2008,  "text": "Head, Back, Solder, Neck massage",  "note": "Head, Back, Solder, Neck massage is ..."},
+  {"ifi": 2009,  "text": "Face & body Spa",  "note": "Face & body Spa is ..."},
+  {"ifi": 2010,  "text": "Freestyle Art massage",  "note": "Freestyle Art massage is ..."},
+  {"ifi": 2201,  "text": "Thai massage is ...",  "note": "Job descriptions for job name ifi-200"},
+  {"ifi": 2202,  "text": "Aroma therapy is ..."},
+  {"ifi": 2203,  "text": "Sports massage is ..."},
+  {"ifi": 2204,  "text": "Nerve Touch massage is ..."},
+  {"ifi": 2205,  "text": "Prenatal massage is ..."},
+  {"ifi": 2206,  "text": "Hot Stone massage is ..."},
+  {"ifi": 2207,  "text": "Office Syndrome massage is ..."},
+  {"ifi": 2208,  "text": "Head, Back, Solder, Neck massage is ..."},
+  {"ifi": 2209,  "text": "Face & body Spa is ..."},
+  {"ifi": 2210,  "text": "Freestyle Art massage is ..."},
+  {"ifi": 3000,  "text": "Payment system",  "note": "3000-3499 bank and payment related"},
+  {"ifi": 3001,  "text": "Bank name"},
+  {"ifi": 3002,  "text": "Bank code"},
+  {"ifi": 3003,  "text": "Account number"},
+  {"ifi": 3004,  "text": "BSB"},
+  {"ifi": 3005,  "text": "Reference/notes for recipient"},
+  {"ifi": 3006,  "text": "Account holder"},
+  {"ifi": 3007,  "text": "BIK"},
+  {"ifi": 3008,  "text": "Full name"},
+  {"ifi": 3009,  "text": "Company name"},
   {"ifi": 3010, "text": "Institution number"},
   {"ifi": 3011, "text": "Transit number"},
   {"ifi": 3012, "text": "Bank/Recipient address"},
@@ -1160,18 +306,8 @@
   {"ifi": 3015, "text": "Routing number"},
   {"ifi": 3016, "text": "Sort code"},
 
-  {
-    "ifi": 3400,
-    "text": "Cash",
-    "note": "3400-3499 payment system names"
-  },
-  {
-    "ifi": 3401,
-    "text": "Bank transfer"
-  },
-  {
-    "ifi": 3402,
-    "text": "Send to card"
-  },
+  {"ifi": 3400,  "text": "Cash",  "note": "3400-3499 payment system names"},
+  {"ifi": 3401,  "text": "Bank transfer"},
+  {"ifi": 3402,  "text": "Send to card"},
   {"ifi": 3403, "text": "GIRO, MEPS"}
 ]
