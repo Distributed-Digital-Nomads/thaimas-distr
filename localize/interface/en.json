@@ -92,6 +92,7 @@
   {"ifi": 90, "text": "NiXeL comes with iolService that:\n- makes all iol apps small and fast;\n- gives you access to over 60 cashless currency and all currency in cash;\n- easy log in to all iol apps with only registered account;\n- 24/7 multilingual support any iol app users;\n- and many more...\nTo proceed logging in you should have an account in the NiXeL app. Please, install it."},
   {"ifi": 91, "text": "New customer"},
   {"ifi": 92, "text": "New worker"},
+  {"ifi": 93, "text": "Image/Photo"},
   {"ifi": 100,  "text": "Main menu"},
   {"ifi": 101,  "text": "Log In with NiXeL",  "note": "from 100 to 199 about menu"},
   {"ifi": 102,  "text": "Log Out"},
