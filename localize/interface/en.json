@@ -93,6 +93,7 @@
   {"ifi": 91, "text": "New customer"},
   {"ifi": 92, "text": "New worker"},
   {"ifi": 93, "text": "Image/Photo"},
+  {"ifi": 94, "text": "Couldn't handle the photo. Try again"},
   {"ifi": 100,  "text": "Main menu"},
   {"ifi": 101,  "text": "Log In with NiXeL",  "note": "from 100 to 199 about menu"},
   {"ifi": 102,  "text": "Log Out"},
