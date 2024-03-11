@@ -1000,6 +1000,7 @@
     "ifi": 455,
     "text": "เมื่อเข้าสู่ DC-MSPP อย่างมั่นใจแล้ว ตอนนี้เป็นเศรษฐี"
   },
+	{"ifi": 456,  "text": "Are you ready to take a photo of the transfer/payment paper receipt or attach the electronic receipt?"},
   {
     "ifi": 500,
     "text": "ข้อกำหนดและกฎของโปรโมชั่น",

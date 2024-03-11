@@ -258,6 +258,7 @@
   {"ifi": 453,  "text": "Raised several patrons"},
   {"ifi": 454,  "text": "Masters teacher"},
   {"ifi": 455,  "text": "Once confidently entered DC-MSPP. Now a rich man"},
+	{"ifi": 456,  "text": "Are you ready to take a photo of the transfer/payment paper receipt or attach the electronic receipt?"},
   {"ifi": 500,  "text": "Promo terms & rules",  "note": "500-599 promo big texts and links"},
   {"ifi": 501,  "text": "https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/docs/en/promo1_tc.htm",  "notes": "promo 1 rules"},
   {"ifi": 502,  "text": "Video instruction for Promo Agents"},
