@@ -913,6 +913,7 @@
   },
   {"ifi": 279,  "text": "Add"},
   {"ifi": 280,  "text": "Make as main"},
+  {"ifi": 281,  "text": "Choose a smart order"},
   {
     "ifi": 300,
     "text": "สร้าง",

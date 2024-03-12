@@ -236,6 +236,7 @@
   {"ifi": 278,  "text": "Sorry, the app cannot show more than one map at the same time"},
   {"ifi": 279,  "text": "Add"},
   {"ifi": 280,  "text": "Make as main"},
+  {"ifi": 281,  "text": "Choose a smart order"},
   {"ifi": 300,  "text": "Created",  "note": "from 300 to 399 smart contract states"},
   {"ifi": 301,  "text": "Saved"},
   {"ifi": 305,  "text": "Signed by worker"},
