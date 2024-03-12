@@ -1,7 +1,7 @@
 [
   {"ifi": 0,  "text": " "},
   {"ifi": 1,  "text": "BomEbo"},
-  {"ifi": 2,  "text": "Thai Massage"},
+  {"ifi": 2,  "text": "Outcall massage"},
   {"ifi": 3,  "text": "OK"},
   {"ifi": 4,  "text": "Cancel"},
   {"ifi": 5,  "text": "Close"},
@@ -114,7 +114,6 @@
   {"ifi": 117,  "text": "Promo type"},
   {"ifi": 118,  "text": "Couldn't register a promo code for you, sorry. Please, try again later"},
   {"ifi": 119,  "text": "Your payment details"},
-  {"ifi": 120,  "text": "You will receive your promo agent incomes to the details"},
   {"ifi": 121,  "text": "Your seeding, total"},
   {"ifi": 122,  "text": "Your harvest"},
   {"ifi": 123,  "text": "Your own promo agent code for the promo campaign has been registered but it's still inactive. Nobody can use it as a promo code until you complete all the necessary steps and your promo code state is Active. Please, follow instruction and start earn with your promo code"},
