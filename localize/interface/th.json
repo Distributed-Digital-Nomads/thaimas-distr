@@ -955,6 +955,11 @@
     "ifi": 330,
     "text": "เสร็จแล้วชำระเงิน"
   },
+  {"ifi": 350,  "text": "Creating"},
+  {"ifi": 351,  "text": "Editing"},
+  {"ifi": 355,  "text": "Active in market"},
+  {"ifi": 360,  "text": "Paused/Inactive"},
+  {"ifi": 365,  "text": "Expired"},
   {
     "ifi": 400,
     "text": "สถานะ",
