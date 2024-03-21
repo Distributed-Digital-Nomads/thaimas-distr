@@ -15,7 +15,6 @@
     "srcs": ["https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/localize/interface/th.json"],
     "exclude": false
   },
-  ,
   {
     "isoCode": "tr",
     "localizeFileName": "tr",
