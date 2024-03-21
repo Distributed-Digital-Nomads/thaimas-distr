@@ -645,7 +645,7 @@
   },
   {
     "ifi": 212,
-    "text": "ฉันให้บริการพื้นที่"
+    "text": "I serve territory"
   },
   {
     "ifi": 213,
@@ -653,11 +653,11 @@
   },
   {
     "ifi": 214,
-    "text": "Territory"
+    "text": "Area"
   },
   {
     "ifi": 215,
-    "text": "กำหนดพื้นที่"
+    "text": "Set territory"
   },
   {
     "ifi": 216,
@@ -918,7 +918,7 @@
   {"ifi": 283,  "text": "Touch a vertex"},
   {"ifi": 284,  "text": "Add a vertex"},
   {"ifi": 285,  "text": "Remove a vertex"},
-  {"ifi": 286,  "text": "Ширина обслуживаемой территории не должна превышать {{width}} километров. Подкорректируйте территорию"},
+  {"ifi": 286,  "text": "Width of the service territory must be less than {{width}} kilometres. Please, correct the territory"},
   {
     "ifi": 300,
     "text": "สร้าง",
