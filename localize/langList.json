@@ -22,7 +22,7 @@
     "localName": "Türkçe",
     "srcs": ["https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/localize/interface/tr.json"],
     "exclude": true
-  }
+  },
   {
     "isoCode": "ru",
     "localizeFileName": "ru",
