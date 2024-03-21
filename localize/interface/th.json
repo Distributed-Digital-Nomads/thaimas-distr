@@ -914,6 +914,10 @@
   {"ifi": 279,  "text": "Add"},
   {"ifi": 280,  "text": "Make as main"},
   {"ifi": 281,  "text": "Choose a smart order"},
+  {"ifi": 282,  "text": "Touch a point the map"},
+  {"ifi": 283,  "text": "Touch a vertex"},
+  {"ifi": 284,  "text": "Add a vertex"},
+  {"ifi": 285,  "text": "Remove a vertex"},
   {
     "ifi": 300,
     "text": "สร้าง",
