@@ -653,7 +653,7 @@
   },
   {
     "ifi": 214,
-    "text": "Polygon"
+    "text": "Territory"
   },
   {
     "ifi": 215,
@@ -918,6 +918,7 @@
   {"ifi": 283,  "text": "Touch a vertex"},
   {"ifi": 284,  "text": "Add a vertex"},
   {"ifi": 285,  "text": "Remove a vertex"},
+  {"ifi": 286,  "text": "Ширина обслуживаемой территории не должна превышать {{width}} километров. Подкорректируйте территорию"},
   {
     "ifi": 300,
     "text": "สร้าง",
