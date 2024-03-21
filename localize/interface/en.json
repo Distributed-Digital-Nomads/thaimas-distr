@@ -169,7 +169,7 @@
   {"ifi": 211,  "text": "Price for 1 hour"},
   {"ifi": 212,  "text": "I serve area"},
   {"ifi": 213,  "text": "Center"},
-  {"ifi": 214,  "text": "Radius"},
+  {"ifi": 214,  "text": "Polygon"},
   {"ifi": 215,  "text": "Set area"},
   {"ifi": 216,  "text": "Payment options"},
   {"ifi": 217,  "text": "I give"},
