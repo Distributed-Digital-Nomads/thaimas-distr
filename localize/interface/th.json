@@ -914,7 +914,7 @@
   {"ifi": 279,  "text": "Add"},
   {"ifi": 280,  "text": "Make as main"},
   {"ifi": 281,  "text": "Choose a smart order"},
-  {"ifi": 282,  "text": "Touch a point the map"},
+  {"ifi": 282,  "text": "Touch a point on the map"},
   {"ifi": 283,  "text": "Touch a vertex"},
   {"ifi": 284,  "text": "Add a vertex"},
   {"ifi": 285,  "text": "Remove a vertex"},
@@ -960,7 +960,7 @@
     "ifi": 330,
     "text": "เสร็จแล้วชำระเงิน"
   },
-  {"ifi": 350,  "text": "Creating"},
+  {"ifi": 350,  "text": "New"},
   {"ifi": 351,  "text": "Editing"},
   {"ifi": 355,  "text": "Active in market"},
   {"ifi": 360,  "text": "Paused/Inactive"},
