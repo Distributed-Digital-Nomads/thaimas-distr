@@ -242,7 +242,7 @@
   {"ifi": 284,  "text": "Add a vertex"},
   {"ifi": 285,  "text": "Remove a vertex"},
   {"ifi": 286,  "text": "Width of the service territory must be less than {{width}} kilometres. Please, correct the territory"},
-  {"ifi": 287,  "text": "Anonymous requests may appear inconspicuous and, by many criteria, may not match when selecting offers for you. Also, push notifications will not be sent to you, so you need to periodically open the application to check the message list. It's better to log in and complete your profile. It will only take a couple of minutes."},
+  {"ifi": 287,  "text": "Anonymous orders/offers may appear inconspicuous and, by many criteria, may not match when selecting offers for you. Also, push notifications will not be sent to you, so you need to periodically open the application to check the message list. It's better to log in and complete your profile. It will only take a couple of minutes."},
   {"ifi": 300,  "text": "Created",  "note": "from 300 to 399 smart contract/order states"},
   {"ifi": 301,  "text": "Saved"},
   {"ifi": 305,  "text": "Signed by worker"},
