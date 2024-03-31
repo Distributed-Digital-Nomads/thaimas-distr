@@ -156,6 +156,8 @@
   {"ifi": 159, "text": "ON 3D hologram"},
   {"ifi": 160, "text": "Add language"},
   {"ifi": 161, "text": "https://youtu.be/Vr5TZUcp-dA"},
+  {"ifi": 162, "text": "My offers"},
+  {"ifi": 163, "text": "My orders"},
   {"ifi": 200,  "text": "Copied",  "note": "from 200 to 1999 any interface texts"},
   {"ifi": 201,  "text": "Already done"},
   {"ifi": 202,  "text": "Choose address"},
