@@ -357,6 +357,7 @@
   {"ifi": 92, "text": "New worker"},
   {"ifi": 93, "text": "Image/Photo"},
   {"ifi": 94, "text": "ไม่สามารถจัดการรูปภาพได้ ลองอีกครั้ง"},
+  {"ifi": 95, "text": "Show"},
   {
     "ifi": 100,
     "text": "เมนูหลัก"
