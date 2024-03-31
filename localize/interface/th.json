@@ -966,6 +966,7 @@
   {"ifi": 355,  "text": "Active in market"},
   {"ifi": 360,  "text": "Paused/Inactive"},
   {"ifi": 365,  "text": "Expired"},
+  {"ifi": 370,  "text": "Deleted"},
   {
     "ifi": 400,
     "text": "สถานะ",
