@@ -674,34 +674,13 @@
     "ifi": 218,
     "text": "ฉันยอมรับ"
   },
-  {
-    "ifi": 219,
-    "text": "ฉันสามารถจ่ายเงินสดได้"
-  },
-  {
-    "ifi": 220,
-    "text": "ฉันสามารถให้ IOU"
-  },
-  {
-    "ifi": 221,
-    "text": "ฉันสามารถให้ SINHRO"
-  },
-  {
-    "ifi": 222,
-    "text": "ฉันรับเงินสด"
-  },
-  {
-    "ifi": 223,
-    "text": "ฉันยอมรับการแลกเปลี่ยนกับ IOU"
-  },
-  {
-    "ifi": 224,
-    "text": "ฉันยอมรับการแลกเปลี่ยนกับ SINHRO"
-  },
-  {
-    "ifi": 225,
-    "text": "หากคุณไม่จ่ายเงินสด คุณต้องเข้าสู่ระบบ"
-  },
+  {"ifi": 219,  "text": "I can pay cash on hand"},
+  {"ifi": 220,  "text": "I can give IOU in NiXeL"},
+  {"ifi": 221,  "text": "I can give SINHRO in NiXeL"},
+  {"ifi": 222,  "text": "I accept cash on hand"},
+  {"ifi": 223,  "text": "I accept in exchange for IOU in NiXeL"},
+  {"ifi": 224,  "text": "I accept in exchange for SINHRO in NiXel"},
+  {"ifi": 225,  "text": "You must pay only cash on hand because you are not logged in or the FSP doesn't support chosen currency yet"},
   {
     "ifi": 226,
     "text": "ฉันจ่ายภาษี"
