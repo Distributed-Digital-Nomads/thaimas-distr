@@ -741,10 +741,7 @@
     "ifi": 240,
     "text": "กำหนดจุดที่อยู่"
   },
-  {
-    "ifi": 241,
-    "text": "ไม่พบที่อยู่สำหรับจุดนี้ BomEbo อนุญาตเฉพาะสถานที่ที่มีที่อยู่เท่านั้น กรุณาเลือกสถานที่อย่างระมัดระวัง"
-  },
+  {"ifi": 241,  "text": "No street address found for this point. Please, set address manually"},
   {
     "ifi": 242,
     "text": "ไม่พบสิ่งใด"

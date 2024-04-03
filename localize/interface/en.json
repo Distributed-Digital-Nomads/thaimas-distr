@@ -199,7 +199,7 @@
   {"ifi": 238,  "text": "Worker should come to"},
   {"ifi": 239,  "text": "Place point"},
   {"ifi": 240,  "text": "Set address point"},
-  {"ifi": 241,  "text": "No street address found for this point. BomEbo allows only places that have street address. Please, choose a place carefully"},
+  {"ifi": 241,  "text": "No street address found for this point. Please, set address manually"},
   {"ifi": 242,  "text": "Nothing found"},
   {"ifi": 243,  "text": "Job time"},
   {"ifi": 244,  "text": "Start date, time"},
