@@ -96,6 +96,8 @@
   {"ifi": 94, "text": "Couldn't handle the photo. Try again"},
   {"ifi": 95, "text": "Show"},
   {"ifi": 96, "text": "Undefined"},
+  {"ifi": 97, "text": "Anonymous"},
+  {"ifi": 98, "text": "Sign"},
   {"ifi": 100,  "text": "Main menu"},
   {"ifi": 101,  "text": "Log In with NiXeL",  "note": "from 100 to 199 about menu"},
   {"ifi": 102,  "text": "Log Out"},
