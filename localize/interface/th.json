@@ -358,6 +358,7 @@
   {"ifi": 96, "text": "Undefined"},
   {"ifi": 97, "text": "Anonymous"},
   {"ifi": 98, "text": "Sign"},
+  {"ifi": 99, "text": "Token"},
   {
     "ifi": 100,
     "text": "เมนูหลัก"
