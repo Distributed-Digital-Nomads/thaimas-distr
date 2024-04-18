@@ -261,22 +261,10 @@
     "ifi": 64,
     "text": "การปรับปรุงสัญญา"
   },
-  {
-    "ifi": 65,
-    "text": "ค่าธรรมเนียม"
-  },
-  {
-    "ifi": 66,
-    "text": "ค่าธรรมเนียม BomEbo"
-  },
-  {
-    "ifi": 67,
-    "text": "ค่าภาคหลวง"
-  },
-  {
-    "ifi": 68,
-    "text": "รวมถึงค่าธรรมเนียมสำหรับลูกค้า"
-  },
+  {"ifi": 65,  "text": "#########"},
+  {"ifi": 66,  "text": "#########"},
+  {"ifi": 67,  "text": "########"},
+  {"ifi": 68,  "text": "#######"},
   {
     "ifi": 69,
     "text": "คุณยืนยันการกระทำหรือไม่?"
@@ -848,10 +836,7 @@
     "ifi": 267,
     "text": "รายละเอียดของลูกค้าไม่สามารถหาได้จากแผนที่"
   },
-  {
-    "ifi": 268,
-    "text": "ค่าธรรมเนียมสำหรับลูกค้าจะรวมอยู่ในจำนวนเงินที่ชำระ"
-  },
+  {"ifi": 268,  "text": "Rating"},
   {
     "ifi": 269,
     "text": "ยืนยันการชำระเงิน"
@@ -860,10 +845,7 @@
     "ifi": 270,
     "text": "จำนวนเงินที่ต้องจ่าย"
   },
-  {
-    "ifi": 271,
-    "text": "ราคาต่อชั่วโมง: {{price}} \n Fees: {{fees}}% \n ระยะเวลางาน: {{duration}} ชั่วโมง \n ระยะเวลาจ่ายขั้นต่ำ: {{minDuration}} ชั่วโมง \n รวมที่ต้องจ่าย: {{totalSum}}"
-  },
+  {"ifi": 271,  "text": "##############"},
   {
     "ifi": 272,
     "text": "คุณจ่ายเงินแล้วหรือยัง?"
@@ -1212,5 +1194,36 @@
     "ifi": 3402,
     "text": "ส่งไปที่การ์ด"
   },
-  {"ifi": 3403, "text": "GIRO, MEPS"}
+  {"ifi": 3403, "text": "GIRO, MEPS"},
+  
+  
+  {"ifi": 3500, "text": "Measure", "note": "from 3500 to 4000 measures and unit related"},
+  {"ifi": 3501, "text": "millisecond"},
+  {"ifi": 3502, "text": "milliseconds"},
+  {"ifi": 3503, "text": "second"},
+  {"ifi": 3504, "text": "seconds"},
+  {"ifi": 3505, "text": "minute"},
+  {"ifi": 3506, "text": "minutes"},
+  {"ifi": 3507, "text": "hour"},
+  {"ifi": 3508, "text": "hours"},
+  {"ifi": 3509, "text": "day"},
+  {"ifi": 3510, "text": "days"},
+  {"ifi": 3511, "text": "week"},
+  {"ifi": 3512, "text": "weeks"},
+  {"ifi": 3513, "text": "month"},
+  {"ifi": 3514, "text": "months"},
+  {"ifi": 3515, "text": "year"},
+  {"ifi": 3516, "text": "years"},
+  {"ifi": 3517, "text": "meter"},
+  {"ifi": 3518, "text": "meters"},
+  {"ifi": 3519, "text": "kilometer"},
+  {"ifi": 3520, "text": "kilometers"},
+  
+  {"ifi": 4000, "text": "Fees", "note": "from 4000 to 4499 fee related"},
+  {"ifi": 4001, "text": "BomEbo stakeholders"},
+  {"ifi": 4002, "text": "BomEbo minimum"},
+  {"ifi": 4003, "text": "iol royalty"},
+  {"ifi": 4004, "text": "iol royalty minimum"},
+  {"ifi": 4005, "text": "Cancellation by customer"},
+  {"ifi": 4006, "text": "Cancellation by worker"}
 ]
