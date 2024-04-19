@@ -67,7 +67,7 @@
   {"ifi": 65,  "text": "Signed the contract"},
   {"ifi": 66,  "text": "final"},
   {"ifi": 67,  "text": "The final amount to pay will be recalculated according final job duration when the contract is cancelled or the job has been completed"},
-  {"ifi": 68,  "text": "#######"},
+  {"ifi": 68,  "text": "Reason in a few words"},
   {"ifi": 69,  "text": "Do you confirm the action?"},
   {"ifi": 70,  "text": "A new revision of the BomEbo app is available. Please, update the app"},
   {"ifi": 71,  "text": "Action history"},
