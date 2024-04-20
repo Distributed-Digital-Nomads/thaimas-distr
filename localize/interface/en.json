@@ -256,6 +256,7 @@
   {"ifi": 290,  "text": "Doesn't matter"},
   {"ifi": 291,  "text": "Couldn't find document(s) (Smart order/contract/invoice...). Maybe it was expired and deleted. Check the parameters"},
   {"ifi": 292,  "text": "You may receive the order as a new Smart contract again if the customer replaces the order on the market"},
+  {"ifi": 293,  "text": "min.", "note": "short for minimum"},
   {"ifi": 300,  "text": "Created",  "note": "from 300 to 399 smart contract/order states"},
   {"ifi": 301,  "text": "Saved"},
   {"ifi": 305,  "text": "Signed by worker"},
