@@ -887,7 +887,7 @@
   {"ifi": 289,  "text": "Masseurs gender"},
   {"ifi": 290,  "text": "Doesn't matter"},
   {"ifi": 291,  "text": "Couldn't find document(s) (Smart order/contract/invoice...). Maybe it was expired and deleted. Check the parameters"},
-  {"ifi": 292,  "text": "You may receive the order as a new Smart contract again if the customer changes the Smart order"},
+  {"ifi": 292,  "text": "You may receive the order as a new Smart contract again if the customer replaces the order on the market"},
   {
     "ifi": 300,
     "text": "สร้าง",
