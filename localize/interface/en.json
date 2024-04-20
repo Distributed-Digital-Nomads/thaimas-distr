@@ -254,6 +254,7 @@
   {"ifi": 288,  "text": "You will receive notifications for each massage therapist/customer that matches your order"},
   {"ifi": 289,  "text": "Masseurs gender"},
   {"ifi": 290,  "text": "Doesn't matter"},
+  {"ifi": 291,  "text": "Couldn't find document(s) (Smart order/contract/invoice...). Maybe it was expired and deleted. Check the parameters"},
   {"ifi": 300,  "text": "Created",  "note": "from 300 to 399 smart contract/order states"},
   {"ifi": 301,  "text": "Saved"},
   {"ifi": 305,  "text": "Signed by worker"},
