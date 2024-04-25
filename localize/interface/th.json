@@ -301,10 +301,7 @@
     "ifi": 77,
     "text": "คุณสมบัติกำลังจะมาเร็ว ๆ นี้ โปรดติดตามข่าวสารของเรา"
   },
-  {
-    "ifi": 78,
-    "text": "คุณเข้าสู่ระบบแล้ว รหัสส่งเสริมการขาย ข้อความ และคำสั่งของผู้ปฏิบัติงานโดยไม่ต้องเข้าสู่ระบบนั้นเชื่อมโยงกับบัญชีของคุณ และคุณสามารถเข้าถึงได้จากอุปกรณ์อื่นหลังจากเข้าสู่ระบบเท่านั้น"
-  },
+  {"ifi": 78,  "text": "You are logged in. Your promo codes, messages, orders and contracts without logging in have been linked to your account and you can access them from other devices only after log in"},
   {
     "ifi": 79,
     "text": "คุณเริ่มมีรายได้แล้ว เพื่อให้ประสบความสำเร็จในการรับรายได้ คุณต้องเข้าสู่ระบบ"
