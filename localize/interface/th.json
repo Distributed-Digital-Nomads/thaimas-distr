@@ -887,6 +887,7 @@
   {"ifi": 292,  "text": "You may receive the order as a new Smart contract again if the customer replaces the order on the market"},
   {"ifi": 293,  "text": "min.", "note": "short for minimum"},
   {"ifi": 294,  "text": "Future changes in related to the contract orders will not affect the terms of this contract"},
+  {"ifi": 295,  "text": "You cannot sign contracts with yourself"},
   {
     "ifi": 300,
     "text": "สร้าง",
