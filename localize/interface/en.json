@@ -70,7 +70,7 @@
   {"ifi": 68,  "text": "Reason in a few words"},
   {"ifi": 69,  "text": "Do you confirm the action?"},
   {"ifi": 70,  "text": "A new revision of the BomEbo app is available. Please, update the app"},
-  {"ifi": 71,  "text": "Action history"},
+  {"ifi": 71,  "text": "Action history (UTC time)"},
   {"ifi": 72,  "text": "Confirm"},
   {"ifi": 73,  "text": "Ready"},
   {"ifi": 74,  "text": "Cannot use the feature in this state"},
