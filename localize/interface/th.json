@@ -877,7 +877,7 @@
   {"ifi": 285,  "text": "Remove a vertex"},
   {"ifi": 286,  "text": "Width of the service territory must be less than {{width}} kilometres. Please, correct the territory"},
   {"ifi": 287,  "text": "Anonymous orders/offers may appear inconspicuous and, by many criteria, may not match when selecting offers for you. Also, push notifications will not be sent to you, so you need to periodically open the application to check the message list. It's better to log in and complete your profile. It will only take a couple of minutes."},
-  {"ifi": 288,  "text": "You will receive notifications for each massage therapist/customer that matches your order"},
+  {"ifi": 288,  "text": "You will receive notifications for each massage therapist/customer that matches your order/offer"},
   {"ifi": 289,  "text": "Masseurs gender"},
   {"ifi": 290,  "text": "Doesn't matter"},
   {"ifi": 291,  "text": "Couldn't find document(s) (Smart order/contract/invoice...). Maybe it was expired and deleted. Check the parameters"},
@@ -885,6 +885,8 @@
   {"ifi": 293,  "text": "min.", "note": "short for minimum"},
   {"ifi": 294,  "text": "Future changes in related to the contract orders will not affect the terms of this contract"},
   {"ifi": 295,  "text": "You cannot sign contracts with yourself"},
+  {"ifi": 296,  "text": "The contract has been sent to the customer. You will be notified when the customer accepted the contract"},
+  {"ifi": 297,  "text": "The contract has been sent to the worker. You will be notified when the worker accepted the contract"},
   {
     "ifi": 300,
     "text": "สร้าง",
