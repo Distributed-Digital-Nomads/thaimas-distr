@@ -885,8 +885,8 @@
   {"ifi": 293,  "text": "min.", "note": "short for minimum"},
   {"ifi": 294,  "text": "Future changes in related to the contract orders will not affect the terms of this contract"},
   {"ifi": 295,  "text": "You cannot sign contracts with yourself"},
-  {"ifi": 296,  "text": "The contract has been sent to the customer. You will be notified when the customer accepted the contract"},
-  {"ifi": 297,  "text": "The contract has been sent to the worker. You will be notified when the worker accepted the contract"},
+  {"ifi": 296,  "text": "The contract has been sent to the customer. You will be notified when the customer accepted (sign) the contract"},
+  {"ifi": 297,  "text": "The contract has been sent to the worker. You will be notified when the worker accepted the (sign) contract"},
   {
     "ifi": 300,
     "text": "สร้าง",
