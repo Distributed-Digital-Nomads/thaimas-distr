@@ -262,6 +262,7 @@
   {"ifi": 296,  "text": "The contract has been sent to the customer. You will be notified when the customer accepted (sign) the contract"},
   {"ifi": 297,  "text": "The contract has been sent to the worker. You will be notified when the worker accepted (sign) the contract"},
   {"ifi": 298,  "text": "Job"},
+  {"ifi": 299,  "text": "Your role"},
   {"ifi": 300,  "text": "Created",  "note": "from 300 to 399 smart contract/order states"},
   {"ifi": 301,  "text": "Saved"},
   {"ifi": 305,  "text": "Signed by worker"},
