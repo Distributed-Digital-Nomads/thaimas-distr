@@ -887,6 +887,7 @@
   {"ifi": 295,  "text": "You cannot sign contracts with yourself"},
   {"ifi": 296,  "text": "The contract has been sent to the customer. You will be notified when the customer accepted (sign) the contract"},
   {"ifi": 297,  "text": "The contract has been sent to the worker. You will be notified when the worker accepted the (sign) contract"},
+  {"ifi": 298,  "text": "Job"},
   {
     "ifi": 300,
     "text": "สร้าง",
