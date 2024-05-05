@@ -277,6 +277,7 @@
   {"ifi": 350,  "text": "New"},
   {"ifi": 351,  "text": "Editing"},
   {"ifi": 355,  "text": "Active in market"},
+  {"ifi": 357,  "text": "Got contract"},
   {"ifi": 360,  "text": "Paused/Inactive"},
   {"ifi": 365,  "text": "Expired"},
   {"ifi": 370,  "text": "Deleted"},
