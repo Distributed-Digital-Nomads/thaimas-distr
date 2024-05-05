@@ -225,10 +225,7 @@
     "ifi": 55,
     "text": "เลือกวิธีการชำระเงิน"
   },
-  {
-    "ifi": 56,
-    "text": "สกุลเงินใน NiXeL"
-  },
+  {"ifi": 56,  "text": "Instant pay in NiXeL app"},
   {
     "ifi": 57,
     "text": "สถานที่ทำงาน"
