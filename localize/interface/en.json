@@ -278,6 +278,7 @@
   {"ifi": 351,  "text": "Editing"},
   {"ifi": 355,  "text": "Active in market"},
   {"ifi": 357,  "text": "Signed a Smart contract"},
+  {"ifi": 358,  "text": "INACTIVE! Only Signed contract is cancelled"},
   {"ifi": 360,  "text": "Paused/Inactive"},
   {"ifi": 365,  "text": "Expired"},
   {"ifi": 370,  "text": "Deleted"},
