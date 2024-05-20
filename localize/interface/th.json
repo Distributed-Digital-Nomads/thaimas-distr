@@ -935,7 +935,7 @@
   {"ifi": 370,  "text": "Deleted"},
   {"ifi": 371,  "text": "Remove from market"},
   {"ifi": 372,  "text": "Delete Order"},
-  {"ifi": 399,  "text": "Your Smart documents like contracts, invoices are available in the NiXeL app"},
+  {"ifi": 399,  "text": "Your Smart documents like orders, contracts, invoices are available in the NiXeL app"},
   {
     "ifi": 400,
     "text": "สถานะ",
