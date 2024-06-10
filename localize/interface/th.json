@@ -661,7 +661,7 @@
   {"ifi": 222,  "text": "Cash on hand"},
   {"ifi": 223,  "text": "In exchange for IOU in NiXeL"},
   {"ifi": 224,  "text": "In exchange for SINHRO in NiXel"},
-  {"ifi": 225,  "text": "You can pay only cash on hand because you are not logged in or the FSP doesn't support chosen currency yet"},
+  {"ifi": 225,  "text": "You can pay only cash on hand (and IOU if logged in) because you are not logged in or the FSP doesn't support chosen currency yet"},
   {
     "ifi": 226,
     "text": "ฉันจ่ายภาษี"
