@@ -1040,6 +1040,7 @@
   {"ifi": 700,  "text": "Add an observer"},
   {"ifi": 701,  "text": "Remove the observer"},
   {"ifi": 702,  "text": "My observers"},
+  {"ifi": 703,  "text": "Maximum 10 observers"},
   {
     "ifi": 2000,
     "text": "ประเภทการนวด",
