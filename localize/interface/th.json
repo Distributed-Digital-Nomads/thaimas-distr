@@ -591,10 +591,7 @@
     "ifi": 202,
     "text": "เลือกที่อยู่"
   },
-  {
-    "ifi": 203,
-    "text": "การตั้งค่าความปลอดภัยทำให้คุณสามารถแบ่งปันตำแหน่งของคุณระหว่างงานกับผู้ใช้ที่คุณรวมไว้ในการตั้งค่าความปลอดภัย ผู้ใช้จะได้รับแจ้งเกี่ยวกับการเปลี่ยนแปลงสถานะงานของคุณ"
-  },
+  {"ifi": 203,  "text": "Safety settings allow you to share your location during job to the users (observers) that you include in the safety settings. The users will be notified about your job state changes. The observers must be the BomEbo users"},
   {
     "ifi": 204,
     "text": "เพิ่มผู้ใช้"
@@ -1040,6 +1037,8 @@
     "ifi": 601,
     "text": "อีเมล"
   },
+  {"ifi": 700,  "text": "Add an observer"},
+  {"ifi": 701,  "text": "Remove the observer"},
   {
     "ifi": 2000,
     "text": "ประเภทการนวด",
@@ -1218,10 +1217,10 @@
   {"ifi": 3514, "text": "months"},
   {"ifi": 3515, "text": "year"},
   {"ifi": 3516, "text": "years"},
-  {"ifi": 3517, "text": "meter"},
-  {"ifi": 3518, "text": "meters"},
-  {"ifi": 3519, "text": "kilometer"},
-  {"ifi": 3520, "text": "kilometers"},
+  {"ifi": 3517, "text": "metre"},
+  {"ifi": 3518, "text": "metres"},
+  {"ifi": 3519, "text": "kilometre"},
+  {"ifi": 3520, "text": "kilometres"},
   
   {"ifi": 4000, "text": "Fees", "note": "from 4000 to 4499 fee related"},
   {"ifi": 4001, "text": "BomEbo stakeholders"},
