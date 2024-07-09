@@ -318,6 +318,7 @@
   {"ifi": 702,  "text": "My observers"},
   {"ifi": 703,  "text": "Maximum 10 observers"},
   {"ifi": 704,  "text": "iol Username or Nickname in BomEbo"},
+  {"ifi": 705,  "text": "Find"},
   {"ifi": 2000,  "text": "Massage types",  "note": "from 2000 to 2499 are roles, specialisations, job types names"},
   {"ifi": 2001,  "text": "Thai massage"},
   {"ifi": 2002,  "text": "Aroma therapy",  "note": "Aroma therapy is ..."},
