@@ -1092,14 +1092,17 @@
     "ifi": 2009,
     "text": "СПА. Лицо и тело"
   },
+  {"ifi": 2010,  "text": "Thai Herbal Compress"},
+  {"ifi": 2011,  "text": "Deep Tissue Massage"},
+  {"ifi": 2012,  "text": "Reflexology Massage"},
   {
-    "ifi": 2010,
+    "ifi": 2013,
     "text": "Фристайл и Арт массаж"
   },
+  {"ifi": 2200,  "text": "Описание массажа",  "note": "Job descriptions for job name ifi-2000"},
   {
     "ifi": 2201,
-    "text": "Тай массаж это ...",
-    "note": "Job descriptions for job name ifi-200"
+    "text": "Тай массаж это ..."
   },
   {
     "ifi": 2202,
@@ -1133,8 +1136,11 @@
     "ifi": 2209,
     "text": "СПА. Лицо и тело это ..."
   },
+  {"ifi": 2210,  "text": "Thai Herbal Compress"},
+  {"ifi": 2211,  "text": "Deep Tissue Massage"},
+  {"ifi": 2212,  "text": "Reflexology Massage"},
   {
-    "ifi": 2210,
+    "ifi": 2213,
     "text": "Фристайл и Арт массаж это ..."
   },
   {
