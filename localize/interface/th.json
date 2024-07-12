@@ -1045,6 +1045,7 @@
   {"ifi": 705,  "text": "Find"},
   {"ifi": 706,  "text": "Worked"},
   {"ifi": 707,  "text": "As observer"},
+  {"ifi": 708,  "text": "Hidden"},
   {
     "ifi": 2000,
     "text": "ประเภทการนวด",
