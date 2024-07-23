@@ -235,7 +235,7 @@
   {"ifi": 269,  "text": "Confirm payment"},
   {"ifi": 270,  "text": "Amount to pay"},
   {"ifi": 271,  "text": "Duration"},
-  {"ifi": 272,  "text": "Have you paid already?"},
+  {"ifi": 272,  "text": "I got payment"},
   {"ifi": 273,  "text": "Has your service been paid?"},
   {"ifi": 274,  "text": "Distance"},
   {"ifi": 275,  "text": "Rate the contractor and leave feedback"},
