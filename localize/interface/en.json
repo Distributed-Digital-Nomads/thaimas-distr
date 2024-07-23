@@ -274,7 +274,7 @@
   {"ifi": 320,  "text": "Job is paused"},
   {"ifi": 325,  "text": "Completed and awaits payment"},
   {"ifi": 327,  "text": "Completed and awaits payment confirm from the worker"},
-  {"ifi": 330,  "text": "Completed and paid"},
+  {"ifi": 330,  "text": "Completed. Check invoices in the NiXeL"},
   {"ifi": 350,  "text": "New"},
   {"ifi": 351,  "text": "Editing"},
   {"ifi": 355,  "text": "Active in market"},
