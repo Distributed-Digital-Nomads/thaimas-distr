@@ -323,6 +323,7 @@
   {"ifi": 707,  "text": "As observer"},
   {"ifi": 708,  "text": "Hidden"},
   {"ifi": 709,  "text": "Worker can start the job no more than 5 minutes before Job start time on the Smart contract"},
+  {"ifi": 710,  "text": "Minimum"},
   {"ifi": 2000,  "text": "Massage types",  "note": "from 2000 to 2499 are roles, specialisations, job types names"},
   {"ifi": 2001,  "text": "Thai massage"},
   {"ifi": 2002,  "text": "Aroma therapy"},
