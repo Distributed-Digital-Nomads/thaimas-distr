@@ -1,1 +1,1 @@
-{"ed": 995, "name": "1.0", "environment": "js", "note": "The first production release. Open test", "must": 1}
+{"ed": 996, "name": "1.0", "environment": "js", "note": "Open test. Can require GPS location from NiXeL", "must": 1}
