@@ -277,7 +277,7 @@
   {"ifi": 330,  "text": "Completed. Check invoices in the NiXeL"},
   {"ifi": 350,  "text": "New"},
   {"ifi": 351,  "text": "Editing"},
-  {"ifi": 355,  "text": "Active in market"},
+  {"ifi": 355,  "text": "Active on the market"},
   {"ifi": 357,  "text": "Signed a Smart contract"},
   {"ifi": 358,  "text": "INACTIVE! Only Signed contract is cancelled"},
   {"ifi": 360,  "text": "Paused/Inactive"},
