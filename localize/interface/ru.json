@@ -1056,6 +1056,8 @@
   {"ifi": 712,  "text": "https://youtube.com/watch?v=i-0ifopwHuY&list=PLjwIP64KxSmpVGtDUiexJhou34WkmPztq&index=1"},
   {"ifi": 713,  "text": "Руководства пользователя"},
   {"ifi": 714,  "text": "https://youtube.com/playlist?list=PLjwIP64KxSmpVGtDUiexJhou34WkmPztq"},
+  {"ifi": 715,  "text": "Предложение с местоположением в центре територии обслуживания"},
+  {"ifi": 716,  "text": "Заказ с местоположением около 100-1000 метров от настоящего места работы"},
   {
     "ifi": 2000,
     "text": "Виды массажа",

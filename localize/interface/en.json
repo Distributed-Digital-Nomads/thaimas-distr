@@ -328,6 +328,8 @@
   {"ifi": 712,  "text": "https://youtube.com/watch?v=zUSq9NY7-Gs&list=PLjwIP64KxSmooIR7k1myxDd-3_4rKSp6a&index=1"},
   {"ifi": 713,  "text": "User tutorial"},
   {"ifi": 714,  "text": "https://youtube.com/playlist?list=PLjwIP64KxSmooIR7k1myxDd-3_4rKSp6a"},
+  {"ifi": 715,  "text": "Offer with location at the center of the service territory"},
+  {"ifi": 716,  "text": "Order with location about 100-1000 metres from the actual job place"},
   {"ifi": 2000,  "text": "Massage types",  "note": "from 2000 to 2499 are roles, specialisations, job types names"},
   {"ifi": 2001,  "text": "Thai massage"},
   {"ifi": 2002,  "text": "Aroma therapy"},
