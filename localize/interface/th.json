@@ -1633,5 +1633,8 @@
   {
     "ifi": 4008,
     "text": "รวมค่าธรรมเนียม"
-  }
+  },
+
+  {"ifi": 5000, "text": "Access denied", "note": "from 5000 to 5499 security related"},
+  {"ifi": 5001, "text": "ไม่สามารถเข้าถึงรูปภาพได้"}
 ]
