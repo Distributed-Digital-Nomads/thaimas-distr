@@ -1,1 +1,10 @@
-{"ed": 1002, "name": "Samira 15 (1.0)", "env": "js", "note": "Enhanced media protection, including document photos.", "must": 1}
+{
+  "ed": 1002, "name": "Samira 15 (1.0)", "env": "js",
+  "note": "Enhanced media protection, including document photos.",
+  "noteLoc": {
+    "en": "Enhanced media protection, including document photos.",
+    "ru": "Усилена защита медиа, включая фото документов.",
+    "th": "การปกป้องสื่อที่ได้รับการปรับปรุง รวมถึงภาพถ่ายเอกสาร"
+  },
+  "must": 1
+}
