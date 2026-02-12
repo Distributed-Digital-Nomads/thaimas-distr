@@ -1,3 +1,2 @@
-## Distributives and shares of the Thai Massage iol app
-
+## Distributives and shares of the BomEbo iol app for outcall massage businesses and their customers
 
