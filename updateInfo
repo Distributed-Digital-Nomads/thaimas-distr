@@ -1,10 +1,10 @@
 {
-  "ed": 1002, "name": "Samira 15 (1.0)", "env": "js",
-  "note": "Enhanced media protection, including document photos.",
+  "ed": 1006, "name": "Samira 15 (1.0)", "env": "js",
+  "note": "Enhanced media protection, including document photos. Fixes: Screen Edge-To-Edge issue on Android 15+.",
   "noteLoc": {
-    "en": "Enhanced media protection, including document photos.",
-    "ru": "Усилена защита медиа, включая фото документов.",
-    "th": "การปกป้องสื่อที่ได้รับการปรับปรุง รวมถึงภาพถ่ายเอกสาร"
+    "en": "Enhanced media protection, including document photos. Fixes: Screen Edge-To-Edge issue on Android 15+.",
+    "ru": "Усилена защита медиа, включая фото документов. Исправления: экран от края до края отображался на Android 15+.",
+    "th": "การปกป้องสื่อที่ได้รับการปรับปรุง รวมถึงภาพถ่ายเอกสาร การแก้ไข: ปัญหาขอบหน้าจอเต็มพื้นที่บน Android 15 ขึ้นไป"
   },
   "must": 1
 }
