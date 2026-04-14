@@ -1,10 +1,10 @@
 {
-  "ed": 1008, "name": "Samira 15 (1.0)", "env": "js",
-  "note": "Enhanced media protection, including document photos. Fixes: Screen Edge-To-Edge issue on Android 15+.",
+  "ed": 1009, "name": "Samira 15 (1.0)", "env": "js",
+  "note": "Fixes: home screen elements display",
   "noteLoc": {
-    "en": "Enhanced media protection, including document photos. Fixes: Screen Edge-To-Edge issue on Android 15+.",
-    "ru": "Усилена защита медиа, включая фото документов. Исправления: экран от края до края отображался на Android 15+.",
-    "th": "การปกป้องสื่อที่ได้รับการปรับปรุง รวมถึงภาพถ่ายเอกสาร การแก้ไข: ปัญหาขอบหน้าจอเต็มพื้นที่บน Android 15 ขึ้นไป"
+    "en": "Fixes: home screen elements display",
+    "ru": "Исправлено: отображение элементов главного экрана",
+    "th": "การแก้ไข: การแสดงผลองค์ประกอบบนหน้าจอหลัก"
   },
   "must": 1
 }
