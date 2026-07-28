@@ -30,5 +30,13 @@
     "localName": "Русский",
     "srcs": ["https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/localize/interface/ru.json"],
     "exclude": false
+  },
+  {
+    "isoCode": "ms",
+    "localizeFileName": "ms",
+    "englishName": "Malay",
+    "localName": "Bahasa Melayu",
+    "srcs": ["https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/localize/interface/ms.json"],
+    "exclude": false
   }
 ]
