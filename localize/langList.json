@@ -21,7 +21,7 @@
     "englishName": "Turkish",
     "localName": "Türkçe",
     "srcs": ["https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/localize/interface/tr.json"],
-    "exclude": true
+    "exclude": false
   },
   {
     "isoCode": "ru",
@@ -35,7 +35,7 @@
     "isoCode": "ms",
     "localizeFileName": "ms",
     "englishName": "Malay",
-    "localName": "Bahasa Melayu",
+    "localName": "Melayu (Bahasa)",
     "srcs": ["https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/localize/interface/ms.json"],
     "exclude": false
   }
