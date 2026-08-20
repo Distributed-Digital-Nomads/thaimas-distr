@@ -38,5 +38,13 @@
     "localName": "Melayu (Bahasa)",
     "srcs": ["https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/localize/interface/ms.json"],
     "exclude": false
+  },
+  {
+    "isoCode": "zh",
+    "localizeFileName": "zh",
+    "englishName": "Chinese (Simplified)",
+    "localName": "简体中文",
+    "srcs": ["https://raw.githubusercontent.com/Distributed-Digital-Nomads/thaimas-distr/main/localize/interface/zh.json"],
+    "exclude": false
   }
 ]
